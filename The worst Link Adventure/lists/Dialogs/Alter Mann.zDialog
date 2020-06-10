@@ -1,0 +1,105 @@
+{ID}3
+
+{next section}
+	{speaker name}Alter Mann
+	{text}Oh...               $enterGuten Tag.
+	{text}Wie kommst du hier rein? Hab ich etwa die Tür offen gelassen?
+	{text}Naja, du scheinst mir, trotz dass du hier einfach so reinplatzt, ein anständiger junger Mann zu sein.
+	{text}Du befindest dich hier in den Wäldern von Emasin.
+	{text}Ein sehr friedlicher Ort, da du hier nur durch ein Tor hinein oder hinaus kommst.Zum Glück ist dies aber verschlossen.
+	{text}Dies hält all die Kreaturen fern, die dieser Gegend schaden könnten.
+	{text}Der Schlüssel ist gut versteckt. Also such erst gar nicht danach.
+	{text}Aber da du hier rein gekommen bist, musst du wohl viel im Köpfchen haben.
+	{text}Das passt gerade sehr gut! Wie du siehst bin ich nicht mehr der Jüngste.
+	{text}Ich bräuchte nämlich deine Hilfe, und zwar brauche ich einen speziellen Pilz!
+	{text}Dieser liegt in einer Kiste im Wald,etwas weiter Links neben einer Lichtung.
+	{do question}PilzFrage
+	{quest command}speak-3-0
+{next section}
+	{requirement}speak-3-0
+	{speaker name}Alter Mann
+	{do question}erneutePilzFrage
+{next section}
+	{requirement}speak-3-0
+	{requirement}yesToMushroom
+	{speaker name}Alter Mann
+	{do question}hastDuDenPilz1
+{next section}
+	{requirement}speak-3-0
+	{requirement}found-51
+	{speaker name}Alter Mann
+	{do question}hastDuDenPilz2
+{next section}
+	{requirement}speak-3-1
+	{speaker name}Alter Mann
+	{do question}Schlüssel
+{end sections}
+
+{question}PilzFrage
+	{question text}Könntest du ihn für mich holen? Es springt auch was für dich dabei raus!
+	{answer}Ja
+		{speaker name}Alter Mann
+		{text}Das ist schön, ich wusste das du der Richtige bist!
+		{quest command}yesToMushroom
+	{answer}Nein
+		{speaker name}Alter Mann
+		{text}Mhh, schade, muss ich mein Schwert wohl als Feuerholz verwenden.
+{end question}
+
+{question}erneutePilzFrage
+	{question text}Ich wusste das du wiederkommst!Könntest du mir nun den Pilz bringen?
+	{answer}Ja
+		{speaker name}Alter Mann
+		{text}Das ist schön, ich wusste das du der Richtige bist!
+		{quest command}yesToMushroom
+	{answer}Nein
+		{speaker name}Alter Mann
+		{text}Mhh, schade, muss ich mein Schwert wohl als Feuerholz verwenden.
+{end question}
+
+{question}hastDuDenPilz1
+	{question text}Hast du den Pilz gefunden?
+	{answer}Nein
+		{speaker name}Alter Mann
+		{text}Dann los, ich hab nicht den ganzen Tag Zeit!
+	{answer}Wo?
+		{speaker name}Alter Mann
+		{text}Er müsste sich in einer Kiste links von einer Lichtung hier in der Nähe befinden.
+{end question}
+
+{question}hastDuDenPilz2
+	{question text}Hast du den Pilz gefunden?
+	{answer}Ja
+		{speaker name}Alter Mann
+		{text}Danke! Jetzt kann ich meine Pilzsuppe machen.
+		{text}Hier, nimm das!
+		{text}Hast du dir verdient!
+		{command}give 6 1
+		{speaker name}Tutorial
+		{text color} 255,255,0,255
+		{text}Du hast soeben dein erstes Schwert bekommen!
+		{text}Drücke "E" um dein Inventar zu öffnen und navigiere dich anschließend mithilfe der Pfeiltasten zu dem Schwert.
+		{text}Bestätige dann deine Auswahl mit Enter.
+		{text}Danach hast du dein Schwert ausgerüstet und kannst das Inventar mit Escape verlassen.
+		{text}Nun willst du bestimmt auch wissen wie man mit diesem Schwert umgeht, oder?
+		{text}Drücke einfach die Leertaste! So führst du ein Schwerthieb aus!
+		{text color} 255,255,255,255
+		{speaker name}Tutorial
+		{quest command}speak-3-1
+	{answer}Nein
+		{speaker name}Alter Mann
+		{text}Dann los, ich hab nicht den ganzen Tag Zeit!
+{end question}
+
+{question}Schlüssel
+	{question text}Na, Hast du noch fragen?
+	{answer}Schlüssel?
+		{speaker name}Alter Mann
+		{text}Den Schlüssel hab ich versteckt.
+		{text}Er liegt an einem dunklem Ort, zugewachsen von Pflanzen.
+		{text}Such nicht danach, du wirst ihn eh nicht finden!
+	{answer}See?
+		{speaker name}Alter Mann
+		{text}Es heisst, dass in diesem See eine Fee der Liebe wohnen soll!
+		{text}Das glaube ich aber nicht. Ich wohne hier schon seit 43 Jahren und hab sie noch nie gesehn.
+{end question}

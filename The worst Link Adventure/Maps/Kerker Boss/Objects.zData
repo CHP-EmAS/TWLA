@@ -1,0 +1,5 @@
+{trigger}0,10,8,0,0,doDialog 997
+{cmdDoor}1,10,11,NONE;
+{cmdDoor}2,11,11,NONE;
+{portal}3,10,12,Schloss Kerker,15
+{portal}4,11,12,Schloss Kerker,15

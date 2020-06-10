@@ -1,0 +1,114 @@
+{teleporter}0,12,16,10
+{teleporter}1,10,63,2
+{teleporter}2,18,63,3
+{teleporter}3,19,85,5
+{teleporter}4,30,85,7
+{teleporter}5,19,60,13
+{teleporter}6,30,60,14
+{teleporter}7,38,33,9
+{teleporter}8,43,73,4
+{teleporter}9,35,20,8
+{teleporter}10,34,64,1
+{cmdDoor}11,14,9,button1,button2;
+{teleporter}12,12,8,6
+{button}13,18,47,doObjectCmd add:button1 11,doObjectCmd remove:button1 11,0,0
+{button}14,30,47,doObjectCmd add:button2 11,doObjectCmd remove:button2 11,0,0
+{key_stone}15,8,18,0,997
+{chest}16,2,23,-1,997
+{chest}17,43,7,-1,996
+{key_stone}18,41,68,0,996
+{key_stone}19,28,88,0,995
+{chest}20,26,64,-1,26
+{portal}21,11,70,Schloss Vorhof,3
+{portal}22,12,70,Schloss Vorhof,3
+{portal}23,37,70,Schloss Vorhof,2
+{portal}24,38,70,Schloss Vorhof,2
+{portal}25,24,90,Schloss Vorhof,4
+{portal}26,25,90,Schloss Vorhof,4
+{portal}27,24,36,Schloss Vorhof,1
+{portal}28,25,36,Schloss Vorhof,1
+{jar}29,34,26,4
+{jar}30,35,26,4
+{jar}31,37,26,4
+{jar}32,36,26,4
+{jar}33,37,28,2
+{jar}34,36,28,2
+{jar}35,35,28,2
+{jar}36,34,28,2
+{jar}37,37,30,1
+{jar}38,36,30,1
+{jar}39,35,30,1
+{jar}40,34,30,1
+{jar}41,40,11,-1
+{jar}42,7,7,-1
+{jar}43,2,14,-1
+{jar}44,2,20,-1
+{jar}45,3,20,-1
+{jar}46,14,21,-1
+{jar}47,16,28,-1
+{jar}48,11,33,-1
+{jar}49,37,60,-1
+{jar}50,38,60,-1
+{jar}51,11,60,-1
+{jar}52,12,60,-1
+{jar}53,22,63,-1
+{jar}54,31,64,-1
+{jar}55,27,85,-1
+{break}56,13,21,
+{break}57,43,6,
+{break}58,42,6,
+{break}59,41,6,
+{break}60,40,6,
+{break}61,39,6,
+{break}62,38,6,
+{break}63,37,6,
+{break}64,37,7,
+{break}65,37,8,
+{break}66,37,9,
+{break}67,37,10,
+{break}68,37,11,
+{break}69,37,12,
+{break}70,37,13,
+{break}71,37,14,
+{break}72,37,15,
+{break}73,37,16,
+{break}74,39,14,
+{break}75,39,15,
+{break}76,39,13,
+{break}77,39,12,
+{break}78,40,12,
+{break}79,41,12,
+{break}80,41,11,
+{break}81,41,10,
+{break}82,40,10,
+{break}83,39,10,
+{break}84,38,10,
+{break}85,41,16,
+{break}86,41,15,
+{break}87,41,14,
+{break}88,42,14,
+{break}89,43,14,
+{break}90,44,14,
+{break}91,45,14,
+{break}92,46,14,
+{break}93,43,16,
+{break}94,44,16,
+{break}95,45,16,
+{break}96,46,16,
+{break}97,47,16,
+{break}98,48,16,
+{break}99,48,15,
+{break}100,48,14,
+{break}101,48,13,
+{break}102,43,12,
+{break}103,43,11,
+{break}104,43,10,
+{break}105,43,9,
+{break}106,43,8,
+{break}107,42,8,
+{break}108,41,8,
+{break}109,40,8,
+{break}110,39,8,
+{break}111,38,26,
+{break}112,33,28,
+{break}113,38,30,

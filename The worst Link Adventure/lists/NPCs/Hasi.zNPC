@@ -1,0 +1,11 @@
+{ID}9
+{name}Hasi
+
+{tileset}1
+{cutSizeX}16
+{cutSizeY}16
+{cutPosX}20
+{cutPosY}4
+
+{interactable}1
+{dialogID}996

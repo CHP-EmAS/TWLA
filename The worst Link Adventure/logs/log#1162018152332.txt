@@ -1,0 +1,219 @@
+[NEW]- Neuer Screen_Manager wurde erstellt! (011E89A8)
+[INFO]- Debug = ON
+
+[INFO]- Nowendige Manager werden geladen
+
+[NEW]- Neuer Command_Manager wurde erstellt! (0A7EE440)
+[NEW]- Neuer Graphic_Manager wurde erstellt! (0A7EFFE8)
+
+[INFO]- Tilesets werden geladen...
+[CHECK]- People Tileset wurde erfolgreich geladen!
+[CHECK]- Overworld Tileset wurde erfolgreich geladen!
+[CHECK]- Baum Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Burg Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Kerker Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Lava Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Schloss Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Turm Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wasser Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wuesten Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Haus Tileset wurde erfolgreich geladen!
+[CHECK]- Schattenwelt Tileset wurde erfolgreich geladen!
+
+[INFO]- Sonstige Grafiken werden geladen...
+[CHECK]- Explosions Grafiken wurde erfolgreich geladen!
+[CHECK]- Wasser-Animation wurde erfolgreich geladen!
+[CHECK]- Lava-Animation wurde erfolgreich geladen!
+
+[INFO]- Schriftarten werden geladen...
+[CHECK]- Schriftart Arial wurde erfolgreich geladen!
+[CHECK]- Schriftart Pixel wurde erfolgreich geladen!
+
+[CHECK]- Midna Texture wurde erfolgreich geladen!
+[CHECK]- Midna Texture 2 wurde erfolgreich geladen!
+[NEW]- Neuer Animation_Manager wurde erstellt! (0A870AD0)
+[NEW]- Neuer Particle_Manager wurde erstellet! (0A870818)
+[NEW]- Neuer Sound_Manager wurde erstellt! (0A8F8CE0)
+
+[INFO]- Menü-Screen wird gestartet
+[CHECK]- Der Screen <13> wurde sicher gelöscht!
+
+[INFO]- Savegame-Selector-Screen wird gestartet
+[INFO]- Spielstände werden gesucht...
+
+[INFO]- Spielstand <save#1162018133210> gefunden!
+[NEW]- Neuer Map_Manager wurde erstellet! (1079ECC8)
+Name: PikachuLink
+Datum: 11.6.2018 13:32
+Max. Leben: 4
+Leben: 1.8
+Max. Energy: 650
+Energy: 650
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1162018143553> gefunden!
+Name: PikachuLink
+Datum: 11.6.2018 14:35
+Max. Leben: 4
+Leben: 4
+Max. Energy: 650
+Energy: 49
+Edelsteine: 7
+
+[INFO]- Spielstand <save#1162018151342> gefunden!
+Name: LOL
+Datum: 11.6.2018 15:13
+Max. Leben: 4
+Leben: 3
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- Spielstand <save#3152018204026> gefunden!
+Name: EmAS
+Datum: 31.5.2018 20:40
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- ||||||************ Spiel wird gestartet! ************||||||
+[INFO]- Version: 1.1 Stable
+
+[INFO]- Items werden geladen
+[NEW]- Neue Item_List wurde erstellt! (0AB582C8)
+
+[INFO]- Nowendige Spiel-Manager werden geladen
+[NEW]- Neuer Message_Manager wurde erstellt! (1080D608)
+[INFO]- Es wurden 17 Dialoge gefunden!
+[NEW]- Neuer Dialog_Manager wurde erstellt! (107CA918)
+[NEW]- Neuer Weapon_Manager wurde erstellet! (107CAA20)
+[NEW]- Neuer NPC_Manager wurde erstellet! (107CAC00)
+[NEW]- Neuer NPC wurde erstellt! (107CB038)
+[NEW]- Neuer Enemy wurde erstellt! (107CB390)
+[INFO]- Es wurden 12 NPCs gefunden!
+[NEW]- Collision System wurde erstellt! (107CD088)
+[INFO]- Quests werden geladen...
+[NEW]- Quest <lists/Quests/ahnenbaum.zQuest> wird erstellt!
+[CHECK]- Quest Nicht nur ein Baum (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/dreiFragmente.zQuest> wird erstellt!
+[CHECK]- Quest Drei Fragmente! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/hasiQuest.zQuest> wird erstellt!
+[CHECK]- Quest Finde Hasi! (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Letzter Schritt.zQuest> wird erstellt!
+[CHECK]- Quest Letzte Schritte! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/mushroomQuest.zQuest> wird erstellt!
+[CHECK]- Quest Pilzsuppe (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/rettung .zQuest> wird erstellt!
+[CHECK]- Quest Rettung! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/seltsamesRelikt.zQuest> wird erstellt!
+[CHECK]- Quest Abwehr des Lichtes (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/sesam öffne dich.zQuest> wird erstellt!
+[CHECK]- Quest Sesam öffne dich! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Valac.zQuest> wird erstellt!
+[CHECK]- Quest Besige Valac (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/wegAusWald.zQuest> wird erstellt!
+[CHECK]- Quest Der Schlüssel (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/werBinIch.zQuest> wird erstellt!
+[CHECK]- Quest Wer bin Ich? (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/zünder.zQuest> wird erstellt!
+[CHECK]- Quest Zünder (0,0) wurde geladen.
+[NEW]- Neuer Quest_Manager wurde erstellet! (107CD0E8)
+[NEW]- Neuer Inventory_Manager wurde erstellt! (107D4078)
+[NEW]- Neuer Player_Manager wurde erstellet! (107CEF08)
+
+[INFO]- Map <Sebara Boss> wird geladen...
+
+[NEW]- Neue Map <Maps/Sebara Boss> wird erstellt! (0A7E22F8) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Sebara Boss
+ - ID: 995
+ - Size: 20,20
+ - Tileset: 9
+ - Background Music: CONTINUE
+ - Light-Level: 5
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (107DD078,X:6,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (107DD630,X:13,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (107DDA50,X:13,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (107DEE20,X:6,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (107DF240,X:11,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (107DCE58,X:12,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (107DF778,X:13,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (107DFB20,X:12,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (107DFEC8,X:13,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (107E0270,X:9,Y:10)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 400 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 320,320
+
+[INFO]- NPCs werden erstellt...
+[NEW]- Neuer Enemy wurde erstellt! (107E0428)
+
+[CHECK]- Map <Sebara Boss> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (107DE5A8 - p)
+[INFO]- Player-TP: 320,320
+[CHECK]- Der Screen <6> wurde sicher gelöscht!
+[INFO]- Player-TP: 367,384
+[CHECK]- Dialog: 9997 wird ausgeführt!
+[NEW]- Animation erstellt - (10751C78)
+[NEW]- Animation erstellt - (03F4B7E8)
+[DELETE]- Animation gelöscht - (10751C78)
+[NEW]- Animation erstellt - (107529A0)
+[DELETE]- Animation gelöscht - (03F4B7E8)
+[NEW]- Animation erstellt - (107512D0)
+[DELETE]- Animation gelöscht - (107529A0)
+[NEW]- Animation erstellt - (1074DE90)
+[NEW]- Animation erstellt - (0A8FC768)
+[DELETE]- Animation gelöscht - (107512D0)
+Bitte geben sie ein Befehl ein!
+[INFO]- Map <Sebara Boss> wird gelöscht!
+[DELETE]- Ein Objekt wurde geloescht!	(107DD078)
+[DELETE]- Ein Objekt wurde geloescht!	(107DD630)
+[DELETE]- Ein Objekt wurde geloescht!	(107DDA50)
+[DELETE]- Ein Objekt wurde geloescht!	(107DEE20)
+[DELETE]- Ein Objekt wurde geloescht!	(107DF240)
+[DELETE]- Ein Objekt wurde geloescht!	(107DCE58)
+[DELETE]- Ein Objekt wurde geloescht!	(107DF778)
+[DELETE]- Ein Objekt wurde geloescht!	(107DFB20)
+[DELETE]- Ein Objekt wurde geloescht!	(107DFEC8)
+[DELETE]- Ein Objekt wurde geloescht!	(107E0270)
+[DELETE]- Ein Objekt wurde geloescht!	(107DE5A8)
+[DELETE]- Map <Sebara Boss> wurde geloescht!	(0A7E22F8)
+[DELETE]- Ein Enemy wurde geloescht!	(107E0428)
+[DELETE]- Animation gelöscht - (1074DE90)
+[DELETE]- Animation gelöscht - (0A8FC768)
+
+[INFO]- Map <Sebara Wueste> wird geladen...
+
+[NEW]- Neue Map <Maps/Sebara Wueste> wird erstellt! (10751C28) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Sebara Wüste
+ - ID: 3
+ - Size: 50,50
+ - Tileset: 0
+ - Background Music: Music/King Dice.ogg
+ - Light-Level: 5
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (10791E80,X:29,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (107D9EE8,X:30,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (107DA088,X:38,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (0A882140,X:32,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (0A8822E0,X:43,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (0A8FC038,X:35,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (0A8FC1D8,X:30,Y:3)
+[NEW]- Neue Objekt wurde erstellt! (10790FE0,X:22,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (10791180,X:20,Y:4)
+[NEW]- Neue Objekt wurde erstellt! (0A8FC4E8,X:15,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (0A8FC688,X:11,Y:3)
+[NEW]- Neue Objekt wurde erstellt! (107E2710,X:6,Y:4)
+[NEW]- Neue Objekt wurde erstellt! (107E28B0,X:4,Y:2)
+[NEW]- Neue Objekt w

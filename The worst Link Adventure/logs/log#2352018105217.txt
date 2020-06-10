@@ -1,0 +1,700 @@
+[NEW]- Neuer Screen_Manager wurde erstellt! (006C12B0)
+[INFO]- Debug = ON
+
+[INFO]- Nowendige Manager werden geladen
+
+[NEW]- Neuer Command_Manager wurde erstellt! (09C8C058)
+[NEW]- Neuer Graphic_Manager wurde erstellt! (09C8D7E0)
+
+[INFO]- Tilesets werden geladen...
+[CHECK]- People Tileset wurde erfolgreich geladen!
+[CHECK]- Overworld Tileset wurde erfolgreich geladen!
+[CHECK]- Baum Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Burg Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Kerker Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Lava Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Schloss Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Turm Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wasser Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wuesten Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Haus Tileset wurde erfolgreich geladen!
+[CHECK]- Schattenwelt Tileset wurde erfolgreich geladen!
+
+[INFO]- Sonstige Grafiken werden geladen...
+[CHECK]- Explosions Grafiken wurde erfolgreich geladen!
+[CHECK]- Wasser-Animation wurde erfolgreich geladen!
+[CHECK]- Lava-Animation wurde erfolgreich geladen!
+
+[INFO]- Schriftarten werden geladen...
+[CHECK]- Schriftart Arial wurde erfolgreich geladen!
+[CHECK]- Schriftart Pixel wurde erfolgreich geladen!
+
+[CHECK]- Midna Texture wurde erfolgreich geladen!
+[CHECK]- Midna Texture 2 wurde erfolgreich geladen!
+[NEW]- Neuer Animation_Manager wurde erstellt! (09CAD0F0)
+[NEW]- Neuer Particle_Manager wurde erstellet! (09CAD1C8)
+[NEW]- Neuer Sound_Manager wurde erstellt! (09CCF488)
+
+[INFO]- Menü-Screen wird gestartet
+[CHECK]- Der Screen <13> wurde sicher gelöscht!
+
+[INFO]- Options-Screen wird gestartet
+[CHECK]- Der Screen <4> wurde sicher gelöscht!
+
+[INFO]- Savegame-Selector-Screen wird gestartet
+[INFO]- Spielstände werden gesucht...
+
+[INFO]- Spielstand <save#852018154633> gefunden!
+[NEW]- Neuer Map_Manager wurde erstellet! (100A1DB8)
+Name: PikachuLink
+Datum: 8.5.2018 15:46
+Max. Leben: 4
+Leben: 4
+Max. Energy: 650
+Energy: 368
+Edelsteine: 0
+[CHECK]- Der Screen <6> wurde sicher gelöscht!
+
+[INFO]- Savegame-Selector-Screen wird gestartet
+[INFO]- Spielstände werden gesucht...
+
+[INFO]- Spielstand <save#852018154633> gefunden!
+Name: PikachuLink
+Datum: 8.5.2018 15:46
+Max. Leben: 4
+Leben: 4
+Max. Energy: 650
+Energy: 368
+Edelsteine: 0
+
+[INFO]- ||||||************ Spiel wird gestartet! ************||||||
+[INFO]- Version: 1.1 Stable
+
+[INFO]- Items werden geladen
+[NEW]- Neue Item_List wurde erstellt! (09C7E458)
+
+[INFO]- Nowendige Spiel-Manager werden geladen
+[NEW]- Neuer Message_Manager wurde erstellt! (09FF9718)
+[INFO]- Es wurden 17 Dialoge gefunden!
+[NEW]- Neuer Dialog_Manager wurde erstellt! (100D9110)
+[NEW]- Neuer Weapon_Manager wurde erstellet! (100D9218)
+[NEW]- Neuer NPC_Manager wurde erstellet! (100D93F8)
+[NEW]- Neuer NPC wurde erstellt! (100D9830)
+[NEW]- Neuer Enemy wurde erstellt! (100D9B88)
+[INFO]- Es wurden 12 NPCs gefunden!
+[NEW]- Collision System wurde erstellt! (100DB880)
+[INFO]- Quests werden geladen...
+[NEW]- Quest <lists/Quests/ahnenbaum.zQuest> wird erstellt!
+[CHECK]- Quest Nicht nur ein Baum (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/dreiFragmente.zQuest> wird erstellt!
+[CHECK]- Quest Drei Fragmente! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/hasiQuest.zQuest> wird erstellt!
+[CHECK]- Quest Finde Hasi! (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Letzter Schritt.zQuest> wird erstellt!
+[CHECK]- Quest Letzte Schritte! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/mushroomQuest.zQuest> wird erstellt!
+[CHECK]- Quest Pilzsuppe (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/rettung .zQuest> wird erstellt!
+[CHECK]- Quest Rettung! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/seltsamesRelikt.zQuest> wird erstellt!
+[CHECK]- Quest Abwehr des Lichtes (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/sesam öffne dich.zQuest> wird erstellt!
+[CHECK]- Quest Sesam öffne dich! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Valac.zQuest> wird erstellt!
+[CHECK]- Quest Besige Valac (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/wegAusWald.zQuest> wird erstellt!
+[CHECK]- Quest Der Schlüssel (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/werBinIch.zQuest> wird erstellt!
+[CHECK]- Quest Wer bin Ich? (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/zünder.zQuest> wird erstellt!
+[CHECK]- Quest Zünder (0,0) wurde geladen.
+[NEW]- Neuer Quest_Manager wurde erstellet! (100DB8E0)
+[NEW]- Neuer Inventory_Manager wurde erstellt! (100E2870)
+[NEW]- Neuer Player_Manager wurde erstellet! (100DD700)
+
+[INFO]- Map <Wald von Emasin> wird geladen...
+
+[NEW]- Neue Map <Maps/Wald von Emasin> wird erstellt! (09C81358) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Wald von Emasin
+ - ID: 4
+ - Size: 100,100
+ - Tileset: 0
+ - Background Music: Music/Lost Forest.ogg
+ - Light-Level: 3
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (10127148,X:23,Y:89)
+[NEW]- Neue Objekt wurde erstellt! (101272E8,X:19,Y:89)
+[NEW]- Neue Objekt wurde erstellt! (101274D0,X:64,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (101276D8,X:54,Y:72)
+[NEW]- Neue Objekt wurde erstellt! (101278D8,X:8,Y:74)
+[NEW]- Neue Objekt wurde erstellt! (10127B90,X:47,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (10127EB8,X:10,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (1012D330,X:10,Y:69)
+[NEW]- Neue Objekt wurde erstellt! (1012D4C8,X:21,Y:68)
+[NEW]- Neue Objekt wurde erstellt! (1012D660,X:10,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (1012D7F8,X:10,Y:76)
+[NEW]- Neue Objekt wurde erstellt! (1012D990,X:10,Y:77)
+[NEW]- Neue Objekt wurde erstellt! (1012DB28,X:10,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (1012DCC0,X:9,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (1012DEA0,X:8,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (1012E080,X:8,Y:81)
+[NEW]- Neue Objekt wurde erstellt! (1012E2A8,X:29,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (1012E4F0,X:30,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (1012E738,X:57,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (1012E8D0,X:19,Y:71)
+[NEW]- Neue Objekt wurde erstellt! (1012EAB0,X:24,Y:82)
+[NEW]- Neue Objekt wurde erstellt! (1012EC90,X:56,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (1012EE70,X:54,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (1012F050,X:84,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (1012F230,X:85,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (1012F410,X:53,Y:44)
+[NEW]- Neue Objekt wurde erstellt! (1012F5F0,X:50,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (1012F7D0,X:61,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (1012F9B0,X:69,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (1012FBD8,X:85,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (1012FE20,X:32,Y:80)
+[NEW]- Neue Objekt wurde erstellt! (1012FFB8,X:19,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (101301E0,X:63,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (10130428,X:55,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (101305C0,X:45,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (101307A8,X:45,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (10130990,X:15,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (10130B70,X:14,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (10130D50,X:14,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (10130F30,X:14,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (10131110,X:16,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (101312F0,X:17,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (101314D0,X:18,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (101316B0,X:18,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (10131890,X:17,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (10131A70,X:17,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (10131C50,X:15,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (10131E30,X:16,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (10132010,X:17,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (101321F0,X:12,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (101323D0,X:12,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (101325B0,X:12,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (10132790,X:13,Y:56)
+[NEW]- Neue Objekt wurde erstellt! (10132970,X:13,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (10132B50,X:14,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (10132D30,X:13,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (10132F10,X:17,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (101330F0,X:18,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (101332D0,X:16,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (101334B0,X:18,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (101336D8,X:12,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (10133928,X:85,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (10133AC0,X:86,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (10133CA0,X:85,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (10133E80,X:85,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (10134060,X:85,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (10134240,X:84,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (10134420,X:86,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (10134600,X:83,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (101347E0,X:87,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (10134BA0,X:47,Y:79)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 10000 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 1488,2864
+ - Spawnpoint: 2048,1376
+ - Spawnpoint: 2016,1216
+ - Spawnpoint: 2720,2080
+ - Spawnpoint: 943,1865
+
+[INFO]- NPCs werden erstellt...
+
+[CHECK]- Map <Wald von Emasin> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (10128170 - p)
+[INFO]- Player-TP: 1488,2864
+[CHECK]- Der Screen <6> wurde sicher gelöscht!
+[INFO]- Player-TP: 1506,2535
+Bitte geben sie ein Befehl ein!
+[INFO]- Map <Wald von Emasin> wird gelöscht!
+[DELETE]- Ein Objekt wurde geloescht!	(10127148)
+[DELETE]- Ein Objekt wurde geloescht!	(101272E8)
+[DELETE]- Ein Objekt wurde geloescht!	(101274D0)
+[DELETE]- Ein Objekt wurde geloescht!	(101276D8)
+[DELETE]- Ein Objekt wurde geloescht!	(101278D8)
+[DELETE]- Ein Objekt wurde geloescht!	(10127B90)
+[DELETE]- Ein Objekt wurde geloescht!	(10127EB8)
+[DELETE]- Ein Objekt wurde geloescht!	(1012D330)
+[DELETE]- Ein Objekt wurde geloescht!	(1012D4C8)
+[DELETE]- Ein Objekt wurde geloescht!	(1012D660)
+[DELETE]- Ein Objekt wurde geloescht!	(1012D7F8)
+[DELETE]- Ein Objekt wurde geloescht!	(1012D990)
+[DELETE]- Ein Objekt wurde geloescht!	(1012DB28)
+[DELETE]- Ein Objekt wurde geloescht!	(1012DCC0)
+[DELETE]- Ein Objekt wurde geloescht!	(1012DEA0)
+[DELETE]- Ein Objekt wurde geloescht!	(1012E080)
+[DELETE]- Ein Objekt wurde geloescht!	(1012E2A8)
+[DELETE]- Ein Objekt wurde geloescht!	(1012E4F0)
+[DELETE]- Ein Objekt wurde geloescht!	(1012E738)
+[DELETE]- Ein Objekt wurde geloescht!	(1012E8D0)
+[DELETE]- Ein Objekt wurde geloescht!	(1012EAB0)
+[DELETE]- Ein Objekt wurde geloescht!	(1012EC90)
+[DELETE]- Ein Objekt wurde geloescht!	(1012EE70)
+[DELETE]- Ein Objekt wurde geloescht!	(1012F050)
+[DELETE]- Ein Objekt wurde geloescht!	(1012F230)
+[DELETE]- Ein Objekt wurde geloescht!	(1012F410)
+[DELETE]- Ein Objekt wurde geloescht!	(1012F5F0)
+[DELETE]- Ein Objekt wurde geloescht!	(1012F7D0)
+[DELETE]- Ein Objekt wurde geloescht!	(1012F9B0)
+[DELETE]- Ein Objekt wurde geloescht!	(1012FBD8)
+[DELETE]- Ein Objekt wurde geloescht!	(1012FE20)
+[DELETE]- Ein Objekt wurde geloescht!	(1012FFB8)
+[DELETE]- Ein Objekt wurde geloescht!	(101301E0)
+[DELETE]- Ein Objekt wurde geloescht!	(10130428)
+[DELETE]- Ein Objekt wurde geloescht!	(101305C0)
+[DELETE]- Ein Objekt wurde geloescht!	(101307A8)
+[DELETE]- Ein Objekt wurde geloescht!	(10130990)
+[DELETE]- Ein Objekt wurde geloescht!	(10130B70)
+[DELETE]- Ein Objekt wurde geloescht!	(10130D50)
+[DELETE]- Ein Objekt wurde geloescht!	(10130F30)
+[DELETE]- Ein Objekt wurde geloescht!	(10131110)
+[DELETE]- Ein Objekt wurde geloescht!	(101312F0)
+[DELETE]- Ein Objekt wurde geloescht!	(101314D0)
+[DELETE]- Ein Objekt wurde geloescht!	(101316B0)
+[DELETE]- Ein Objekt wurde geloescht!	(10131890)
+[DELETE]- Ein Objekt wurde geloescht!	(10131A70)
+[DELETE]- Ein Objekt wurde geloescht!	(10131C50)
+[DELETE]- Ein Objekt wurde geloescht!	(10131E30)
+[DELETE]- Ein Objekt wurde geloescht!	(10132010)
+[DELETE]- Ein Objekt wurde geloescht!	(101321F0)
+[DELETE]- Ein Objekt wurde geloescht!	(101323D0)
+[DELETE]- Ein Objekt wurde geloescht!	(101325B0)
+[DELETE]- Ein Objekt wurde geloescht!	(10132790)
+[DELETE]- Ein Objekt wurde geloescht!	(10132970)
+[DELETE]- Ein Objekt wurde geloescht!	(10132B50)
+[DELETE]- Ein Objekt wurde geloescht!	(10132D30)
+[DELETE]- Ein Objekt wurde geloescht!	(10132F10)
+[DELETE]- Ein Objekt wurde geloescht!	(101330F0)
+[DELETE]- Ein Objekt wurde geloescht!	(101332D0)
+[DELETE]- Ein Objekt wurde geloescht!	(101334B0)
+[DELETE]- Ein Objekt wurde geloescht!	(101336D8)
+[DELETE]- Ein Objekt wurde geloescht!	(10133928)
+[DELETE]- Ein Objekt wurde geloescht!	(10133AC0)
+[DELETE]- Ein Objekt wurde geloescht!	(10133CA0)
+[DELETE]- Ein Objekt wurde geloescht!	(10133E80)
+[DELETE]- Ein Objekt wurde geloescht!	(10134060)
+[DELETE]- Ein Objekt wurde geloescht!	(10134240)
+[DELETE]- Ein Objekt wurde geloescht!	(10134420)
+[DELETE]- Ein Objekt wurde geloescht!	(10134600)
+[DELETE]- Ein Objekt wurde geloescht!	(101347E0)
+[DELETE]- Ein Objekt wurde geloescht!	(10134BA0)
+[DELETE]- Ein Objekt wurde geloescht!	(10128170)
+[DELETE]- Map <Wald von Emasin> wurde geloescht!	(09C81358)
+
+[INFO]- Map <Sebara Wueste> wird geladen...
+
+[NEW]- Neue Map <Maps/Sebara Wueste> wird erstellt! (10127B90) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Sebara Wüste
+ - ID: 3
+ - Size: 50,50
+ - Tileset: 0
+ - Background Music: Music/King Dice.ogg
+ - Light-Level: 5
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (101ADAA0,X:29,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (101ADC40,X:30,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (101ADDE0,X:38,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (101ADF80,X:32,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (101AE120,X:43,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (101AE2C0,X:35,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (101AE4A8,X:30,Y:3)
+[NEW]- Neue Objekt wurde erstellt! (101AE690,X:22,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (101AE878,X:20,Y:4)
+[NEW]- Neue Objekt wurde erstellt! (1004F560,X:15,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (1004F700,X:11,Y:3)
+[NEW]- Neue Objekt wurde erstellt! (1004F8E8,X:6,Y:4)
+[NEW]- Neue Objekt wurde erstellt! (1004FAD0,X:4,Y:2)
+[NEW]- Neue Objekt wurde erstellt! (1004FCB8,X:12,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (1004FEA0,X:13,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (10050088,X:21,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (10050270,X:29,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (10050458,X:37,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (10050640,X:34,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (10050828,X:27,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (10050A10,X:23,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (10050BF8,X:29,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (10050DE0,X:37,Y:46)
+[NEW]- Neue Objekt wurde erstellt! (10050FC8,X:41,Y:43)
+[NEW]- Neue Objekt wurde erstellt! (100511B0,X:45,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (10051398,X:43,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (10051580,X:23,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (10051768,X:19,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (10051950,X:31,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (10051B30,X:34,Y:25)
+[NEW]- Neue Objekt wurde erstellt! (10051D10,X:37,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (10051EF0,X:16,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (100520D0,X:6,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (100522B0,X:18,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (10052490,X:14,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (100820F0,X:16,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (100822D0,X:14,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (100824B0,X:15,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (10082690,X:17,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (10082870,X:18,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (10082A98,X:14,Y:5)
+[NEW]- Neue Objekt wurde erstellt! (10082CE0,X:15,Y:5)
+[NEW]- Neue Objekt wurde erstellt! (10082F28,X:16,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (10083170,X:13,Y:29)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 2500 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 463,207
+ - Spawnpoint: 416,963
+ - Spawnpoint: 513,1223
+
+[INFO]- NPCs werden erstellt...
+
+[CHECK]- Map <Sebara Wüste> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (09C89068 - p)
+[INFO]- Player-TP: 463,207
+[WARNING]- Datei <Savegames/save#852018154633/maps/3.zData> konnte nicht geöffnet werden!
+[INFO]- Spiel wird gespeichert!
+
+[INFO]- Pause-Screen wird gestartet
+[CHECK]- Der Screen <3> wurde sicher gelöscht!
+Schaden: 0.15
+Leben: 3.85
+[NEW]- Animation erstellt - (09CE4670)
+[DELETE]- Animation gelöscht - (09CE4670)
+Schaden: 0.15
+Leben: 3.7
+[NEW]- Animation erstellt - (09CE4670)
+[NEW]- Animation erstellt - (101284E0)
+[NEW]- Animation erstellt - (101B1758)
+[DELETE]- Animation gelöscht - (101B1758)
+[DELETE]- Animation gelöscht - (101284E0)
+[DELETE]- Animation gelöscht - (09CE4670)
+[NEW]- Animation erstellt - (09C89200)
+[NEW]- Animation erstellt - (10046858)
+[DELETE]- Animation gelöscht - (10046858)
+[DELETE]- Animation gelöscht - (09C89200)
+Bitte geben sie ein Befehl ein!
+
+[INFO]- Pause-Screen wird gestartet
+[CHECK]- Der Screen <3> wurde sicher gelöscht!
+[INFO]- Map <Sebara Wüste> wird gelöscht!
+[DELETE]- Ein Objekt wurde geloescht!	(101ADAA0)
+[DELETE]- Ein Objekt wurde geloescht!	(101ADC40)
+[DELETE]- Ein Objekt wurde geloescht!	(101ADDE0)
+[DELETE]- Ein Objekt wurde geloescht!	(101ADF80)
+[DELETE]- Ein Objekt wurde geloescht!	(101AE120)
+[DELETE]- Ein Objekt wurde geloescht!	(101AE2C0)
+[DELETE]- Ein Objekt wurde geloescht!	(101AE4A8)
+[DELETE]- Ein Objekt wurde geloescht!	(101AE690)
+[DELETE]- Ein Objekt wurde geloescht!	(101AE878)
+[DELETE]- Ein Objekt wurde geloescht!	(1004F560)
+[DELETE]- Ein Objekt wurde geloescht!	(1004F700)
+[DELETE]- Ein Objekt wurde geloescht!	(1004F8E8)
+[DELETE]- Ein Objekt wurde geloescht!	(1004FAD0)
+[DELETE]- Ein Objekt wurde geloescht!	(1004FCB8)
+[DELETE]- Ein Objekt wurde geloescht!	(1004FEA0)
+[DELETE]- Ein Objekt wurde geloescht!	(10050088)
+[DELETE]- Ein Objekt wurde geloescht!	(10050270)
+[DELETE]- Ein Objekt wurde geloescht!	(10050458)
+[DELETE]- Ein Objekt wurde geloescht!	(10050640)
+[DELETE]- Ein Objekt wurde geloescht!	(10050828)
+[DELETE]- Ein Objekt wurde geloescht!	(10050A10)
+[DELETE]- Ein Objekt wurde geloescht!	(10050BF8)
+[DELETE]- Ein Objekt wurde geloescht!	(10050DE0)
+[DELETE]- Ein Objekt wurde geloescht!	(10050FC8)
+[DELETE]- Ein Objekt wurde geloescht!	(100511B0)
+[DELETE]- Ein Objekt wurde geloescht!	(10051398)
+[DELETE]- Ein Objekt wurde geloescht!	(10051580)
+[DELETE]- Ein Objekt wurde geloescht!	(10051768)
+[DELETE]- Ein Objekt wurde geloescht!	(10051950)
+[DELETE]- Ein Objekt wurde geloescht!	(10051B30)
+[DELETE]- Ein Objekt wurde geloescht!	(10051D10)
+[DELETE]- Ein Objekt wurde geloescht!	(10051EF0)
+[DELETE]- Ein Objekt wurde geloescht!	(100520D0)
+[DELETE]- Ein Objekt wurde geloescht!	(100522B0)
+[DELETE]- Ein Objekt wurde geloescht!	(10052490)
+[DELETE]- Ein Objekt wurde geloescht!	(100820F0)
+[DELETE]- Ein Objekt wurde geloescht!	(100822D0)
+[DELETE]- Ein Objekt wurde geloescht!	(100824B0)
+[DELETE]- Ein Objekt wurde geloescht!	(10082690)
+[DELETE]- Ein Objekt wurde geloescht!	(10082870)
+[DELETE]- Ein Objekt wurde geloescht!	(10082A98)
+[DELETE]- Ein Objekt wurde geloescht!	(10082CE0)
+[DELETE]- Ein Objekt wurde geloescht!	(10082F28)
+[DELETE]- Ein Objekt wurde geloescht!	(10083170)
+[DELETE]- Ein Objekt wurde geloescht!	(09C89068)
+[DELETE]- Map <Sebara Wüste> wurde geloescht!	(10127B90)
+
+[INFO]- Map <Sebara Dungeon> wird geladen...
+
+[NEW]- Neue Map <Maps/Sebara Dungeon> wird erstellt! (101B14B8) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Sebara Dungeon
+ - ID: 9
+ - Size: 50,100
+ - Tileset: 9
+ - Background Music: Music/Dungeon Theme.ogg
+ - Light-Level: 3
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (100C6D30,X:19,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (100CBFD0,X:17,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (09C7F760,X:35,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (09C7F9A0,X:35,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (10233028,X:35,Y:69)
+[NEW]- Neue Objekt wurde erstellt! (102333B8,X:35,Y:72)
+[NEW]- Neue Objekt wurde erstellt! (101AAD58,X:35,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (09CD3438,X:35,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (09CD36D8,X:35,Y:81)
+[NEW]- Neue Objekt wurde erstellt! (09C88B78,X:35,Y:84)
+[NEW]- Neue Objekt wurde erstellt! (09C88E60,X:28,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (09C88FF8,X:28,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (100E8768,X:18,Y:81)
+[NEW]- Neue Objekt wurde erstellt! (09C81248,X:29,Y:81)
+[NEW]- Neue Objekt wurde erstellt! (100E8908,X:43,Y:5)
+[NEW]- Neue Objekt wurde erstellt! (100E8AA8,X:45,Y:4)
+[NEW]- Neue Objekt wurde erstellt! (09CD7DB8,X:28,Y:84)
+[NEW]- Neue Objekt wurde erstellt! (09CD7BC8,X:24,Y:49)
+[NEW]- Neue Objekt wurde erstellt! (03358AE8,X:25,Y:49)
+[NEW]- Neue Objekt wurde erstellt! (09CD0B88,X:28,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (09CD0D28,X:28,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (09CD0EC8,X:6,Y:2)
+[NEW]- Neue Objekt wurde erstellt! (09CD1068,X:16,Y:2)
+[NEW]- Neue Objekt wurde erstellt! (100A1668,X:26,Y:2)
+[NEW]- Neue Objekt wurde erstellt! (100A1808,X:22,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (100A19A8,X:27,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (100A1B48,X:22,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (0338A590,X:23,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (0338A730,X:24,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (0338A8D0,X:25,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (0338AA70,X:26,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (10089538,X:27,Y:78)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 5000 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 785,1514
+ - Spawnpoint: 928,1952
+ - Spawnpoint: 864,288
+ - Spawnpoint: 896,2592
+ - Spawnpoint: 896,2688
+
+[INFO]- NPCs werden erstellt...
+[NEW]- Neuer Enemy wurde erstellt! (100FA8F8)
+[NEW]- Neuer Enemy wurde erstellt! (100F5EF8)
+
+[CHECK]- Map <Sebara Dungeon> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (100FA588 - p)
+[INFO]- Player-TP: 928,1952
+[WARNING]- Datei <Savegames/save#852018154633/maps/9.zData> konnte nicht geöffnet werden!
+[INFO]- Spiel wird gespeichert!
+[INFO]- Map <Sebara Dungeon> wird gelöscht!
+[DELETE]- Ein Objekt wurde geloescht!	(100C6D30)
+[DELETE]- Ein Objekt wurde geloescht!	(100CBFD0)
+[DELETE]- Ein Objekt wurde geloescht!	(09C7F760)
+[DELETE]- Ein Objekt wurde geloescht!	(09C7F9A0)
+[DELETE]- Ein Objekt wurde geloescht!	(10233028)
+[DELETE]- Ein Objekt wurde geloescht!	(102333B8)
+[DELETE]- Ein Objekt wurde geloescht!	(101AAD58)
+[DELETE]- Ein Objekt wurde geloescht!	(09CD3438)
+[DELETE]- Ein Objekt wurde geloescht!	(09CD36D8)
+[DELETE]- Ein Objekt wurde geloescht!	(09C88B78)
+[DELETE]- Ein Objekt wurde geloescht!	(09C88E60)
+[DELETE]- Ein Objekt wurde geloescht!	(09C88FF8)
+[DELETE]- Ein Objekt wurde geloescht!	(100E8768)
+[DELETE]- Ein Objekt wurde geloescht!	(09C81248)
+[DELETE]- Ein Objekt wurde geloescht!	(100E8908)
+[DELETE]- Ein Objekt wurde geloescht!	(100E8AA8)
+[DELETE]- Ein Objekt wurde geloescht!	(09CD7DB8)
+[DELETE]- Ein Objekt wurde geloescht!	(09CD7BC8)
+[DELETE]- Ein Objekt wurde geloescht!	(03358AE8)
+[DELETE]- Ein Objekt wurde geloescht!	(09CD0B88)
+[DELETE]- Ein Objekt wurde geloescht!	(09CD0D28)
+[DELETE]- Ein Objekt wurde geloescht!	(09CD0EC8)
+[DELETE]- Ein Objekt wurde geloescht!	(09CD1068)
+[DELETE]- Ein Objekt wurde geloescht!	(100A1668)
+[DELETE]- Ein Objekt wurde geloescht!	(100A1808)
+[DELETE]- Ein Objekt wurde geloescht!	(100A19A8)
+[DELETE]- Ein Objekt wurde geloescht!	(100A1B48)
+[DELETE]- Ein Objekt wurde geloescht!	(0338A590)
+[DELETE]- Ein Objekt wurde geloescht!	(0338A730)
+[DELETE]- Ein Objekt wurde geloescht!	(0338A8D0)
+[DELETE]- Ein Objekt wurde geloescht!	(0338AA70)
+[DELETE]- Ein Objekt wurde geloescht!	(10089538)
+[DELETE]- Ein Objekt wurde geloescht!	(100FA588)
+[DELETE]- Map <Sebara Dungeon> wurde geloescht!	(101B14B8)
+[DELETE]- Ein Enemy wurde geloescht!	(100FA8F8)
+[DELETE]- Ein Enemy wurde geloescht!	(100F5EF8)
+
+[INFO]- Map <Sebara Wueste> wird geladen...
+
+[NEW]- Neue Map <Maps/Sebara Wueste> wird erstellt! (100E73E0) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Sebara Wüste
+ - ID: 3
+ - Size: 50,50
+ - Tileset: 0
+ - Background Music: Music/King Dice.ogg
+ - Light-Level: 5
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (10233C98,X:29,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (10233E38,X:30,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (1012C010,X:38,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (1012C1B0,X:32,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (100E78A8,X:43,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (100E7A48,X:35,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (10082F40,X:30,Y:3)
+[NEW]- Neue Objekt wurde erstellt! (100830E0,X:22,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (100825E0,X:20,Y:4)
+[NEW]- Neue Objekt wurde erstellt! (10082780,X:15,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (10158228,X:11,Y:3)
+[NEW]- Neue Objekt wurde erstellt! (101583C8,X:6,Y:4)
+[NEW]- Neue Objekt wurde erstellt! (1012C9F0,X:4,Y:2)
+[NEW]- Neue Objekt wurde erstellt! (1012CB90,X:12,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (0072B5D0,X:13,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (0072B770,X:21,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (09C87388,X:29,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (09C87528,X:37,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (101AF6D0,X:34,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (101AF870,X:27,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (09E118B8,X:23,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (09E11A58,X:29,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (09E11BF8,X:37,Y:46)
+[NEW]- Neue Objekt wurde erstellt! (09E11D98,X:41,Y:43)
+[NEW]- Neue Objekt wurde erstellt! (10090328,X:45,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (100904C8,X:43,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (10090668,X:23,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (10090808,X:19,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (100909A8,X:31,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (10090B40,X:34,Y:25)
+[NEW]- Neue Objekt wurde erstellt! (10090CD8,X:37,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (10090E70,X:16,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (10091008,X:6,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (100911A0,X:18,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (10091338,X:14,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (100914D0,X:16,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (10091668,X:14,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (10091800,X:15,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (10091998,X:17,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (10091B30,X:18,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (10091D10,X:14,Y:5)
+[NEW]- Neue Objekt wurde erstellt! (10091F58,X:15,Y:5)
+[NEW]- Neue Objekt wurde erstellt! (100921A0,X:16,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (09FF7168,X:13,Y:29)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 2500 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 463,207
+ - Spawnpoint: 416,963
+ - Spawnpoint: 513,1223
+
+[INFO]- NPCs werden erstellt...
+
+[CHECK]- Map <Sebara Wüste> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (100FA248 - p)
+[INFO]- Player-TP: 513,1223
+[INFO]- Spiel wird gespeichert!
+Bitte geben sie ein Befehl ein!
+Quest-Command: found-100
+[CHECK]- Dialog: 2 wird ausgeführt!
+Quest-Command: speak-2-1
+[INFO]- Quest <Drei Fragmente!> wurde entdeckt!
+Quest-Command: qProgress-3
+[INFO]- Quest <Wer bin Ich?> wurde abgeschlossen!
+Quest-Command: qSolved-5
+[INFO]- Quest <Besige Valac> wurde entdeckt!
+Quest-Command: qProgress-9
+Quest-Command: found-100
+
+[INFO]- Beenden!
+
+[DELETE]- Message_Manager wurde geloescht!	(09FF9718)
+[DELETE]- Dialog_Manager wurde geloescht!	(100D9110)
+[DELETE]- Ein Objekt wurde geloescht!	(10233C98)
+[DELETE]- Ein Objekt wurde geloescht!	(10233E38)
+[DELETE]- Ein Objekt wurde geloescht!	(1012C010)
+[DELETE]- Ein Objekt wurde geloescht!	(1012C1B0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E78A8)
+[DELETE]- Ein Objekt wurde geloescht!	(100E7A48)
+[DELETE]- Ein Objekt wurde geloescht!	(10082F40)
+[DELETE]- Ein Objekt wurde geloescht!	(100830E0)
+[DELETE]- Ein Objekt wurde geloescht!	(100825E0)
+[DELETE]- Ein Objekt wurde geloescht!	(10082780)
+[DELETE]- Ein Objekt wurde geloescht!	(10158228)
+[DELETE]- Ein Objekt wurde geloescht!	(101583C8)
+[DELETE]- Ein Objekt wurde geloescht!	(1012C9F0)
+[DELETE]- Ein Objekt wurde geloescht!	(1012CB90)
+[DELETE]- Ein Objekt wurde geloescht!	(0072B5D0)
+[DELETE]- Ein Objekt wurde geloescht!	(0072B770)
+[DELETE]- Ein Objekt wurde geloescht!	(09C87388)
+[DELETE]- Ein Objekt wurde geloescht!	(09C87528)
+[DELETE]- Ein Objekt wurde geloescht!	(101AF6D0)
+[DELETE]- Ein Objekt wurde geloescht!	(101AF870)
+[DELETE]- Ein Objekt wurde geloescht!	(09E118B8)
+[DELETE]- Ein Objekt wurde geloescht!	(09E11A58)
+[DELETE]- Ein Objekt wurde geloescht!	(09E11BF8)
+[DELETE]- Ein Objekt wurde geloescht!	(09E11D98)
+[DELETE]- Ein Objekt wurde geloescht!	(10090328)
+[DELETE]- Ein Objekt wurde geloescht!	(100904C8)
+[DELETE]- Ein Objekt wurde geloescht!	(10090668)
+[DELETE]- Ein Objekt wurde geloescht!	(10090808)
+[DELETE]- Ein Objekt wurde geloescht!	(100909A8)
+[DELETE]- Ein Objekt wurde geloescht!	(10090B40)
+[DELETE]- Ein Objekt wurde geloescht!	(10090CD8)
+[DELETE]- Ein Objekt wurde geloescht!	(10090E70)
+[DELETE]- Ein Objekt wurde geloescht!	(10091008)
+[DELETE]- Ein Objekt wurde geloescht!	(100911A0)
+[DELETE]- Ein Objekt wurde geloescht!	(10091338)
+[DELETE]- Ein Objekt wurde geloescht!	(100914D0)
+[DELETE]- Ein Objekt wurde geloescht!	(10091668)
+[DELETE]- Ein Objekt wurde geloescht!	(10091800)
+[DELETE]- Ein Objekt wurde geloescht!	(10091998)
+[DELETE]- Ein Objekt wurde geloescht!	(10091B30)
+[DELETE]- Ein Objekt wurde geloescht!	(10091D10)
+[DELETE]- Ein Objekt wurde geloescht!	(10091F58)
+[DELETE]- Ein Objekt wurde geloescht!	(100921A0)
+[DELETE]- Ein Objekt wurde geloescht!	(09FF7168)
+[DELETE]- Ein Objekt wurde geloescht!	(100FA248)
+[DELETE]- Map <Sebara Wüste> wurde geloescht!	(100E73E0)
+[DELETE]- Map_Manager wurde geloescht!	(100A1DB8)
+[DELETE]- Item_List wurde geloescht!	(09C7E458)
+[DELETE]- Weapon_Manager wurde geloescht!	(100D9218)
+[DELETE]- Ein NPC wurde geloescht!	(100D9830)
+[DELETE]- Ein Enemy wurde geloescht!	(100D9B88)
+[DELETE]- NPC_Manager wurde geloescht!	(100D93F8)
+[DELETE]- Collision System wurde geloescht!	(100DB880)
+[DELETE]- Quest <Pilzsuppe> wird gelöscht!
+[DELETE]- Quest <Finde Hasi!> wird gelöscht!
+[DELETE]- Quest <Drei Fragmente!> wird gelöscht!
+[DELETE]- Quest <Rettung!> wird gelöscht!
+[DELETE]- Quest <Wer bin Ich?> wird gelöscht!
+[DELETE]- Quest <Der Schlüssel> wird gelöscht!
+[DELETE]- Quest <Zünder> wird gelöscht!
+[DELETE]- Quest <Nicht nur ein Baum> wird gelöscht!
+[DELETE]- Quest <Besige Valac> wird gelöscht!
+[DELETE]- Quest <Sesam öffne dich!> wird gelöscht!
+[DELETE]- Quest <Letzte Schritte!> wird gelöscht!
+[DELETE]- Quest <Abwehr des Lichtes> wird gelöscht!
+[DELETE]- Quest_Manager wurde geloescht!	(100DB8E0)
+[DELETE]- Inventory_Manager wurde geloescht!	(100E2870)
+[DELETE]- Ein Player wurde geloescht!	(100DD700)
+[DELETE]- Graphic_Manager wurde geloescht!	(09C8D7E0)
+[DELETE]- Command_Manager wurde geloescht!	(09C8C058)
+[DELETE]- Animation_Manager wurde geloescht!	(09CAD0F0)
+[DELETE]- Particle_Manager wurde geloescht!	(09CAD1C8)
+[DELETE]- Sound_Manager wurde geloescht!	(09CCF488)

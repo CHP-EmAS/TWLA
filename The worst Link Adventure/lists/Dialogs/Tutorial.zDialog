@@ -1,0 +1,37 @@
+{ID}4
+
+{next section}
+	{speaker name}Tutorial
+	{text color} 255,255,0,255
+	{text}Hei $playername!$enterIch bin dein Tutorial ... Ich werde dir im laufe des Spieles neue Techniken zeigen...$enterZum Beispiel kannst du mit Leertaste Dialoge, wie diesen, fortsetzen.
+	{do question}ersteFrage
+	{text}Ok...$enterDann lasse das Spiel beginnen...
+	{quest command}speak-4-0
+{next section}
+	{requirement}speak-4-0
+	{speaker name}Tutorial
+	{text color} 255,255,0,255
+	{text}Siehst du das Schild dort oben? Du kannst es lesen!
+	{text}Dafür musst du dich davor stellen und 'Q' drücken. Auf diese Weise kannst du mit Objekten interagieren.
+	{text}Wenn du Objekte näher bedrachten kannst, erscheint ein Hinweis im oberen Bereich des Bildschirms.
+	{text}Ach und noch etwas, damit du deine Aufgaben, auch Quests genannt, besser im Überblick behalten kannst, gibt es eine Quest-Menü.
+	{text}In diesem Menü werden alle Aufgaben angezeigt die du gerade machen musst oder schon gemacht hast.
+	{quest command}whoIam
+	{text}Hier ein Beispiel! Das ist deine erste Aufgabe, finde herraus wer du bist!
+	{text}Das Quest-Menü findest du im Inventar unter dem Punkt 'Quests'.
+	{text}Das Inventar öffnest du mit der Taste 'e', dort kannst du mit den Pfeiltasten navigieren und deine Auswahl mit 'Enter' bestätigen!
+	{text}So genug der Worte, jetzt schaue dich erstmal hier um, vlt ist hier Jemand der dir helfen kann.
+{end sections}
+
+{question}ersteFrage
+	{question text}Gut gemacht. Dies ist eine Frage. Die Antworten kannst du mithilfe der Pfeiltasten auswählen und mit Enter bestätigen. Hast du das verstanden?
+	{answer}Ja
+		{text color} 255,255,0,255
+	{answer}Jup
+		{text color} 255,255,0,255
+	{answer}Yes
+		{text color} 255,255,0,255
+	{answer}Gurke
+		{text color} 255,255,0,255
+		{text}-.-
+{end question}

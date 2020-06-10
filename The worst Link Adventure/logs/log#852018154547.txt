@@ -1,0 +1,315 @@
+[NEW]- Neuer Screen_Manager wurde erstellt! (033E1F58)
+[INFO]- Debug = OFF
+
+[INFO]- Nowendige Manager werden geladen
+
+[NEW]- Neuer Command_Manager wurde erstellt! (0796BFF0)
+[NEW]- Neuer Graphic_Manager wurde erstellt! (0E25EFE8)
+
+[INFO]- Tilesets werden geladen...
+[CHECK]- People Tileset wurde erfolgreich geladen!
+[CHECK]- Overworld Tileset wurde erfolgreich geladen!
+[CHECK]- Baum Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Burg Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Kerker Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Lava Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Schloss Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Turm Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wasser Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wuesten Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Haus Tileset wurde erfolgreich geladen!
+[CHECK]- Schattenwelt Tileset wurde erfolgreich geladen!
+
+[INFO]- Sonstige Grafiken werden geladen...
+[CHECK]- Explosions Grafiken wurde erfolgreich geladen!
+[CHECK]- Wasser-Animation wurde erfolgreich geladen!
+[CHECK]- Lava-Animation wurde erfolgreich geladen!
+
+[INFO]- Schriftarten werden geladen...
+[CHECK]- Schriftart Arial wurde erfolgreich geladen!
+[CHECK]- Schriftart Pixel wurde erfolgreich geladen!
+
+[CHECK]- Midna Texture wurde erfolgreich geladen!
+[CHECK]- Midna Texture 2 wurde erfolgreich geladen!
+[NEW]- Neuer Animation_Manager wurde erstellt! (0E3209A8)
+[NEW]- Neuer Particle_Manager wurde erstellet! (0E326D70)
+[NEW]- Neuer Sound_Manager wurde erstellt! (0E291578)
+
+[INFO]- Menü-Screen wird gestartet
+[CHECK]- Der Screen <13> wurde sicher gelöscht!
+
+[INFO]- Options-Screen wird gestartet
+[CHECK]- Der Screen <4> wurde sicher gelöscht!
+
+[INFO]- New-Game-Screen wird gestartet
+
+[INFO]- ||||||************ Spiel wird gestartet! ************||||||
+[INFO]- Version: 1.1 Stable
+
+[INFO]- Items werden geladen
+[NEW]- Neue Item_List wurde erstellt! (0E2A3638)
+
+[INFO]- Nowendige Spiel-Manager werden geladen
+[NEW]- Neuer Map_Manager wurde erstellet! (13E409A8)
+[NEW]- Neuer Message_Manager wurde erstellt! (13DE59F0)
+[INFO]- Es wurden 17 Dialoge gefunden!
+[NEW]- Neuer Dialog_Manager wurde erstellt! (0E292B38)
+[NEW]- Neuer Weapon_Manager wurde erstellet! (13DE38A8)
+[NEW]- Neuer NPC_Manager wurde erstellet! (13DE7AA8)
+[NEW]- Neuer NPC wurde erstellt! (13DE7B90)
+[NEW]- Neuer Enemy wurde erstellt! (13DE7DA0)
+[INFO]- Es wurden 12 NPCs gefunden!
+[NEW]- Collision System wurde erstellt! (13DE84B8)
+[INFO]- Quests werden geladen...
+[NEW]- Quest <lists/Quests/ahnenbaum.zQuest> wird erstellt!
+[CHECK]- Quest Nicht nur ein Baum (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/dreiFragmente.zQuest> wird erstellt!
+[CHECK]- Quest Drei Fragmente! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/hasiQuest.zQuest> wird erstellt!
+[CHECK]- Quest Finde Hasi! (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Letzter Schritt.zQuest> wird erstellt!
+[CHECK]- Quest Letzte Schritte! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/mushroomQuest.zQuest> wird erstellt!
+[CHECK]- Quest Pilzsuppe (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/rettung .zQuest> wird erstellt!
+[CHECK]- Quest Rettung! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/seltsamesRelikt.zQuest> wird erstellt!
+[CHECK]- Quest Abwehr des Lichtes (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/sesam öffne dich.zQuest> wird erstellt!
+[CHECK]- Quest Sesam öffne dich! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Valac.zQuest> wird erstellt!
+[CHECK]- Quest Besige Valac (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/wegAusWald.zQuest> wird erstellt!
+[CHECK]- Quest Der Schlüssel (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/werBinIch.zQuest> wird erstellt!
+[CHECK]- Quest Wer bin Ich? (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/zünder.zQuest> wird erstellt!
+[CHECK]- Quest Zünder (0,0) wurde geladen.
+[NEW]- Neuer Quest_Manager wurde erstellet! (13DE8938)
+[NEW]- Neuer Inventory_Manager wurde erstellt! (13DEC8A8)
+[NEW]- Neuer Player_Manager wurde erstellet! (13DEA150)
+
+[INFO]- Map <Wald von Emasin> wird geladen...
+
+[NEW]- Neue Map <Maps/Wald von Emasin> wird erstellt! (13DF0990) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Wald von Emasin
+ - ID: 4
+ - Size: 100,100
+ - Tileset: 0
+ - Background Music: Music/Lost Forest.ogg
+ - Light-Level: 3
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (13E2C658,X:23,Y:89)
+[NEW]- Neue Objekt wurde erstellt! (13E2C7D8,X:19,Y:89)
+[NEW]- Neue Objekt wurde erstellt! (13E2C958,X:64,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (13E2CAF0,X:54,Y:72)
+[NEW]- Neue Objekt wurde erstellt! (13E2CC80,X:8,Y:74)
+[NEW]- Neue Objekt wurde erstellt! (13E2CE58,X:47,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (13E2D078,X:10,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (13E2D1F0,X:10,Y:69)
+[NEW]- Neue Objekt wurde erstellt! (13E2D390,X:21,Y:68)
+[NEW]- Neue Objekt wurde erstellt! (13E2EB68,X:10,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (13E2ECE0,X:10,Y:76)
+[NEW]- Neue Objekt wurde erstellt! (13E2EE58,X:10,Y:77)
+[NEW]- Neue Objekt wurde erstellt! (13E2EFD0,X:10,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (13E2F148,X:9,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (13E2F2C0,X:8,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (13E2F438,X:8,Y:81)
+[NEW]- Neue Objekt wurde erstellt! (13E2F5B0,X:29,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (13E2F740,X:30,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (13E2F8F8,X:57,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (13E2FA98,X:19,Y:71)
+[NEW]- Neue Objekt wurde erstellt! (13E2FC38,X:24,Y:82)
+[NEW]- Neue Objekt wurde erstellt! (13E2FDD8,X:56,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (13E2FF78,X:54,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (13E30118,X:84,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (13E302B8,X:85,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (13E30458,X:53,Y:44)
+[NEW]- Neue Objekt wurde erstellt! (13E305F8,X:50,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (13E30798,X:61,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (13E30930,X:69,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (13E30AC8,X:85,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (13E30C80,X:32,Y:80)
+[NEW]- Neue Objekt wurde erstellt! (13E30E20,X:19,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (13E30FC0,X:63,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (13E31178,X:55,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (13E31318,X:45,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (13E314B8,X:45,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (13E31658,X:15,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (13E317F8,X:14,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (13E31998,X:14,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (13E31B38,X:14,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (13E31CD8,X:16,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (13E31E78,X:17,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (13E32018,X:18,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (13E321B8,X:18,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (13E32358,X:17,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (13E324F8,X:17,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (13E32698,X:15,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (13E32838,X:16,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (13E329D8,X:17,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (13E32B78,X:12,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (13E32D18,X:12,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (13E32EB8,X:12,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (13E33058,X:13,Y:56)
+[NEW]- Neue Objekt wurde erstellt! (13E331F8,X:13,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (13E33398,X:14,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (13E33538,X:13,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (13E336D8,X:17,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (13E33878,X:18,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (13E33A18,X:16,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (13E33BB8,X:18,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (13E33D58,X:12,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (13E33F18,X:85,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (13E340B8,X:86,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (13E65FD0,X:85,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (13E66148,X:85,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (13E662C0,X:85,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (13E66460,X:84,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (13E66600,X:86,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (13E667A0,X:83,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (13E66940,X:87,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (13E66B50,X:47,Y:79)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 10000 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 1488,2864
+ - Spawnpoint: 2048,1376
+ - Spawnpoint: 2016,1216
+ - Spawnpoint: 2720,2080
+ - Spawnpoint: 943,1865
+
+[INFO]- NPCs werden erstellt...
+
+[CHECK]- Map <Wald von Emasin> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (13E6DC18 - p)
+[INFO]- Player-TP: 1488,2864
+[WARNING]- Datei <Savegames/save#852018154633/maps/4.zData> konnte nicht geöffnet werden!
+[CHECK]- Der Screen <7> wurde sicher gelöscht!
+[INFO]- Player-TP: 1488,2864
+[INFO]- Spiel wird gespeichert!
+[CHECK]- Dialog: 4 wird ausgeführt!
+Quest-Command: speak-4-0
+[CHECK]- Dialog: 2 wird ausgeführt!
+Quest-Command: speak-2-0
+[CHECK]- Dialog: 4 wird ausgeführt!
+Quest-Command: whoIam
+[INFO]- Quest <Wer bin Ich?> wurde entdeckt!
+Quest-Command: qProgress-5
+
+[INFO]- Inventory-Screen wird gestartet
+[CHECK]- Der Screen <2> wurde sicher gelöscht!
+
+[INFO]- Inventory-Screen wird gestartet
+[INFO]- Spiel wird gespeichert!
+[DELETE]- Message_Manager wurde geloescht!	(13DE59F0)
+[DELETE]- Dialog_Manager wurde geloescht!	(0E292B38)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2C658)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2C7D8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2C958)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2CAF0)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2CC80)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2CE58)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2D078)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2D1F0)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2D390)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2EB68)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2ECE0)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2EE58)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2EFD0)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2F148)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2F2C0)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2F438)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2F5B0)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2F740)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2F8F8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2FA98)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2FC38)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2FDD8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E2FF78)
+[DELETE]- Ein Objekt wurde geloescht!	(13E30118)
+[DELETE]- Ein Objekt wurde geloescht!	(13E302B8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E30458)
+[DELETE]- Ein Objekt wurde geloescht!	(13E305F8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E30798)
+[DELETE]- Ein Objekt wurde geloescht!	(13E30930)
+[DELETE]- Ein Objekt wurde geloescht!	(13E30AC8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E30C80)
+[DELETE]- Ein Objekt wurde geloescht!	(13E30E20)
+[DELETE]- Ein Objekt wurde geloescht!	(13E30FC0)
+[DELETE]- Ein Objekt wurde geloescht!	(13E31178)
+[DELETE]- Ein Objekt wurde geloescht!	(13E31318)
+[DELETE]- Ein Objekt wurde geloescht!	(13E314B8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E31658)
+[DELETE]- Ein Objekt wurde geloescht!	(13E317F8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E31998)
+[DELETE]- Ein Objekt wurde geloescht!	(13E31B38)
+[DELETE]- Ein Objekt wurde geloescht!	(13E31CD8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E31E78)
+[DELETE]- Ein Objekt wurde geloescht!	(13E32018)
+[DELETE]- Ein Objekt wurde geloescht!	(13E321B8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E32358)
+[DELETE]- Ein Objekt wurde geloescht!	(13E324F8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E32698)
+[DELETE]- Ein Objekt wurde geloescht!	(13E32838)
+[DELETE]- Ein Objekt wurde geloescht!	(13E329D8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E32B78)
+[DELETE]- Ein Objekt wurde geloescht!	(13E32D18)
+[DELETE]- Ein Objekt wurde geloescht!	(13E32EB8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E33058)
+[DELETE]- Ein Objekt wurde geloescht!	(13E331F8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E33398)
+[DELETE]- Ein Objekt wurde geloescht!	(13E33538)
+[DELETE]- Ein Objekt wurde geloescht!	(13E336D8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E33878)
+[DELETE]- Ein Objekt wurde geloescht!	(13E33A18)
+[DELETE]- Ein Objekt wurde geloescht!	(13E33BB8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E33D58)
+[DELETE]- Ein Objekt wurde geloescht!	(13E33F18)
+[DELETE]- Ein Objekt wurde geloescht!	(13E340B8)
+[DELETE]- Ein Objekt wurde geloescht!	(13E65FD0)
+[DELETE]- Ein Objekt wurde geloescht!	(13E66148)
+[DELETE]- Ein Objekt wurde geloescht!	(13E662C0)
+[DELETE]- Ein Objekt wurde geloescht!	(13E66460)
+[DELETE]- Ein Objekt wurde geloescht!	(13E66600)
+[DELETE]- Ein Objekt wurde geloescht!	(13E667A0)
+[DELETE]- Ein Objekt wurde geloescht!	(13E66940)
+[DELETE]- Ein Objekt wurde geloescht!	(13E66B50)
+[DELETE]- Ein Objekt wurde geloescht!	(13E6DC18)
+[DELETE]- Map <Wald von Emasin> wurde geloescht!	(13DF0990)
+[DELETE]- Map_Manager wurde geloescht!	(13E409A8)
+[DELETE]- Item_List wurde geloescht!	(0E2A3638)
+[DELETE]- Weapon_Manager wurde geloescht!	(13DE38A8)
+[DELETE]- Ein NPC wurde geloescht!	(13DE7B90)
+[DELETE]- Ein Enemy wurde geloescht!	(13DE7DA0)
+[DELETE]- NPC_Manager wurde geloescht!	(13DE7AA8)
+[DELETE]- Collision System wurde geloescht!	(13DE84B8)
+[DELETE]- Quest <Pilzsuppe> wird gelöscht!
+[DELETE]- Quest <Finde Hasi!> wird gelöscht!
+[DELETE]- Quest <Drei Fragmente!> wird gelöscht!
+[DELETE]- Quest <Rettung!> wird gelöscht!
+[DELETE]- Quest <Wer bin Ich?> wird gelöscht!
+[DELETE]- Quest <Der Schlüssel> wird gelöscht!
+[DELETE]- Quest <Zünder> wird gelöscht!
+[DELETE]- Quest <Nicht nur ein Baum> wird gelöscht!
+[DELETE]- Quest <Besige Valac> wird gelöscht!
+[DELETE]- Quest <Sesam öffne dich!> wird gelöscht!
+[DELETE]- Quest <Letzte Schritte!> wird gelöscht!
+[DELETE]- Quest <Abwehr des Lichtes> wird gelöscht!
+[DELETE]- Quest_Manager wurde geloescht!	(13DE8938)
+[DELETE]- Inventory_Manager wurde geloescht!	(13DEC8A8)
+[DELETE]- Ein Player wurde geloescht!	(13DEA150)
+[CHECK]- Der Screen <2> wurde sicher gelöscht!
+
+[INFO]- Beenden!
+
+[DELETE]- Graphic_Manager wurde geloescht!	(0E25EFE8)
+[DELETE]- Command_Manager wurde geloescht!	(0796BFF0)
+[DELETE]- Animation_Manager wurde geloescht!	(0E3209A8)
+[DELETE]- Particle_Manager wurde geloescht!	(0E326D70)
+[DELETE]- Sound_Manager wurde geloescht!	(0E291578)

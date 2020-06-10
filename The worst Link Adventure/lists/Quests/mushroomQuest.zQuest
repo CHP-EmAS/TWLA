@@ -1,0 +1,10 @@
+{name}Pilzsuppe
+{description}Suche den Pilz im Wald, er soll sich in einer Kiste links neben der Lichtung befinden. Es wartet eine tolle Belohnung auf dich!
+{ID}0
+{type}M
+{status}H
+{settings}0
+{requirement}yesToMushroom
+{task}found-51
+{task}speak-3-1
+{end}

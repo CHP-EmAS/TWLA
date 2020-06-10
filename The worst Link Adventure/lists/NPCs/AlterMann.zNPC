@@ -1,0 +1,11 @@
+{ID}1
+{name}Alter Mann
+
+{tileset}1
+{cutSizeX}16
+{cutSizeY}16
+{cutPosX}6
+{cutPosY}13
+
+{interactable}1
+{dialogID}3

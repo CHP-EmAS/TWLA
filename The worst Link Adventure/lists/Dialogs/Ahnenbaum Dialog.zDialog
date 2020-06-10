@@ -1,0 +1,57 @@
+{ID}998
+
+{next section}
+	{quest command}speak-998-0
+	{speaker name}Fliegen Königin
+	{text color} 200,0,0,255
+	{text}Bsss?
+	{text}Bsss Bsss Bs Bssssssss!
+	{text}BSSSSSS!
+{next section}
+	{requirement}kill-boss-0
+	{command}give 50 1
+	{speaker name}???
+	{text}...
+	{text}Endlich...
+	{text}Danke tapferer Held! Du hast den Parasiten aus meinen Wurzel entfernt!
+	{text}Er hast sich vor einigen Wochen hier unten eingenistet und angefangen meine Wurzel zu zerstören.
+	{text}Aber nun hat das endlich ein Ende.
+	{text}Ich würde dich gerne belohnen, aber ich kann dir nicht viel anbieten.
+	{text}Ich kann dir nur diesen Hammer geben, den die Waldbewohner vor langer Zeit hier liegen gelassen haben.
+	{command}give 23 1
+	{text}Mit diesem Werkzeug kannst du schwere Gegenstände einfach klein schlagen.
+	{text}Oh! Bei der ganzen Aufregung hab ich komplett vergessen mich vorzustellen.
+	{speaker name}Ahnenbaum
+	{text}Ich bin der Ahnenbaum.
+	{text}Ich bewache diesen Wald hier, aber lass uns nicht hier unten weiter reden.
+	{text}Nimm den zweiten Ausgang in den Wald und suche mich, dann können wir reden.
+	{quest command}speak-998-1
+{next section}
+	{requirement}speak-998-1
+	{speaker name}Ahnenbaum
+	{text}Du hast mich gefunden!
+	{text}Jetzt kann ich dir in Ruhe erklären, was hier eigentlich los ist!
+	{text}Das Land hier wurde von einer schwarzen Macht überrannt, die all diese Monster frei gelassen hat.
+	{text}Königin Michelle, die Herrscherin über dieses Reich und die einzige die die schwarze Macht bezwingen kann, wurde von Valac dem Zerstörer im Schattenreich gefangen genommen.
+	{text}Nimm diese Flöte, wenn du die korrekte Melody spielst, wirst du zu einem anderen Ort teleportiert.
+	{command}give 25 1
+	{command}enableMelody 0
+	{command}enableMelody 1
+	{text}Teleportier dich mithilfe der Flöte nach Pagotas.
+	{text}Hör dich dort um, vielleicht weiß jemand, wie man Valac aufhalten kann.
+	{command}setNPCActivity 0 0
+	{command}setNPCActivity 7 0
+	{quest command}speak-998-2
+{next section}
+	{requirement}speak-998-2
+	{speaker name}Ahnenbaum
+	{text}Das Land hier wurde von einer schwarzen Macht überrannt, die all diese Monster frei gelassen hat.
+	{text}Königin Michelle, die Herrscherin über dieses Reich und die einzige die die schwarze Macht bezwingen kann, wurde von Valac dem Zerstörer im Schattenreich gefangen genommen.
+	{text}Teleportier dich mithilfe der Flöte zu Pagotas.
+	{text}Hör dich dort um, vielleicht weiß jemand, wie man Valac aufhalten kann.
+{next section}
+	{requirement}speak-2-8
+	{speaker name}Ahnenbaum
+	{text}Wie ich sehe hast du dein Abenteuer abgeschlossen!
+	{text}Ich stehe tief in deiner Schuld.
+{end sections}

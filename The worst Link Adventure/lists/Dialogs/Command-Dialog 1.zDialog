@@ -1,0 +1,8 @@
+{ID}9999
+
+{next section}
+	{requirement}kill-boss-0
+	{command}doDialog 0
+{next section}
+	{requirement}speak-0-1
+{end sections}

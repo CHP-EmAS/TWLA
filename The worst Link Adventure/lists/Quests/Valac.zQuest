@@ -1,0 +1,9 @@
+{name}Besige Valac
+{description}Besiege Valac in der Schattenwelt!
+{ID}9
+{type}M
+{status}H
+{settings}0
+{requirement}speak-2-1
+{task}kill-valac
+{end}

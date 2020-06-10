@@ -1,0 +1,9 @@
+{name}Zünder
+{description}Kaufe Titus den Zünder aus Salih's Bomben Shop! Er will dir dafür den Schlüssel für das Tor geben, welches zu toten Wald führt!
+{ID}7
+{type}M
+{status}H
+{settings}0
+{requirement}speak-7-0
+{task}speak-7-1
+{end}

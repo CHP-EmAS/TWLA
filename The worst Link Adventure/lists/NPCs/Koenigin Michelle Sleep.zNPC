@@ -1,0 +1,11 @@
+{ID}10
+{name}Koenigin Michelle Sleep
+
+{tileset}1
+{cutSizeX}16
+{cutSizeY}16
+{cutPosX}28
+{cutPosY}8
+
+{interactable}1
+{dialogID}2

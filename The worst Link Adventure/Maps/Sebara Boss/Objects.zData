@@ -1,0 +1,10 @@
+{trigger}0,6,6,3,1,Schlag mich!,spawnWeapon 4 80 80 0
+{trigger}1,13,6,3,1,Schlag mich!,spawnWeapon 4 560 80 0
+{trigger}2,13,13,3,1,Schlag mich!,spawnWeapon 4 560 560 0
+{trigger}3,6,13,3,1,Schlag mich!,spawnWeapon 4 80 560 0
+{cmdDoor}4,11,9,b1;b1
+{trigger}5,12,8,0,1,,doDialog 9997
+{trigger}6,13,8,0,1,,doDialog 9997
+{trigger}7,12,10,0,1,,doDialog 9997
+{trigger}8,13,10,0,1,,doDialog 9997
+{portal}9,9,10,Sebara Dungeon,3

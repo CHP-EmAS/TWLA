@@ -1,0 +1,8 @@
+{trigger}0,1,1,1,1,Q - Melodie erlernen,enableMelody 5;say <Du hast die vergessene Melodie erlernt!> 255 255 0
+{trigger}1,1,7,1,1,Q - Eintreten,changeMap <Schattenwelt Dungeon> 6
+{trigger}2,1,8,1,1,Q - Eintreten,changeMap <Schattenwelt Dungeon> 6
+{portal}3,1,14,Kerker der Schatten,0
+{key_stone}4,6,10,0,987
+{cmdDoor}5,54,8,open;open
+{cmdDoor}6,54,7,open;open
+

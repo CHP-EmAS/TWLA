@@ -1,0 +1,226 @@
+{teleporter}0,25,24,2
+{teleporter}1,20,24,1
+{teleporter}2,19,11,4
+{teleporter}3,18,11,3
+{teleporter}4,41,31,5
+{teleporter}5,42,31,5
+{teleporter}6,41,20,6
+{teleporter}7,42,20,6
+{teleporter}8,56,16,8
+{teleporter}9,52,16,7
+{cmdDoor}10,53,29,door2;
+{cmdDoor}11,54,29,b1ON,b2OFF,b3ON,b4OFF,b5ON,b6OFF,b7OFF,b8ON,b9ON,b10ON,b11OFF,b12OFF;b2OFF,b4OFF,b6OFF,b7OFF,b11OFF,b12OFF
+{button}12,34,42,doObjectCmd add:b1ON      11,doObjectCmd remove:b1ON  11,0,0
+{button}13,37,42,doObjectCmd remove:b2OFF  11,doObjectCmd add:b2OFF    11,0,0
+{button}14,40,42,doObjectCmd add:b3ON      11,doObjectCmd remove:b3ON  11,0,0
+{button}15,42,42,doObjectCmd remove:b4OFF  11,doObjectCmd add:b4OFF    11,0,0
+{button}16,45,42,doObjectCmd add:b5ON      11,doObjectCmd remove:b5ON  11,0,0
+{button}17,48,42,doObjectCmd remove:b6OFF  11,doObjectCmd add:b6OFF    11,0,0
+{button}18,34,45,doObjectCmd remove:b7OFF  11,doObjectCmd add:b7OFF    11,0,0
+{button}19,37,45,doObjectCmd add:b8ON      11,doObjectCmd remove:b8ON  11,0,0
+{button}20,40,45,doObjectCmd add:b9ON      11,doObjectCmd remove:b9ON  11,0,0
+{button}21,42,45,doObjectCmd add:b10ON     11,doObjectCmd remove:b10ON 11,0,0
+{button}22,45,45,doObjectCmd remove:b11OFF 11,doObjectCmd add:b11OFF   11,0,0
+{button}23,48,45,doObjectCmd remove:b12OFF 11,doObjectCmd add:b12OFF   11,0,0
+{cmdDoor}24,52,29,kristall1,kristall2;
+{button}25,8,8,doObjectCmd add:kristall1 24,doObjectCmd remove:kristall1 24,0,1
+{button}26,10,8,doObjectCmd add:kristall2 24,doObjectCmd remove:kristall2 24,0,1
+{teleporter}27,56,37,10
+{teleporter}28,54,37,9
+{teleporter}29,75,44,11
+{teleporter}30,72,44,12
+{button}31,36,6,doObjectCmd add:door2 10,doObjectCmd remove:door2 10,0,0
+{teleporter}32,85,42,14
+{teleporter}33,86,42,14
+{teleporter}34,85,46,13
+{teleporter}35,86,46,13
+{key_stone}36,68,46,0,994
+{key_stone}37,68,47,0,994
+{sign}38,62,11,Zellen 1-9$enterSicherheitslevel: Niedrig,255,255,225,0
+{sign}39,70,42,!Achtung!$enterSie betreten nun den Hochsicherheitstrakt$enterSicherheitslevel: Hoch,220,0,0,0
+{chest}40,27,6,1000,0
+{chest}41,28,6,1000,0
+{chest}42,30,6,1000,0
+{chest}43,31,6,1000,0
+{chest}44,29,6,1000,0
+{chest}45,32,6,1000,0
+{chest}46,33,6,1000,0
+{chest}47,27,8,1000,0
+{chest}48,28,8,1000,0
+{chest}49,29,8,1000,0
+{chest}50,31,8,1000,0
+{chest}51,32,8,1000,0
+{chest}52,33,8,1000,0
+{chest}53,30,8,1000,0
+{chest}54,27,10,1000,0
+{chest}55,28,10,1000,0
+{chest}56,29,10,1000,0
+{chest}57,30,10,1000,0
+{chest}58,31,10,1000,0
+{chest}59,32,10,1000,0
+{chest}60,33,10,1000,0
+{chest}61,33,12,1000,0
+{chest}62,32,12,1000,0
+{chest}63,31,12,1000,0
+{chest}64,30,12,1000,0
+{chest}65,29,12,1000,0
+{chest}66,28,12,1000,0
+{chest}67,27,12,1000,0
+{chest}68,20,36,-1,994
+{chest}69,18,27,-1,50
+{chest}70,14,27,-1,24
+{hook}71,64,16,0,418
+{hook}72,71,21,0,418
+{hook}73,64,26,0,418
+{hook}74,71,31,0,418
+{hook}75,57,22,0,418
+{hook}76,55,18,0,418
+{portal}77,4,48,Schloss Vorhof,5
+{portal}78,5,48,Schloss Vorhof,5
+{portal}79,86,12,Kerker Boss,0
+{portal}80,86,11,Kerker Boss,0
+{portal}81,86,10,Kerker Boss,0
+{portal}82,86,9,Kerker Boss,0
+{portal}83,86,8,Kerker Boss,0
+{portal}84,87,8,Kerker Boss,0
+{portal}85,88,8,Kerker Boss,0
+{portal}86,89,8,Kerker Boss,0
+{portal}87,89,9,Kerker Boss,0
+{portal}88,89,10,Kerker Boss,0
+{portal}89,89,11,Kerker Boss,0
+{portal}90,89,12,Kerker Boss,0
+{trigger}91,74,12,1,0,Q - Melodie erlernen,enableMelody 4;say <Du hast Gandalf's Ruf erlernt!> 255 255 0
+{jar}92,40,6,4
+{jar}93,45,6,-1
+{jar}94,50,6,-1
+{jar}95,55,6,-1
+{jar}96,59,6,-1
+{jar}97,40,12,-1
+{jar}98,44,12,-1
+{jar}99,48,12,-1
+{jar}100,64,6,-1
+{jar}101,75,15,46
+{jar}102,76,15,46
+{jar}103,78,15,34
+{jar}104,77,15,46
+{jar}105,75,16,46
+{jar}106,76,16,46
+{jar}107,78,16,34
+{jar}108,77,16,34
+{jar}109,75,17,46
+{jar}110,77,17,46
+{jar}111,78,17,34
+{jar}112,76,17,34
+{jar}113,75,18,34
+{jar}114,76,18,46
+{jar}115,77,18,46
+{jar}116,78,18,46
+{break}117,6,19,
+{break}118,6,20,
+{break}119,6,21,
+{break}120,6,22,
+{break}121,6,23,
+{break}122,6,24,
+{break}123,6,25,
+{break}124,7,25,
+{break}125,8,25,
+{break}126,9,25,
+{break}127,10,25,
+{break}128,10,24,
+{break}129,12,24,
+{break}130,11,24,
+{break}131,13,24,
+{break}132,8,23,
+{break}133,8,22,
+{break}134,9,22,
+{break}135,10,22,
+{break}136,11,22,
+{break}137,12,22,
+{break}138,13,22,
+{break}139,14,22,
+{break}140,15,22,
+{break}141,15,23,
+{break}142,15,24,
+{break}143,15,25,
+{break}144,15,26,
+{break}145,15,27,
+{break}146,15,28,
+{break}147,14,28,
+{break}148,14,29,
+{break}149,14,26,
+{break}150,13,26,
+{break}151,12,26,
+{break}152,13,31,
+{break}153,14,31,
+{break}154,15,31,
+{break}155,16,31,
+{break}156,16,30,
+{break}157,17,30,
+{break}158,17,29,
+{break}159,17,28,
+{break}160,17,27,
+{break}161,17,26,
+{break}162,17,25,
+{break}163,17,24,
+{break}164,17,23,
+{break}165,17,22,
+{break}166,17,21,
+{break}167,17,20,
+{break}168,16,20,
+{break}169,15,20,
+{break}170,14,20,
+{break}171,13,20,
+{break}172,12,20,
+{break}173,11,20,
+{break}174,10,20,
+{break}175,9,20,
+{break}176,8,20,
+{break}177,19,22,
+{break}178,19,21,
+{break}179,19,20,
+{break}180,19,19,
+{break}181,18,26,
+{break}182,19,26,
+{break}183,19,27,
+{break}184,19,28,
+{break}185,19,29,
+{break}186,19,30,
+{break}187,19,31,
+{break}188,19,32,
+{break}189,18,32,
+{break}190,5,41,
+{break}191,4,41,
+{break}192,5,42,
+{break}193,7,42,
+{break}194,6,42,
+{break}195,7,43,
+{break}196,6,43,
+{break}197,5,43,
+{break}198,6,44,
+{break}199,8,46,
+{break}200,8,47,
+{break}201,9,47,
+{break}202,11,42,
+{break}203,10,42,
+{break}204,12,42,
+{break}205,13,42,
+{break}206,14,42,
+{break}207,13,43,
+{break}208,14,43,
+{break}209,15,43,
+{break}210,15,44,
+{break}211,14,44,
+{break}212,15,45,
+{break}213,18,45,
+{break}214,18,44,
+{break}215,19,44,
+{break}216,19,43,
+{break}217,19,42,
+{break}218,19,41,
+{break}219,18,41,
+{break}220,24,42,
+{break}221,25,42,
+{break}222,25,41,
+{break}223,25,40,
+{break}224,25,39,
+{break}225,26,40,

@@ -1,0 +1,699 @@
+[NEW]- Neuer Screen_Manager wurde erstellt! (01378300)
+[INFO]- Debug = ON
+
+[INFO]- Nowendige Manager werden geladen
+
+[NEW]- Neuer Command_Manager wurde erstellt! (0C610E28)
+[NEW]- Neuer Graphic_Manager wurde erstellt! (0C6125B0)
+
+[INFO]- Tilesets werden geladen...
+[CHECK]- People Tileset wurde erfolgreich geladen!
+[CHECK]- Overworld Tileset wurde erfolgreich geladen!
+[CHECK]- Baum Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Burg Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Kerker Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Lava Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Schloss Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Turm Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wasser Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wuesten Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Haus Tileset wurde erfolgreich geladen!
+[CHECK]- Schattenwelt Tileset wurde erfolgreich geladen!
+
+[INFO]- Sonstige Grafiken werden geladen...
+[CHECK]- Explosions Grafiken wurde erfolgreich geladen!
+[CHECK]- Wasser-Animation wurde erfolgreich geladen!
+[CHECK]- Lava-Animation wurde erfolgreich geladen!
+
+[INFO]- Schriftarten werden geladen...
+[CHECK]- Schriftart Arial wurde erfolgreich geladen!
+[CHECK]- Schriftart Pixel wurde erfolgreich geladen!
+
+[CHECK]- Midna Texture wurde erfolgreich geladen!
+[CHECK]- Midna Texture 2 wurde erfolgreich geladen!
+[NEW]- Neuer Animation_Manager wurde erstellt! (0C635598)
+[NEW]- Neuer Particle_Manager wurde erstellet! (0C633B28)
+[NEW]- Neuer Sound_Manager wurde erstellt! (0C654A78)
+
+[INFO]- Menü-Screen wird gestartet
+[CHECK]- Der Screen <13> wurde sicher gelöscht!
+
+[INFO]- Savegame-Selector-Screen wird gestartet
+[INFO]- Spielstände werden gesucht...
+
+[INFO]- Spielstand <save#852018154633> gefunden!
+[NEW]- Neuer Map_Manager wurde erstellet! (122E3010)
+Name: PikachuLink
+Datum: 8.5.2018 15:46
+Max. Leben: 5
+Leben: 5
+Max. Energy: 650
+Energy: 574
+Edelsteine: 107
+
+[INFO]- ||||||************ Spiel wird gestartet! ************||||||
+[INFO]- Version: 1.1 Stable
+
+[INFO]- Items werden geladen
+[NEW]- Neue Item_List wurde erstellt! (0C60BBA8)
+
+[INFO]- Nowendige Spiel-Manager werden geladen
+[NEW]- Neuer Message_Manager wurde erstellt! (12372A10)
+[INFO]- Es wurden 17 Dialoge gefunden!
+[NEW]- Neuer Dialog_Manager wurde erstellt! (1237D7E0)
+[NEW]- Neuer Weapon_Manager wurde erstellet! (1237D8E8)
+[NEW]- Neuer NPC_Manager wurde erstellet! (1237DAC8)
+[NEW]- Neuer NPC wurde erstellt! (1237DF00)
+[NEW]- Neuer Enemy wurde erstellt! (1237E258)
+[INFO]- Es wurden 12 NPCs gefunden!
+[NEW]- Collision System wurde erstellt! (1237FF18)
+[INFO]- Quests werden geladen...
+[NEW]- Quest <lists/Quests/ahnenbaum.zQuest> wird erstellt!
+[CHECK]- Quest Nicht nur ein Baum (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/dreiFragmente.zQuest> wird erstellt!
+[CHECK]- Quest Drei Fragmente! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/hasiQuest.zQuest> wird erstellt!
+[CHECK]- Quest Finde Hasi! (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Letzter Schritt.zQuest> wird erstellt!
+[CHECK]- Quest Letzte Schritte! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/mushroomQuest.zQuest> wird erstellt!
+[CHECK]- Quest Pilzsuppe (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/rettung .zQuest> wird erstellt!
+[CHECK]- Quest Rettung! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/seltsamesRelikt.zQuest> wird erstellt!
+[CHECK]- Quest Abwehr des Lichtes (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/sesam öffne dich.zQuest> wird erstellt!
+[CHECK]- Quest Sesam öffne dich! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Valac.zQuest> wird erstellt!
+[CHECK]- Quest Besige Valac (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/wegAusWald.zQuest> wird erstellt!
+[CHECK]- Quest Der Schlüssel (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/werBinIch.zQuest> wird erstellt!
+[CHECK]- Quest Wer bin Ich? (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/zünder.zQuest> wird erstellt!
+[CHECK]- Quest Zünder (0,0) wurde geladen.
+[NEW]- Neuer Quest_Manager wurde erstellet! (1237FF78)
+[NEW]- Neuer Inventory_Manager wurde erstellt! (12386EB8)
+[NEW]- Neuer Player_Manager wurde erstellet! (12381DA0)
+
+[INFO]- Map <Schloss Neara> wird geladen...
+
+[NEW]- Neue Map <Maps/Schloss Neara> wird erstellt! (1238D2C0) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Schloss Neara
+ - ID: 5
+ - Size: 50,100
+ - Tileset: 6
+ - Background Music: Music/Hyrule Castle.ogg
+ - Light-Level: 5
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (123B9C68,X:12,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123B9E00,X:10,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (123B16F0,X:18,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (123B1888,X:19,Y:85)
+[NEW]- Neue Objekt wurde erstellt! (123B1A20,X:30,Y:85)
+[NEW]- Neue Objekt wurde erstellt! (123B1C00,X:19,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123B1DE0,X:30,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123B1FC0,X:38,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (123B21A0,X:43,Y:73)
+[NEW]- Neue Objekt wurde erstellt! (123B2380,X:35,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (123B2560,X:34,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (123BA3B8,X:14,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (123BA558,X:12,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123BA088,X:18,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (123BAC00,X:30,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (123BAF90,X:8,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (123BB130,X:2,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (123BB2D0,X:43,Y:7)
+[NEW]- Neue Objekt wurde erstellt! (123BB470,X:41,Y:68)
+[NEW]- Neue Objekt wurde erstellt! (123BB610,X:28,Y:88)
+[NEW]- Neue Objekt wurde erstellt! (123BB7B0,X:26,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (123BB998,X:11,Y:70)
+[NEW]- Neue Objekt wurde erstellt! (123BBB98,X:12,Y:70)
+[NEW]- Neue Objekt wurde erstellt! (123BBDE0,X:37,Y:70)
+[NEW]- Neue Objekt wurde erstellt! (123BC028,X:38,Y:70)
+[NEW]- Neue Objekt wurde erstellt! (123BC270,X:24,Y:90)
+[NEW]- Neue Objekt wurde erstellt! (123BC4B8,X:25,Y:90)
+[NEW]- Neue Objekt wurde erstellt! (123BC700,X:24,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (123BC948,X:25,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (123BCB90,X:34,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (123BCD30,X:35,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (123BCF18,X:37,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (123BD100,X:36,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (123BD2E8,X:37,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123BD4D0,X:36,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123BD6B8,X:35,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123BD8A0,X:34,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123BDA88,X:37,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (123BDC70,X:36,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (123BDE58,X:35,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (123BE040,X:34,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (123BE228,X:40,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (123BE410,X:7,Y:7)
+[NEW]- Neue Objekt wurde erstellt! (123BE5F8,X:2,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123BE7E0,X:2,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (123BE9C8,X:3,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (123BEBB0,X:14,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (123BED98,X:16,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123BEF80,X:11,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (123BF168,X:37,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123BF350,X:38,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123BF538,X:11,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123BF720,X:12,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123BF908,X:22,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (123BFAF0,X:31,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (123BFCD8,X:27,Y:85)
+[NEW]- Neue Objekt wurde erstellt! (123BFEC0,X:13,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (123C00B0,X:43,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123C02A0,X:42,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123C0490,X:41,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123C0680,X:40,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123C0870,X:39,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123C0A60,X:38,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123C0C50,X:37,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123C0E40,X:37,Y:7)
+[NEW]- Neue Objekt wurde erstellt! (123C1030,X:37,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123C1220,X:37,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (123C1410,X:37,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123C1600,X:37,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (123C17F0,X:37,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (123C19E0,X:37,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (123C1BD0,X:37,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123C1DC0,X:37,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (123C1FB0,X:37,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123C21A0,X:39,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123C2390,X:39,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (123C2580,X:39,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (123C2770,X:39,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (123C2960,X:40,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (123C2B50,X:41,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (123C2D40,X:41,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (123C2F30,X:41,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123C3120,X:40,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123C3310,X:39,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123C3500,X:38,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123C36F0,X:41,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123C38E0,X:41,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (123C3AD0,X:41,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123C3CC0,X:42,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123C3EB0,X:43,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123C40A0,X:44,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123C4290,X:45,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123C4480,X:46,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123C4670,X:43,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123C4860,X:44,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123C4A50,X:45,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123C4C40,X:46,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123C4E30,X:47,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123C5020,X:48,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123C5210,X:48,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (123C5400,X:48,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123C55F0,X:48,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (123C57E0,X:43,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (123C59D0,X:43,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (123C5BC0,X:43,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123C5DB0,X:43,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (123C5FA0,X:43,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123C6190,X:42,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123C6380,X:41,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123C6570,X:40,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123C6760,X:39,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123C6950,X:38,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (123C6B40,X:33,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123C6D30,X:38,Y:30)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 5000 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 784,1107
+ - Spawnpoint: 1082,638
+ - Spawnpoint: 344,508
+ - Spawnpoint: 348,257
+ - Spawnpoint: 1180,1052
+ - Spawnpoint: 576,1918
+ - Spawnpoint: 612,2014
+ - Spawnpoint: 924,1916
+ - Spawnpoint: 1122,2043
+ - Spawnpoint: 1409,2332
+ - Spawnpoint: 355,2013
+ - Spawnpoint: 369,2199
+ - Spawnpoint: 1200,2200
+ - Spawnpoint: 643,2720
+ - Spawnpoint: 990,2718
+ - Spawnpoint: 784,2831
+ - Spawnpoint: 768,368
+
+[INFO]- NPCs werden erstellt...
+[NEW]- Neuer Enemy wurde erstellt! (123C7A10)
+[NEW]- Neuer Enemy wurde erstellt! (123B2BB0)
+[NEW]- Neuer Enemy wurde erstellt! (123C7FF0)
+[NEW]- Neuer Enemy wurde erstellt! (123C89C0)
+[NEW]- Neuer Enemy wurde erstellt! (123C9418)
+[NEW]- Neuer Enemy wurde erstellt! (123C9EC8)
+[NEW]- Neuer Enemy wurde erstellt! (123CA978)
+[NEW]- Neuer Enemy wurde erstellt! (123CB428)
+[NEW]- Neuer Enemy wurde erstellt! (123CBED8)
+[NEW]- Neuer Enemy wurde erstellt! (123CC988)
+[NEW]- Neuer Enemy wurde erstellt! (123CD438)
+[NEW]- Neuer Enemy wurde erstellt! (123CDEE8)
+[NEW]- Neuer Enemy wurde erstellt! (123CE998)
+[NEW]- Neuer Enemy wurde erstellt! (123CF508)
+[NEW]- Neuer Enemy wurde erstellt! (123CFF80)
+[NEW]- Neuer Enemy wurde erstellt! (123D09D8)
+[NEW]- Neuer Enemy wurde erstellt! (123D1488)
+[NEW]- Neuer Enemy wurde erstellt! (123D1F38)
+[NEW]- Neuer Enemy wurde erstellt! (123D29E8)
+[NEW]- Neuer NPC wurde erstellt! (123D3450)
+
+[CHECK]- Map <Schloss Neara> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (123B9948 - p)
+[INFO]- Player-TP: 784,1107
+[CHECK]- Der Screen <6> wurde sicher gelöscht!
+[INFO]- Player-TP: 768,448
+Bitte geben sie ein Befehl ein!
+[INFO]- Map <Schloss Neara> wird gelöscht!
+[DELETE]- Ein Objekt wurde geloescht!	(123B9C68)
+[DELETE]- Ein Objekt wurde geloescht!	(123B9E00)
+[DELETE]- Ein Objekt wurde geloescht!	(123B16F0)
+[DELETE]- Ein Objekt wurde geloescht!	(123B1888)
+[DELETE]- Ein Objekt wurde geloescht!	(123B1A20)
+[DELETE]- Ein Objekt wurde geloescht!	(123B1C00)
+[DELETE]- Ein Objekt wurde geloescht!	(123B1DE0)
+[DELETE]- Ein Objekt wurde geloescht!	(123B1FC0)
+[DELETE]- Ein Objekt wurde geloescht!	(123B21A0)
+[DELETE]- Ein Objekt wurde geloescht!	(123B2380)
+[DELETE]- Ein Objekt wurde geloescht!	(123B2560)
+[DELETE]- Ein Objekt wurde geloescht!	(123BA3B8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BA558)
+[DELETE]- Ein Objekt wurde geloescht!	(123BA088)
+[DELETE]- Ein Objekt wurde geloescht!	(123BAC00)
+[DELETE]- Ein Objekt wurde geloescht!	(123BAF90)
+[DELETE]- Ein Objekt wurde geloescht!	(123BB130)
+[DELETE]- Ein Objekt wurde geloescht!	(123BB2D0)
+[DELETE]- Ein Objekt wurde geloescht!	(123BB470)
+[DELETE]- Ein Objekt wurde geloescht!	(123BB610)
+[DELETE]- Ein Objekt wurde geloescht!	(123BB7B0)
+[DELETE]- Ein Objekt wurde geloescht!	(123BB998)
+[DELETE]- Ein Objekt wurde geloescht!	(123BBB98)
+[DELETE]- Ein Objekt wurde geloescht!	(123BBDE0)
+[DELETE]- Ein Objekt wurde geloescht!	(123BC028)
+[DELETE]- Ein Objekt wurde geloescht!	(123BC270)
+[DELETE]- Ein Objekt wurde geloescht!	(123BC4B8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BC700)
+[DELETE]- Ein Objekt wurde geloescht!	(123BC948)
+[DELETE]- Ein Objekt wurde geloescht!	(123BCB90)
+[DELETE]- Ein Objekt wurde geloescht!	(123BCD30)
+[DELETE]- Ein Objekt wurde geloescht!	(123BCF18)
+[DELETE]- Ein Objekt wurde geloescht!	(123BD100)
+[DELETE]- Ein Objekt wurde geloescht!	(123BD2E8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BD4D0)
+[DELETE]- Ein Objekt wurde geloescht!	(123BD6B8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BD8A0)
+[DELETE]- Ein Objekt wurde geloescht!	(123BDA88)
+[DELETE]- Ein Objekt wurde geloescht!	(123BDC70)
+[DELETE]- Ein Objekt wurde geloescht!	(123BDE58)
+[DELETE]- Ein Objekt wurde geloescht!	(123BE040)
+[DELETE]- Ein Objekt wurde geloescht!	(123BE228)
+[DELETE]- Ein Objekt wurde geloescht!	(123BE410)
+[DELETE]- Ein Objekt wurde geloescht!	(123BE5F8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BE7E0)
+[DELETE]- Ein Objekt wurde geloescht!	(123BE9C8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BEBB0)
+[DELETE]- Ein Objekt wurde geloescht!	(123BED98)
+[DELETE]- Ein Objekt wurde geloescht!	(123BEF80)
+[DELETE]- Ein Objekt wurde geloescht!	(123BF168)
+[DELETE]- Ein Objekt wurde geloescht!	(123BF350)
+[DELETE]- Ein Objekt wurde geloescht!	(123BF538)
+[DELETE]- Ein Objekt wurde geloescht!	(123BF720)
+[DELETE]- Ein Objekt wurde geloescht!	(123BF908)
+[DELETE]- Ein Objekt wurde geloescht!	(123BFAF0)
+[DELETE]- Ein Objekt wurde geloescht!	(123BFCD8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BFEC0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C00B0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C02A0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C0490)
+[DELETE]- Ein Objekt wurde geloescht!	(123C0680)
+[DELETE]- Ein Objekt wurde geloescht!	(123C0870)
+[DELETE]- Ein Objekt wurde geloescht!	(123C0A60)
+[DELETE]- Ein Objekt wurde geloescht!	(123C0C50)
+[DELETE]- Ein Objekt wurde geloescht!	(123C0E40)
+[DELETE]- Ein Objekt wurde geloescht!	(123C1030)
+[DELETE]- Ein Objekt wurde geloescht!	(123C1220)
+[DELETE]- Ein Objekt wurde geloescht!	(123C1410)
+[DELETE]- Ein Objekt wurde geloescht!	(123C1600)
+[DELETE]- Ein Objekt wurde geloescht!	(123C17F0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C19E0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C1BD0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C1DC0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C1FB0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C21A0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C2390)
+[DELETE]- Ein Objekt wurde geloescht!	(123C2580)
+[DELETE]- Ein Objekt wurde geloescht!	(123C2770)
+[DELETE]- Ein Objekt wurde geloescht!	(123C2960)
+[DELETE]- Ein Objekt wurde geloescht!	(123C2B50)
+[DELETE]- Ein Objekt wurde geloescht!	(123C2D40)
+[DELETE]- Ein Objekt wurde geloescht!	(123C2F30)
+[DELETE]- Ein Objekt wurde geloescht!	(123C3120)
+[DELETE]- Ein Objekt wurde geloescht!	(123C3310)
+[DELETE]- Ein Objekt wurde geloescht!	(123C3500)
+[DELETE]- Ein Objekt wurde geloescht!	(123C36F0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C38E0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C3AD0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C3CC0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C3EB0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C40A0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C4290)
+[DELETE]- Ein Objekt wurde geloescht!	(123C4480)
+[DELETE]- Ein Objekt wurde geloescht!	(123C4670)
+[DELETE]- Ein Objekt wurde geloescht!	(123C4860)
+[DELETE]- Ein Objekt wurde geloescht!	(123C4A50)
+[DELETE]- Ein Objekt wurde geloescht!	(123C4C40)
+[DELETE]- Ein Objekt wurde geloescht!	(123C4E30)
+[DELETE]- Ein Objekt wurde geloescht!	(123C5020)
+[DELETE]- Ein Objekt wurde geloescht!	(123C5210)
+[DELETE]- Ein Objekt wurde geloescht!	(123C5400)
+[DELETE]- Ein Objekt wurde geloescht!	(123C55F0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C57E0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C59D0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C5BC0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C5DB0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C5FA0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C6190)
+[DELETE]- Ein Objekt wurde geloescht!	(123C6380)
+[DELETE]- Ein Objekt wurde geloescht!	(123C6570)
+[DELETE]- Ein Objekt wurde geloescht!	(123C6760)
+[DELETE]- Ein Objekt wurde geloescht!	(123C6950)
+[DELETE]- Ein Objekt wurde geloescht!	(123C6B40)
+[DELETE]- Ein Objekt wurde geloescht!	(123C6D30)
+[DELETE]- Ein Objekt wurde geloescht!	(123B9948)
+[DELETE]- Map <Schloss Neara> wurde geloescht!	(1238D2C0)
+[DELETE]- Ein NPC wurde geloescht!	(123D3450)
+[DELETE]- Ein Enemy wurde geloescht!	(123C7A10)
+[DELETE]- Ein Enemy wurde geloescht!	(123B2BB0)
+[DELETE]- Ein Enemy wurde geloescht!	(123C7FF0)
+[DELETE]- Ein Enemy wurde geloescht!	(123C89C0)
+[DELETE]- Ein Enemy wurde geloescht!	(123C9418)
+[DELETE]- Ein Enemy wurde geloescht!	(123C9EC8)
+[DELETE]- Ein Enemy wurde geloescht!	(123CA978)
+[DELETE]- Ein Enemy wurde geloescht!	(123CB428)
+[DELETE]- Ein Enemy wurde geloescht!	(123CBED8)
+[DELETE]- Ein Enemy wurde geloescht!	(123CC988)
+[DELETE]- Ein Enemy wurde geloescht!	(123CD438)
+[DELETE]- Ein Enemy wurde geloescht!	(123CDEE8)
+[DELETE]- Ein Enemy wurde geloescht!	(123CE998)
+[DELETE]- Ein Enemy wurde geloescht!	(123CF508)
+[DELETE]- Ein Enemy wurde geloescht!	(123CFF80)
+[DELETE]- Ein Enemy wurde geloescht!	(123D09D8)
+[DELETE]- Ein Enemy wurde geloescht!	(123D1488)
+[DELETE]- Ein Enemy wurde geloescht!	(123D1F38)
+[DELETE]- Ein Enemy wurde geloescht!	(123D29E8)
+
+[INFO]- Map <Schloss Neara> wird geladen...
+
+[NEW]- Neue Map <Maps/Schloss Neara> wird erstellt! (1243B270) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Schloss Neara
+ - ID: 5
+ - Size: 50,100
+ - Tileset: 6
+ - Background Music: Music/Hyrule Castle.ogg
+ - Light-Level: 5
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (123C79D8,X:12,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123C7B70,X:10,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (123C7D08,X:18,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (123C7EA0,X:19,Y:85)
+[NEW]- Neue Objekt wurde erstellt! (123C8038,X:30,Y:85)
+[NEW]- Neue Objekt wurde erstellt! (123C81D0,X:19,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123C83B0,X:30,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123C8590,X:38,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (123C8770,X:43,Y:73)
+[NEW]- Neue Objekt wurde erstellt! (123CC178,X:35,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (123CC310,X:34,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (123CC838,X:14,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (123CC9D8,X:12,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123CC508,X:18,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (123CD080,X:30,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (123CD410,X:8,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (123CD5B0,X:2,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (123CD750,X:43,Y:7)
+[NEW]- Neue Objekt wurde erstellt! (123CD8F0,X:41,Y:68)
+[NEW]- Neue Objekt wurde erstellt! (123CDA90,X:28,Y:88)
+[NEW]- Neue Objekt wurde erstellt! (123CDC30,X:26,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (123CDE18,X:11,Y:70)
+[NEW]- Neue Objekt wurde erstellt! (123CE018,X:12,Y:70)
+[NEW]- Neue Objekt wurde erstellt! (123CE260,X:37,Y:70)
+[NEW]- Neue Objekt wurde erstellt! (123CE4A8,X:38,Y:70)
+[NEW]- Neue Objekt wurde erstellt! (123CE6F0,X:24,Y:90)
+[NEW]- Neue Objekt wurde erstellt! (123CE938,X:25,Y:90)
+[NEW]- Neue Objekt wurde erstellt! (123CEB80,X:24,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (123CEDC8,X:25,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (123CF010,X:34,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (123CF1B0,X:35,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (123CF398,X:37,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (123CF580,X:36,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (123CF768,X:37,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123CF950,X:36,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123CFB38,X:35,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123CFD20,X:34,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123CFF08,X:37,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (123D00F0,X:36,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (123D02D8,X:35,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (123D04C0,X:34,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (123D06A8,X:40,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (123D0890,X:7,Y:7)
+[NEW]- Neue Objekt wurde erstellt! (123D0A78,X:2,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123D0C60,X:2,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (123D0E48,X:3,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (123D1030,X:14,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (123D1218,X:16,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123D1400,X:11,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (123D15E8,X:37,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123D17D0,X:38,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123D19B8,X:11,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123D1BA0,X:12,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (123D1D88,X:22,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (123D1F70,X:31,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (123D2158,X:27,Y:85)
+[NEW]- Neue Objekt wurde erstellt! (123D2340,X:13,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (123D2530,X:43,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123D2720,X:42,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123D2910,X:41,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123D2B00,X:40,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123D2CF0,X:39,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123D2EE0,X:38,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123D30D0,X:37,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (123D32C0,X:37,Y:7)
+[NEW]- Neue Objekt wurde erstellt! (123D34B0,X:37,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123BA7B0,X:37,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (123BA958,X:37,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123BAB00,X:37,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (123BACA8,X:37,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (123BAE98,X:37,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (123BB088,X:37,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123BB278,X:37,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (123BB468,X:37,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123BB658,X:39,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123BB848,X:39,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (123BBA38,X:39,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (123BBC28,X:39,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (123BBE18,X:40,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (123BC008,X:41,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (123BC1F8,X:41,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (123BC3E8,X:41,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123BC5D8,X:40,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123BC7C8,X:39,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123BC9B8,X:38,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123BCBA8,X:41,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123BCD98,X:41,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (123BCF88,X:41,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123BD178,X:42,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123BD368,X:43,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123BD558,X:44,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123BD748,X:45,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123BD938,X:46,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123BDB28,X:43,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123BDD18,X:44,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123BDF08,X:45,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123BE0F8,X:46,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123BE2E8,X:47,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123BE4D8,X:48,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (123BE6C8,X:48,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (123BE8B8,X:48,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (123BEAA8,X:48,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (123BEC98,X:43,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (123BEE88,X:43,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (123BF078,X:43,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (123BF268,X:43,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (123BF458,X:43,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123BF648,X:42,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123BF838,X:41,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123BFA28,X:40,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123BFC18,X:39,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (123BFE08,X:38,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (123BFFF8,X:33,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (123C01E8,X:38,Y:30)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 5000 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 784,1107
+ - Spawnpoint: 1082,638
+ - Spawnpoint: 344,508
+ - Spawnpoint: 348,257
+ - Spawnpoint: 1180,1052
+ - Spawnpoint: 576,1918
+ - Spawnpoint: 612,2014
+ - Spawnpoint: 924,1916
+ - Spawnpoint: 1122,2043
+ - Spawnpoint: 1409,2332
+ - Spawnpoint: 355,2013
+ - Spawnpoint: 369,2199
+ - Spawnpoint: 1200,2200
+ - Spawnpoint: 643,2720
+ - Spawnpoint: 990,2718
+ - Spawnpoint: 784,2831
+ - Spawnpoint: 768,368
+
+[INFO]- NPCs werden erstellt...
+[NEW]- Neuer Enemy wurde erstellt! (123C89E0)
+[NEW]- Neuer Enemy wurde erstellt! (123C9420)
+[NEW]- Neuer Enemy wurde erstellt! (123C15E0)
+[NEW]- Neuer Enemy wurde erstellt! (123C2058)
+[NEW]- Neuer Enemy wurde erstellt! (123C2AB0)
+[NEW]- Neuer Enemy wurde erstellt! (123C3560)
+[NEW]- Neuer Enemy wurde erstellt! (123C4010)
+[NEW]- Neuer Enemy wurde erstellt! (123C4AC0)
+[NEW]- Neuer Enemy wurde erstellt! (123C5570)
+[NEW]- Neuer Enemy wurde erstellt! (123C6020)
+[NEW]- Neuer Enemy wurde erstellt! (123C6AD0)
+[NEW]- Neuer Enemy wurde erstellt! (12393388)
+[NEW]- Neuer Enemy wurde erstellt! (12393E38)
+[NEW]- Neuer Enemy wurde erstellt! (123949A8)
+[NEW]- Neuer Enemy wurde erstellt! (12395420)
+[NEW]- Neuer Enemy wurde erstellt! (12395E78)
+[NEW]- Neuer Enemy wurde erstellt! (12396928)
+[NEW]- Neuer Enemy wurde erstellt! (123973D8)
+[NEW]- Neuer Enemy wurde erstellt! (12397E88)
+[NEW]- Neuer NPC wurde erstellt! (123988F0)
+
+[CHECK]- Map <Schloss Neara> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (123C03D8 - p)
+[INFO]- Player-TP: 768,368
+[INFO]- Spiel wird gespeichert!
+
+[INFO]- Pause-Screen wird gestartet
+[CHECK]- Der Screen <3> wurde sicher gelöscht!
+[FAIL]- NPC <123988F0> ist bereits in der Activ-NPC Liste!
+[INFO]- Spiel wird gespeichert!
+
+[INFO]- Kredits-Screen wird gestartet
+[DELETE]- Message_Manager wurde geloescht!	(12372A10)
+[DELETE]- Dialog_Manager wurde geloescht!	(1237D7E0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C79D8)
+[DELETE]- Ein Objekt wurde geloescht!	(123C7B70)
+[DELETE]- Ein Objekt wurde geloescht!	(123C7D08)
+[DELETE]- Ein Objekt wurde geloescht!	(123C7EA0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C8038)
+[DELETE]- Ein Objekt wurde geloescht!	(123C81D0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C83B0)
+[DELETE]- Ein Objekt wurde geloescht!	(123C8590)
+[DELETE]- Ein Objekt wurde geloescht!	(123C8770)
+[DELETE]- Ein Objekt wurde geloescht!	(123CC178)
+[DELETE]- Ein Objekt wurde geloescht!	(123CC310)
+[DELETE]- Ein Objekt wurde geloescht!	(123CC838)
+[DELETE]- Ein Objekt wurde geloescht!	(123CC9D8)
+[DELETE]- Ein Objekt wurde geloescht!	(123CC508)
+[DELETE]- Ein Objekt wurde geloescht!	(123CD080)
+[DELETE]- Ein Objekt wurde geloescht!	(123CD410)
+[DELETE]- Ein Objekt wurde geloescht!	(123CD5B0)
+[DELETE]- Ein Objekt wurde geloescht!	(123CD750)
+[DELETE]- Ein Objekt wurde geloescht!	(123CD8F0)
+[DELETE]- Ein Objekt wurde geloescht!	(123CDA90)
+[DELETE]- Ein Objekt wurde geloescht!	(123CDC30)
+[DELETE]- Ein Objekt wurde geloescht!	(123CDE18)
+[DELETE]- Ein Objekt wurde geloescht!	(123CE018)
+[DELETE]- Ein Objekt wurde geloescht!	(123CE260)
+[DELETE]- Ein Objekt wurde geloescht!	(123CE4A8)
+[DELETE]- Ein Objekt wurde geloescht!	(123CE6F0)
+[DELETE]- Ein Objekt wurde geloescht!	(123CE938)
+[DELETE]- Ein Objekt wurde geloescht!	(123CEB80)
+[DELETE]- Ein Objekt wurde geloescht!	(123CEDC8)
+[DELETE]- Ein Objekt wurde geloescht!	(123CF010)
+[DELETE]- Ein Objekt wurde geloescht!	(123CF1B0)
+[DELETE]- Ein Objekt wurde geloescht!	(123CF398)
+[DELETE]- Ein Objekt wurde geloescht!	(123CF580)
+[DELETE]- Ein Objekt wurde geloescht!	(123CF768)
+[DELETE]- Ein Objekt wurde geloescht!	(123CF950)
+[DELETE]- Ein Objekt wurde geloescht!	(123CFB38)
+[DELETE]- Ein Objekt wurde geloescht!	(123CFD20)
+[DELETE]- Ein Objekt wurde geloescht!	(123CFF08)
+[DELETE]- Ein Objekt wurde geloescht!	(123D00F0)
+[DELETE]- Ein Objekt wurde geloescht!	(123D02D8)
+[DELETE]- Ein Objekt wurde geloescht!	(123D04C0)
+[DELETE]- Ein Objekt wurde geloescht!	(123D06A8)
+[DELETE]- Ein Objekt wurde geloescht!	(123D0890)
+[DELETE]- Ein Objekt wurde geloescht!	(123D0A78)
+[DELETE]- Ein Objekt wurde geloescht!	(123D0C60)
+[DELETE]- Ein Objekt wurde geloescht!	(123D0E48)
+[DELETE]- Ein Objekt wurde geloescht!	(123D1030)
+[DELETE]- Ein Objekt wurde geloescht!	(123D1218)
+[DELETE]- Ein Objekt wurde geloescht!	(123D1400)
+[DELETE]- Ein Objekt wurde geloescht!	(123D15E8)
+[DELETE]- Ein Objekt wurde geloescht!	(123D17D0)
+[DELETE]- Ein Objekt wurde geloescht!	(123D19B8)
+[DELETE]- Ein Objekt wurde geloescht!	(123D1BA0)
+[DELETE]- Ein Objekt wurde geloescht!	(123D1D88)
+[DELETE]- Ein Objekt wurde geloescht!	(123D1F70)
+[DELETE]- Ein Objekt wurde geloescht!	(123D2158)
+[DELETE]- Ein Objekt wurde geloescht!	(123D2340)
+[DELETE]- Ein Objekt wurde geloescht!	(123D2530)
+[DELETE]- Ein Objekt wurde geloescht!	(123D2720)
+[DELETE]- Ein Objekt wurde geloescht!	(123D2910)
+[DELETE]- Ein Objekt wurde geloescht!	(123D2B00)
+[DELETE]- Ein Objekt wurde geloescht!	(123D2CF0)
+[DELETE]- Ein Objekt wurde geloescht!	(123D2EE0)
+[DELETE]- Ein Objekt wurde geloescht!	(123D30D0)
+[DELETE]- Ein Objekt wurde geloescht!	(123D32C0)
+[DELETE]- Ein Objekt wurde geloescht!	(123D34B0)
+[DELETE]- Ein Objekt wurde geloescht!	(123BA7B0)
+[DELETE]- Ein Objekt wurde geloescht!	(123BA958)
+[DELETE]- Ein Objekt wurde geloescht!	(123BAB00)
+[DELETE]- Ein Objekt wurde geloescht!	(123BACA8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BAE98)
+[DELETE]- Ein Objekt wurde geloescht!	(123BB088)
+[DELETE]- Ein Objekt wurde geloescht!	(123BB278)
+[DELETE]- Ein Objekt wurde geloescht!	(123BB468)
+[DELETE]- Ein Objekt wurde geloescht!	(123BB658)
+[DELETE]- Ein Objekt wurde geloescht!	(123BB848)
+[DELETE]- Ein Objekt wurde geloescht!	(123BBA38)
+[DELETE]- Ein Objekt wurde geloescht!	(123BBC28)
+[DELETE]- Ein Objekt wurde geloescht!	(123BBE18)
+[DELETE]- Ein Objekt wurde geloescht!	(123BC008)
+[DELETE]- Ein Objekt wurde geloescht!	(123BC1F8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BC3E8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BC5D8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BC7C8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BC9B8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BCBA8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BCD98)
+[DELETE]- Ein Objekt wurde geloescht!	(123BCF88)
+[DELETE]- Ein Objekt wurde geloescht!	(123BD178)
+[DELETE]- Ein Objekt wurde geloescht!	(123BD368)
+[DELETE]- Ein Objekt wurde geloescht!	(123BD558)
+[DELETE]- Ein Objekt wurde geloescht!	(123BD748)
+[DELETE]- Ein Objekt wurde geloescht!	(123BD938)
+[DELETE]- Ein Objekt wurde geloescht!	(123BDB28)
+[DELETE]- Ein Objekt wurde geloescht!	(123BDD18)
+[DELETE]- Ein Objekt wurde geloescht!	(123BDF08)
+[DELETE]- Ein Objekt wurde geloescht!	(123BE0F8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BE2E8)
+[DELETE]- Ein Objekt wurde geloescht!	(123BE4D8)
+[DELETE]- Ein Ob

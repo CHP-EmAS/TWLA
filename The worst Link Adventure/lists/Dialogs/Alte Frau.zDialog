@@ -1,0 +1,31 @@
+{ID}5
+
+{next section}
+	{speaker name}Alte Frau
+	{text}Ohh!$enterGut, dass sie da sind...
+	{text}Mein kleiner Hasi ist verschwunden, ich hab ihn zuletzt in der Nähe des Friedhofes auslauf gegeben.
+	{text}Aber dann ist er nicht mehr zurück gekommen. Eigentlich kommt er immer zurück.
+	{text}Bitte finden sie ihn, ich rufe ihn immer Abends, aber ohne Erfolg.
+	{quest command}speak-5-0
+{next section}
+	{requirement}speak-5-0
+	{speaker name}Alte Frau
+	{text}Beim Friedhof hab ich meinen Hasi zuletzt gesehen!
+	{text}Wer ihn findet, bekommt eine ausergewöhnliche Belohnung.
+{next section}
+	{requirement}found-Hasi
+	{speaker name}Alte Frau
+	{command}setNPCActivity 7 1
+	{command}update
+	{text}Du... du hast Hasi gefunden!
+	{text}Danke, ich war schon krank vor Sorge.
+	{text}Hier ist dein Finderlohn!
+	{command}give 993 1
+	{text}Ich hab ihn bei Ausgrabungen in der Sebara Wüste gefunden.
+	{quest command}speak-5-2
+{next section}
+	{requirement}speak-5-2
+	{speaker name}Alte Frau
+	{text}Ach, ich kann mich nie genug dafür bedanken, dass du meinen Hasi gerettet hast.
+	{text}Danke!!
+{end sections}

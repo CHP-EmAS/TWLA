@@ -1,0 +1,151 @@
+{ID}2
+
+{next section}
+	{speaker name}Seltsame Stimme
+	{text color} 0,150,150,100
+	{text}. . .
+	{text color} 0,200,200,150
+	{text}$playername...
+	{text color} 0,255,255,255
+	{text}$playername.....
+	{text}$playername, wach auf...
+	{text color} 0,255,255,150
+	{text}Ich brauche dich...
+	{text color} 0,150,150,100
+	{text}...
+	{quest command}speak-2-0
+{next section}
+	{requirement}speak-2-0
+	{speaker name}Königin Michelle
+	{text color} 0,150,150,100
+	{text}. . .
+	{text color} 0,200,200,150
+	{text}$playername...
+	{text color} 0,255,255,255
+	{text}$playername.....
+	{text}Ich brauche deine Hilfe!
+	{text}Du hast mit meinem uralten Freund ja schon geredet.
+	{text}Es stimmt! Valac hat mich in seinem Reich gefangen genommen.
+	{text}Aber das war sein Fehler. Dadurch kann ich nämlich verhindern, dass sich das Portal zur normalen Welt komplett öffnet.
+	{text}Dies halte ich aber nicht mehr lange durch. Valac wird es bald schaffen das Portal zu öffnen.
+	{text}Das Problem ist, dass das Schließen des Portals verhindert, dass du in die Schattenwelt gelangen kannst.
+	{text}Du kannst also nicht sofort mit Valac kämpfen.
+	{text}Da es eine Brücke von dem Schattenreich zur normalen Welt gibt, gibt es auch eine andere Brücke von der normalen Welt zum Schattenreich.
+	{text}Diese Brücken wurden vor langer Zeit errichtet als die Schatten und das Licht noch nicht verfeindet waren.
+	{text}Die Brücke zum Schattenreich lässt sich mit drei Fragmenten öffnen, die im ganzen Land versteckt sind.
+	{text color} 255,255,0,255
+	{text}Eines soll in der Sebara Wüste liegen, das andere im Toten Wald und das letzte im Kerker von unserem Schloss.
+	{text color} 0,255,255,255
+	{text}Ja ich sagte unser Schloss.
+	{text}Du bist der König von Selafur
+	{text}Als Valac in unser Reich hineinbrach, stelltest du dich zwischen uns.
+	{text}Doch die Kraft von Valac war bereits zu stark. 
+	{text}Als er dich mit einem Todeszauber töten wollte, wante ich all meine Kraft auf, um dich weg zu teleportieren.
+	{text}Da beide Zauber gleichzeitig trafen, wurde deine Erinnerungen gelöscht und ich von ihm ins Schattenreich gebracht.
+	{text}Scheinbar wurde auch dein Aussehen verändert.
+	{text}Aber nun da du ein paar Bruchstücke weißt, musst du mir vertrauen und diese drei Fragmente finden!
+	{text}Ich brauche dich!
+	{quest command}speak-2-1
+{next section}
+	{requirement}speak-2-1
+	{speaker name}Königin Michelle
+	{text color} 0,150,150,100
+	{text}. . .
+	{text color} 0,200,200,150
+	{text}$playername...
+	{text color} 0,255,255,255
+	{text}$playername.....
+	{text}Du hast das erste Fragment gefunden!
+	{text}Fehlen nur noch 2!
+	{quest command}speak-2-2
+{next section}
+	{requirement}speak-2-2
+	{speaker name}Königin Michelle
+	{text color} 0,150,150,100
+	{text}. . .
+	{text color} 0,200,200,150
+	{text}$playername...
+	{text color} 0,255,255,255
+	{text}$playername.....
+	{text}Du hast das zweite Fragment gefunden!
+	{text}Fehlt nur noch 1!
+	{quest command}speak-2-3
+{next section}
+	{requirement}speak-2-3
+	{speaker name}Königin Michelle
+	{text color} 0,150,150,100
+	{text}. . .
+	{text color} 0,200,200,150
+	{text}$playername...
+	{text color} 0,255,255,255
+	{text}$playername.....
+	{text}Du hast nun alle Fragmente gefunden!
+	{text}Gehe zu unserem Schloss zurück und setze alle drei Fragmente oben auf dem Dach des Schlosses ein, damit sich das Tor zur Schattenwelt öffnet.
+	{text}Es heißt, wer alle Fragmente einsetzt, bekommt ein Relikt des Lichtes als Wegweiser.
+	{quest command}speak-2-4
+{next section}
+	{requirement}speak-2-4
+	{speaker name}Königin Michelle
+	{command}give 9 1
+	{text color} 0,150,150,100
+	{text}. . .
+	{text color} 0,200,200,150
+	{text}$playername...
+	{text color} 0,255,255,255
+	{text}$playername.....
+	{text}Ich wusste das ich auf dich zählen kann!
+	{text}Nun da du alle Fragmente eingesetzt hast, ist die Brücke zum Schattenreich geöffnet.
+	{text}Der Eingang zur Brücke ist ganz oben auf dem Berg Naru.
+	{text}Mach dich bereit und rette unser Königreich!
+	{text}Also ist die Prophezeiung wahr, der Held der alle drei Fragmente vereint erhält das Schwert des Lichts.
+	{text}Es ist die stärkste Waffe die jemals geschmiedet wurde. Sie enthält die Kraft des Lichts, mit der man Valac töten kann.
+	{quest command}speak-2-5
+{next section}
+	{requirement}speak-2-5
+	{speaker name}Königin Michelle
+	{text color} 0,150,150,100
+	{text}. . .
+	{text color} 0,200,200,150
+	{text}$playername...
+	{text color} 0,255,255,255
+	{text}$playername.....
+	{text}Du bist da!
+	{text}Ich lenke Valac nun weiter ab, damit er diesen Eingang nicht bemerkt.
+	{text}Das Schicksal von Selafur hängt nun von dir ab!
+	{text}Du kannst dich mit der Melody der Freiheit jederzeit zurück in die normale Welt teleportieren.
+	{quest command}speak-2-6
+{next section}
+	{requirement}speak-2-6
+	{speaker name}Königin Michelle
+	{text color} 0,150,150,100
+	{text}. . .
+	{text color} 0,200,200,150
+	{text}$playername...
+	{text color} 0,255,255,255
+	{text}$playername.....
+	{text}Das was du gerade bekommen hast ist ein Amulett, das dich vor Schaden schützen kann.
+	{text}Dieses Amulett gibt es nur einmal. Man sagt, in äußersten Notfällen wird der Schaden sogar reflecktiert.
+	{text}Ich spüre das du ganz nah bist, meine Kraft ist gleich verbraucht!
+	{text}Beeile dich!
+	{quest command}speak-2-7
+{next section}
+	{requirement}kill-valac
+	{command}setNPCActivity 1 0
+	{command}setNPCActivity 2 1
+	{command}update
+	{speaker name}Königin Michelle
+	{text color} 0,255,255,255
+	{text}$playername.....
+	{text}Du....
+	{text}Du hast es geschafft!
+	{text}Du hast unser Königreich gerettet!
+	{command}setNPCActivity 2 0
+	{command}forceEnding
+	{quest command}speak-2-8
+{next section}
+	{requirement}speak-2-8
+	{speaker name}Königin Michelle
+	{text color} 0,255,255,255
+	{text}Du hast unser Königreich gerettet!
+	{text}$playername, du bist ein wahrer Held!
+{end sections}

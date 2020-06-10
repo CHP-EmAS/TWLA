@@ -1,0 +1,33 @@
+{ID}9
+
+{next section}
+	{quest command}speak-9-0
+	{speaker name}Mindy
+	{text}Willkommen in Mindy's Tränke Shop!
+	{text}Ich verkaufe hier Tränke aller Art.
+	{text}Rote Tränke regenerieren 4 Herzen, ein blauer Trank regeneriert sogar alles.
+	{text}Gelbe Tränke regenerieren deine Energy vollständig!
+	{text}Außerdem habe ich immoment ein Haus zu verkaufen! Kaufe einfach den Schlüssel!
+	{do question}FrageKaufen
+{next section}
+	{requirement}speak-9-0
+	{speaker name}Mindy
+	{text}Guten Tag, $playername!
+	{text}Schön dich wieder zu sehen!
+	{do question}FrageKaufen
+{end sections}
+
+{question}FrageKaufen
+	{question text}Möchtest du was Kaufen?
+	{answer}Ja
+		{speaker name}Mindy
+		{text}Yippi!!!!
+		{command}openPotionShop
+	{answer}Nein
+		{speaker name}Mindy
+		{text}Ok$enterAuf Wiedersehen!!
+	{answer}Trank?
+		{text}Ich verkaufe hier Tränke aller Art.
+		{text}Rote Tränke regenerieren 4 Herzen, ein blauer Trank regeneriert sogar alles.
+		{text}Gelbe Tränke regenerieren deine Energy vollständig!
+{end question}

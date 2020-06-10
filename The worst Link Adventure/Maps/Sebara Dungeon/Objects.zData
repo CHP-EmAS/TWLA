@@ -1,0 +1,32 @@
+{cmdDoor}0,19,9,NONE;
+{button}1,17,12,doObjectCmd cmd:open 0,doObjectCmd cmd:close 0,0,1
+{button}2,35,63,doObjectCmd add:b1 12,doObjectCmd remove:b1 12,0,1
+{button}3,35,66,doObjectCmd add:b2 12,doObjectCmd remove:b2 12,0,1
+{button}4,35,69,doObjectCmd add:b3 12,doObjectCmd remove:b3 12,0,1
+{button}5,35,72,doObjectCmd remove:b4 12,doObjectCmd add:b4 12,0,1
+{button}6,35,75,doObjectCmd add:b5 12,doObjectCmd remove:b5 12,0,1
+{button}7,35,78,doObjectCmd remove:b6 12,doObjectCmd add:b6 12,0,1
+{button}8,35,81,doObjectCmd remove:b7 12,doObjectCmd add:b7 12,0,1
+{button}9,35,84,doObjectCmd add:b8 12,doObjectCmd remove:b8 12,0,1
+{teleporter}10,28,61,2
+{teleporter}11,28,9,1
+{cmdDoor}12,18,81,b1,b2,b3,b4,b5,b6,b7,b8;b4,b6,b7
+{portal}13,29,81,Sebara Boss,0
+{chest}14,43,5,-1,20
+{key_stone}15,45,4,993
+{trigger}16,28,84,1,0,Q - Melodie erlernen,enableMelody 2;say <Du hast die Ruhe des Labyrinthes erlernt!> 255 255 0
+{portal}17,24,49,Sebara Wueste,2
+{portal}18,25,49,Sebara Wueste,2
+{jar}19,28,15,-1
+{jar}20,28,14,-1
+{jar}21,6,2,-1
+{jar}22,16,2,-1
+{jar}23,26,2,-1
+{jar}24,22,42,-1
+{jar}25,27,42,-1
+{jar}26,22,78,46
+{jar}27,23,78,46
+{jar}28,24,78,46
+{jar}29,25,78,46
+{jar}30,26,78,46
+{jar}31,27,78,46

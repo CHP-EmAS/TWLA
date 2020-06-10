@@ -1,0 +1,34 @@
+{ID}7
+
+{next section}
+	{speaker name}Titus
+	{text}Ahh, gut das hier mal Jemand vorbei kommt!
+	{text}Ich bin Titus.
+	{text}Ich bräuchte einen Zünder, den kann man in Salih´s Bomber Shop kaufen.
+	{text}Da ich kaum Zeit habe, weil ich meine Bom... ähh Schulprojekt fertigstellen muss, wäre es schön wenn du ihn für mich besorgen könntest.
+	{text}Natürlich springt für dich auch was dabei raus!!
+	{text}Ich habe vor kurzen den Schlüssel für den toten Wald auf dem Schwarzma... ähh Flohmarkt gekauft.
+	{text}Den würde ich dir zum Austausch für den Zünder geben.
+	{quest command}speak-7-0
+{next section}
+	{requirement}speak-7-0
+	{speaker name}Titus
+	{text}Ich brauche dringend einen Zünder, den kann man in Salih´s Bomber Shop kaufen.
+	{text}Ich habe vor kurzen den Schlüssel für den toten Wald auf dem Schwarzma... ähh Flohmarkt gekauft.
+	{text}Den würde ich dir zum Austausch für den Zünder geben.
+{next section}
+	{requirement}speak-7-0
+	{requirement}found-52
+	{speaker name}Titus
+	{text}Danke!
+	{text}Hier ist der Schlüssel, wie versprochen.
+	{command}give 989 1
+	{text}Und nun hau ab, du hast hier nichts gesehen.
+	{quest command}speak-7-1
+{next section}
+	{requirement}speak-7-1
+	{speaker name}Titus
+	{text}Was machst du denn hier?
+	{text}Ich benötige keine wietere Hilfe von dir!
+	{text}Und nun hau ab, du hast hier nichts gesehen.
+{end sections}

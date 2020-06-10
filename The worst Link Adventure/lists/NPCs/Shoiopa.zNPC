@@ -1,0 +1,11 @@
+{ID}2
+{name}Shoiopa
+
+{tileset}1
+{cutSizeX}16
+{cutSizeY}16
+{cutPosX}2
+{cutPosY}6
+
+{interactable}1
+{dialogID}999

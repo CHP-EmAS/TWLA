@@ -1,0 +1,74 @@
+{sign}0,4,95,Dies ist der Pfad der Fragen. Wähle den Pfad mit der richtigen Lösung.$enterHast du das Verstanden?,255,255,255,1
+{sign}1,1,93,Nein,255,255,255,1
+{sign}2,4,93,Ja,255,255,255,1
+{sign}3,7,93,Ich mag Einhörner!,255,255,255,1
+{sign}4,4,75,Wie viele Geburtstage hat der Mensch?,255,255,255,1
+{sign}5,1,73,1,255,255,255,1
+{sign}6,4,73,70-80,255,255,255,1
+{sign}7,7,73,So alt er wird,255,255,255,1
+{sign}8,4,55,1 + 4 * 2 = ?,255,255,255,1
+{sign}9,1,53,10,255,255,255,1
+{sign}10,4,53,9,255,255,255,1
+{sign}11,7,53,8,255,255,255,1
+{sign}12,4,35,Schweiz wird vorne mi S geschrieben und hinten mit h. Stimmt das?,255,255,255,1
+{sign}13,1,33,Nein,255,255,255,1
+{sign}14,4,33,Ja,255,255,255,1
+{sign}15,7,33,Mhh,255,255,255,1
+{sign}16,4,15,0 = 3x + 21; x = ?,255,255,255,1
+{sign}17,1,13,7,255,255,255,1
+{sign}18,4,13,0,255,255,255,1
+{sign}19,7,13,-7,255,255,255,1
+{sign}20,27,97,Die wievielte Frage ist das?,255,255,255,1
+{sign}21,24,95,6,255,255,255,1
+{sign}22,27,95,8,255,255,255,1
+{sign}23,30,95,10,255,255,255,1
+{sign}24,27,77,Welche Zahl kommt in dieser Sequenz als nächstes: 1; 11; 21; 1211; 111221; 312211; _____?,255,255,255,1
+{sign}25,24,75,12213311,255,255,255,1
+{sign}26,27,75,11144211,255,255,255,1
+{sign}27,30,75,13112221,255,255,255,1
+{sign}28,27,57,Der linke Pfad führt in ein tobendes Inferno. Der Pfad in der Mitte zu einem tödlichen Killer. Der rechte Pfad führt zu einem Löwen; der seit drei Monaten nichts gefressen hat. Wähle.,255,255,255,1
+{sign}29,24,55,Linker Pfad,255,255,255,1
+{sign}30,27,55,Mittlerer Pfad,255,255,255,1
+{sign}31,30,55,Rechter Pfad,255,255,255,1
+{sign}32,27,37,Drehe mich auf meine Seite und ich bin alles. Schneide mich in die Hälfte und ich bin nichts. Was bin ich?,255,255,255,1
+{sign}33,24,35,8,255,255,255,1
+{sign}34,27,35,11,255,255,255,1
+{sign}35,30,35,0,255,255,255,1
+{sign}36,27,17,Wenn ihr mich habt; wollt ihr mich teilen. Wenn ihr mich teilt; habt ihr mich nicht. Was bin ich?,255,255,255,1
+{sign}37,24,15,Ein Geheimnis,255,255,255,1
+{sign}38,27,15,Ein Versprechen,255,255,255,1
+{sign}39,30,15,Das Leid,255,255,255,1
+{teleporter}40,4,84,2
+{teleporter}41,1,64,3
+{teleporter}42,4,44,4
+{teleporter}43,4,24,5
+{teleporter}44,7,4,10
+{teleporter}45,24,86,9
+{teleporter}46,30,66,8
+{teleporter}47,30,46,7
+{teleporter}48,24,26,6
+{teleporter}49,24,6,1
+{teleporter}50,7,84,11
+{teleporter}51,1,84,11
+{teleporter}52,4,64,11
+{teleporter}53,7,64,11
+{teleporter}54,1,44,11
+{teleporter}55,7,44,11
+{teleporter}56,1,24,11
+{teleporter}57,7,24,11
+{teleporter}58,1,4,11
+{teleporter}59,4,4,11
+{teleporter}60,27,86,11
+{teleporter}61,30,86,11
+{teleporter}62,24,66,11
+{teleporter}63,27,66,11
+{teleporter}64,27,46,11
+{teleporter}65,24,46,11
+{teleporter}66,27,26,11
+{teleporter}67,30,26,11
+{teleporter}68,27,6,11
+{teleporter}69,30,6,11
+{portal}70,2,99,Toter Wald,1
+{portal}71,3,99,Toter Wald,1
+{trigger}72,15,1,1,1,Q - Betreten,changeMap <Halle der Weisheit> 0
+{trigger}73,16,1,1,1,Q - Betreten,changeMap <Halle der Weisheit> 0

@@ -1,0 +1,56 @@
+{ID}1
+
+{next section}
+	{quest command}speak-1-0
+	{speaker name}???
+	{text}HIIIIILFE!!!!
+{next section}
+	{requirement}speak-1-0
+	{quest command}speak-1-1
+	{speaker name}???
+	{text}HIIIIILFE!!!!
+	{text}IST HIER JEMAND!!!!
+{next section}
+	{requirement}speak-1-1
+	{speaker name}???
+	{text}HIIILF....
+	{text}AHH!
+	{text}Zum Glück bist du da!
+	{text}Du musst mir hefen!!
+	{text}Meine kleine Schwester ist dort drüben in den Abrund gefallen!!
+	{text}Sie kommt dort nicht mehr alleine raus und ich komme nicht an sie ran!
+	{text}Du musst sie retten!
+	{text}Aber spring nicht auch noch in den Abgrund, sonst wirst du dich verletzen!
+	{text}Es gibt einen anderen Eingang nach da unten! Etwas weiter Rechts von hier befindet sich der Eingang in das Wurzelsystem des Waldes!
+	{text}Dort ist klein Lara warscheinlich hineingefallen!
+	{text}Aber sei vorsichtig! Dort unten gibt es viele Monster!
+	{text}Es wäre unsinnig dort ohne Waffen hinein zu gehen.
+	{text}Nimm diesen Bogen zu deinem Schutz, ich schenke ihn dir wenn du meine Schwester rettest!
+	{command}give 19 1
+	{text}Dazu bekommst du noch ein Köcher der 20 Pfeile tragen kann.
+	{command}give 39 1
+	{text}Und natürlich Pfeile!
+	{command}give 34 20
+	{text}Aber nun schnell! Rette meine Schwester.
+	{text}Oh warte! Du brauchst noch diesen Schlüssel um das Tor zu öffnen!
+	{command}give 998 1
+	{text}Nun los, beeil dich!!!
+	{speaker name}Tutorial
+	{text color} 255,255,0,255
+	{text}Oh! Da hast du aber viel auf einmal bekommen! Das ist aber halb so wild!
+	{text}Wähle einfach den Bogen im Inventar aus, wenn du das gemacht hast, kannst du nun mit der "R" Taste schießen!
+	{text}Also können wir uns merken, das man Werkzeuge mit "R" benutzen kann und Schwerter mit Leertaste!
+	{text}Pfeile sind äußerst wertvoll, du findest sie manchmal in Gefäßen oder Büschen! Aber das passiert nicht so oft! Also geh sparsam mit ihnen um.
+	{text color} 255,255,255,255
+	{quest command}speak-1-2
+{next section}
+	{requirement}speak-1-2
+	{speaker name}???
+	{text}Beeil dich!
+	{text}Rette meine Schwester!
+{next section}
+	{requirement}speak-0-1
+	{requirement}speak-1-2
+	{speaker name}klein Julia
+	{text}Danke! Das du meine Schwester gerettet hast!!!
+{end sections}

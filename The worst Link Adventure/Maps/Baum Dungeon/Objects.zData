@@ -1,0 +1,41 @@
+{portal}0,28,42,Verbotener Hain,1
+{portal}1,29,42,Verbotener Hain,1
+{portal}2,19,19,Verbotener Hain,2
+{portal}3,20,19,Verbotener Hain,2
+{sign}4,21,1,Der Schlüssel ist von Links nach Rechts$enterAN-AUS-AN-AN,255,255,255,1
+{stone}5,25,30,0
+{stone}6,25,31,0
+{stone}7,25,32,0
+{stone}8,25,33,0
+{stone}9,25,34,0
+{stone}10,25,35,0
+{stone}11,26,19,0
+{stone}12,27,19,0
+{stone}13,28,19,0
+{stone}14,29,19,0
+{stone}15,29,20,0
+{stone}16,28,20,0
+{stone}17,27,20,0
+{stone}18,26,20,0
+{stone}19,26,21,0
+{stone}20,27,21,0
+{stone}21,29,21,0
+{stone}22,28,21,0
+{stone}23,29,22,0
+{stone}24,28,22,0
+{stone}25,26,22,0
+{stone}26,27,22,0
+{trigger}27,17,34,1,1,Q - Eintreten,changeMap <Baum Dungeon Boss> 0
+{trigger}28,18,34,1,1,Q - Eintreten,changeMap <Baum Dungeon Boss> 0
+{cmdDoor}29,45,27,button1,button2;
+{button}30,43,29,doObjectCmd add:button1 29,doObjectCmd remove:button1 29,0,0
+{button}31,48,29,doObjectCmd add:button2 29,doObjectCmd remove:button2 29,0,0
+{button}32,20,1,doObjectCmd add:b1ON 36,doObjectCmd remove:b1ON 36,0,0
+{button}33,27,2,doObjectCmd remove:b2OFF 36,doObjectCmd add:b2OFF 36,0,0
+{button}34,40,3,doObjectCmd add:b3ON 36,doObjectCmd remove:b3ON 36,0,0
+{button}35,48,8,doObjectCmd add:b4ON 36,doObjectCmd remove:b4ON 36,0,0
+{cmdDoor}36,17,4,b1ON,b2OFF,b3ON,b4ON;b2OFF
+{trigger}37,25,18,0,0,setNPCActivity 7 0
+{trigger}38,26,17,0,0,setNPCActivity 7 0
+{trigger}39,27,16,0,0,setNPCActivity 7 0
+{trigger}40,16,38,0,1,doDialog 9999

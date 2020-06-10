@@ -1,0 +1,11 @@
+{ID}3
+{name}Klein Julia
+
+{tileset}1
+{cutSizeX}15
+{cutSizeY}22
+{cutPosX}35
+{cutPosY}12
+
+{interactable}1
+{dialogID}1

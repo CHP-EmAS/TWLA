@@ -1,0 +1,855 @@
+[NEW]- Neuer Screen_Manager wurde erstellt! (003C7AA8)
+[INFO]- Debug = ON
+
+[INFO]- Nowendige Manager werden geladen
+
+[NEW]- Neuer Command_Manager wurde erstellt! (07B42350)
+[NEW]- Neuer Graphic_Manager wurde erstellt! (07B42570)
+
+[INFO]- Tilesets werden geladen...
+[CHECK]- People Tileset wurde erfolgreich geladen!
+[CHECK]- Overworld Tileset wurde erfolgreich geladen!
+[CHECK]- Baum Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Burg Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Kerker Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Lava Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Schloss Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Turm Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wasser Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wuesten Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Haus Tileset wurde erfolgreich geladen!
+[CHECK]- Schattenwelt Tileset wurde erfolgreich geladen!
+
+[INFO]- Sonstige Grafiken werden geladen...
+[CHECK]- Explosions Grafiken wurde erfolgreich geladen!
+[CHECK]- Wasser-Animation wurde erfolgreich geladen!
+[CHECK]- Lava-Animation wurde erfolgreich geladen!
+
+[INFO]- Schriftarten werden geladen...
+[CHECK]- Schriftart Arial wurde erfolgreich geladen!
+[CHECK]- Schriftart Pixel wurde erfolgreich geladen!
+
+[CHECK]- Midna Texture wurde erfolgreich geladen!
+[CHECK]- Midna Texture 2 wurde erfolgreich geladen!
+[NEW]- Neuer Animation_Manager wurde erstellt! (07C4EB68)
+[NEW]- Neuer Particle_Manager wurde erstellet! (07C4EC40)
+[NEW]- Neuer Sound_Manager wurde erstellt! (07C56010)
+
+[INFO]- Menü-Screen wird gestartet
+[CHECK]- Der Screen <13> wurde sicher gelöscht!
+
+[INFO]- Savegame-Selector-Screen wird gestartet
+[INFO]- Spielstände werden gesucht...
+
+[INFO]- Spielstand <save#1162018133210> gefunden!
+[NEW]- Neuer Map_Manager wurde erstellet! (17493F30)
+Name: PikachuLink
+Datum: 11.6.2018 13:32
+Max. Leben: 14
+Leben: 2.25
+Max. Energy: 650
+Energy: 17
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1162018143553> gefunden!
+Name: PikachuLink
+Datum: 11.6.2018 14:35
+Max. Leben: 4
+Leben: 4
+Max. Energy: 650
+Energy: 650
+Edelsteine: 7
+
+[INFO]- Spielstand <save#1162018151342> gefunden!
+Name: LOL
+Datum: 11.6.2018 15:13
+Max. Leben: 4
+Leben: 3
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1262018192954> gefunden!
+Name: EmAS
+Datum: 12.6.2018 19:29
+Max. Leben: 5
+Leben: 5
+Max. Energy: 500
+Energy: 458
+Edelsteine: 504
+
+[INFO]- Spielstand <save#1682018171822> gefunden!
+Name: EmAS
+Datum: 16.8.2018 17:18
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 192
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1692018161323> gefunden!
+Name: EmAS
+Datum: 16.9.2018 16:13
+Max. Leben: 4
+Leben: 3
+Max. Energy: 1150
+Energy: 119
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1692018161516> gefunden!
+Name: EmAS
+Datum: 16.9.2018 16:15
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1692018162637> gefunden!
+Name: aaaa
+Datum: 16.9.2018 16:26
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- Spielstand <save#24112018152521> gefunden!
+Name: PikachuLink
+Datum: 24.11.2018 15:25
+Max. Leben: 5
+Leben: 4.25
+Max. Energy: 650
+Energy: 650
+Edelsteine: 2
+
+[INFO]- Spielstand <save#3152018204026> gefunden!
+Name: EmAS
+Datum: 31.5.2018 20:40
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- ||||||************ Spiel wird gestartet! ************||||||
+[INFO]- Version: 1.2 Stable
+
+[INFO]- Items werden geladen
+[NEW]- Neue Item_List wurde erstellt! (1752C8D8)
+
+[INFO]- Nowendige Spiel-Manager werden geladen
+[NEW]- Neuer Message_Manager wurde erstellt! (17596FF8)
+[INFO]- Es wurden 17 Dialoge gefunden!
+[NEW]- Neuer Dialog_Manager wurde erstellt! (175A18D0)
+[NEW]- Neuer Weapon_Manager wurde erstellet! (175A19D8)
+[NEW]- Neuer NPC_Manager wurde erstellet! (175A1BB8)
+[NEW]- Neuer NPC wurde erstellt! (175A1FF0)
+[NEW]- Neuer Enemy wurde erstellt! (175A2348)
+[INFO]- Es wurden 12 NPCs gefunden!
+[NEW]- Collision System wurde erstellt! (175A4040)
+[INFO]- Quests werden geladen...
+[NEW]- Quest <lists/Quests/ahnenbaum.zQuest> wird erstellt!
+[CHECK]- Quest Nicht nur ein Baum (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/dreiFragmente.zQuest> wird erstellt!
+[CHECK]- Quest Drei Fragmente! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/hasiQuest.zQuest> wird erstellt!
+[CHECK]- Quest Finde Hasi! (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Letzter Schritt.zQuest> wird erstellt!
+[CHECK]- Quest Letzte Schritte! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/mushroomQuest.zQuest> wird erstellt!
+[CHECK]- Quest Pilzsuppe (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/rettung .zQuest> wird erstellt!
+[CHECK]- Quest Rettung! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/seltsamesRelikt.zQuest> wird erstellt!
+[CHECK]- Quest Abwehr des Lichtes (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/sesam öffne dich.zQuest> wird erstellt!
+[CHECK]- Quest Sesam öffne dich! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Valac.zQuest> wird erstellt!
+[CHECK]- Quest Besige Valac (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/wegAusWald.zQuest> wird erstellt!
+[CHECK]- Quest Der Schlüssel (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/werBinIch.zQuest> wird erstellt!
+[CHECK]- Quest Wer bin Ich? (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/zünder.zQuest> wird erstellt!
+[CHECK]- Quest Zünder (0,0) wurde geladen.
+[NEW]- Neuer Quest_Manager wurde erstellet! (175A40A0)
+[NEW]- Neuer Inventory_Manager wurde erstellt! (17534F78)
+[NEW]- Neuer Player_Manager wurde erstellet! (175A5EC0)
+
+[INFO]- Map <Pagotas> wird geladen...
+
+[NEW]- Neue Map <Maps/Pagotas> wird erstellt! (07B31210) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Pagotas
+ - ID: 2
+ - Size: 100,70
+ - Tileset: 0
+ - Background Music: Music/Save Woods.ogg
+ - Light-Level: 5
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (175B7560,X:17,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (175B76F8,X:18,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (175B7890,X:19,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (175B7A28,X:20,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (175B7BC0,X:18,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (175B7D58,X:19,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (17566C00,X:20,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (17566D98,X:18,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (17566F30,X:17,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (175670C8,X:19,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (175672A8,X:19,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (17567488,X:18,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (17567668,X:30,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (17567848,X:30,Y:22)
+[NEW]- Neue Objekt wurde erstellt! (17567A28,X:31,Y:22)
+[NEW]- Neue Objekt wurde erstellt! (175B7FC8,X:31,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (175B81A8,X:34,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (175B8388,X:35,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (175B8568,X:35,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (175B8748,X:49,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (175B8928,X:53,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (175B8B08,X:49,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (175B8CE8,X:55,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (175B8EC8,X:58,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (175B90A8,X:31,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (175B9288,X:25,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (175B9468,X:14,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (175B9648,X:50,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (175B9828,X:55,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (175B9A08,X:57,Y:25)
+[NEW]- Neue Objekt wurde erstellt! (175B9BE8,X:59,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (175B9DC8,X:57,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (175B9FA8,X:51,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (175BA188,X:36,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (175BA368,X:31,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (175BA548,X:32,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (175BA728,X:32,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (175BA908,X:30,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (175BAAE8,X:31,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (175BACC8,X:30,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (175BAEA8,X:29,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (175BB088,X:33,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (175BB268,X:35,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (175BB448,X:54,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (175BB628,X:54,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (175BB808,X:55,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (17602510,X:56,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (176026F0,X:57,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (176028D0,X:58,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (17602AB0,X:57,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (17602C90,X:56,Y:25)
+[NEW]- Neue Objekt wurde erstellt! (17602E70,X:55,Y:25)
+[NEW]- Neue Objekt wurde erstellt! (17603050,X:45,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (17603230,X:68,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (17603410,X:68,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (176035F0,X:67,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (176037D0,X:67,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (176039B0,X:66,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (17603B90,X:68,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (17603D70,X:69,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (17603F50,X:69,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (17604130,X:80,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (17604310,X:82,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (176044F0,X:78,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (176046D0,X:72,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (176048B0,X:70,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (17604A90,X:71,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (17604C70,X:73,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (17604E50,X:70,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (17605030,X:70,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (176056C8,X:62,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (176059A8,X:63,Y:41)
+[NEW]- Neue Objekt wurde erstellt! (17605B40,X:62,Y:41)
+[NEW]- Neue Objekt wurde erstellt! (17605CD8,X:63,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (17605378,X:61,Y:43)
+[NEW]- Neue Objekt wurde erstellt! (175BC9E0,X:64,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (175BCB78,X:62,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (175BCD10,X:63,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (176051C8,X:63,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (175BB9A0,X:84,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (175BBB38,X:85,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (175BBCD0,X:87,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (175BBE68,X:88,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (175BC000,X:83,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (175BC198,X:84,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (175BC378,X:85,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (175BC558,X:87,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (175BC738,X:88,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (175BCEA8,X:89,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (175BD040,X:88,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (175BD1D8,X:87,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (175BD3B8,X:86,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (175BD598,X:85,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (175BD778,X:84,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (175BD958,X:85,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (175BDB38,X:86,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (175BDD18,X:87,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (175BDEF8,X:86,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (175BE0D8,X:83,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (175BE2B8,X:89,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (175BE498,X:84,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (175BE678,X:85,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (175BE858,X:86,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (175BEA38,X:87,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (175BEC18,X:88,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (175BEDF8,X:82,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (175BEFD8,X:82,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (175BF1B8,X:83,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (175BF398,X:63,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (175BF578,X:63,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (175BF820,X:71,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (175BFB68,X:86,Y:51)
+[NEW]- Neue Objekt wurde erstellt! (175BFD00,X:80,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175BFE98,X:85,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (175C0030,X:86,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (175C0210,X:74,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175C03F0,X:75,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175C05D0,X:73,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175C07B0,X:72,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175C0990,X:71,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175C0B70,X:70,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175C0D50,X:69,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175C0F30,X:76,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (175C1110,X:76,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175C12F0,X:67,Y:53)
+[NEW]- Neue Objekt wurde erstellt! (175C14D0,X:74,Y:56)
+[NEW]- Neue Objekt wurde erstellt! (175C16B0,X:76,Y:56)
+[NEW]- Neue Objekt wurde erstellt! (175C1890,X:75,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (175C1A70,X:77,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (175C1C50,X:78,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (175C1E30,X:76,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (175C2010,X:78,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (175C21F0,X:77,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (175C23D0,X:81,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (175C25B0,X:68,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (175C2790,X:71,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (175C2970,X:44,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (175C2B50,X:45,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (175C2D30,X:46,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (175C2F10,X:47,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (175C30F0,X:48,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (175C32D0,X:48,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (175C34B0,X:48,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (175C3690,X:44,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (175C3870,X:44,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (175C3A50,X:45,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (175C3C30,X:47,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (175C3E10,X:32,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (175C3FF0,X:39,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (175C41D0,X:45,Y:44)
+[NEW]- Neue Objekt wurde erstellt! (175C43B0,X:58,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (175C4590,X:43,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (175C4770,X:36,Y:48)
+[NEW]- Neue Objekt wurde erstellt! (175C4998,X:44,Y:54)
+[NEW]- Neue Objekt wurde erstellt! (175C4BE0,X:46,Y:54)
+[NEW]- Neue Objekt wurde erstellt! (175C4E98,X:48,Y:54)
+[NEW]- Neue Objekt wurde erstellt! (175C51C0,X:50,Y:54)
+[NEW]- Neue Objekt wurde erstellt! (175C5500,X:50,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (175C5858,X:48,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (175C5B50,X:46,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (175C5DE8,X:44,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (175C60C8,X:44,Y:50)
+[NEW]- Neue Objekt wurde erstellt! (175C6360,X:50,Y:50)
+[NEW]- Neue Objekt wurde erstellt! (175C6578,X:43,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (175C68F0,X:45,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (175C6C68,X:51,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (175C6FE0,X:49,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (175C7208,X:24,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (175C73A0,X:24,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (175C7538,X:23,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (175C76D0,X:22,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (175C78B0,X:21,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (175C7A90,X:20,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (175C7C70,X:20,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (175C7E50,X:20,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (175C8030,X:20,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (175C8210,X:20,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (175C83F0,X:21,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (175C85D0,X:22,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (175C87B0,X:24,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (175C8990,X:23,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (175C8B70,X:24,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (175C8D50,X:8,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (175C8F30,X:9,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (175C9110,X:9,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (175C92F0,X:8,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (175C94D0,X:8,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (175C96B0,X:9,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (175C9890,X:9,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (175C9A70,X:8,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (175C9C50,X:38,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (175C9E30,X:38,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (175CA010,X:38,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (175CA1F0,X:38,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (175CA3D0,X:38,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (175CA5B0,X:38,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (175CA790,X:38,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (175CA970,X:38,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (175CAB50,X:38,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (175CAD30,X:38,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (175CAF10,X:43,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (175CB0F0,X:42,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (175CB2D0,X:42,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (175CB4B0,X:42,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (175CB690,X:42,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (175CB870,X:42,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (175CBA50,X:42,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (175CBC30,X:42,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (175CBE10,X:42,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (175CBFF0,X:42,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (175CC1D0,X:42,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (175CC3B0,X:37,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (175CC590,X:32,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (175CC770,X:33,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (175CC950,X:35,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (175CCB30,X:68,Y:49)
+[NEW]- Neue Objekt wurde erstellt! (175CCD10,X:69,Y:53)
+[NEW]- Neue Objekt wurde erstellt! (175CCEF0,X:67,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (175CD0D0,X:63,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (175CD2B0,X:63,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (175CD490,X:62,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (175CD670,X:63,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (175CD850,X:59,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (175CDA30,X:51,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (175CDCC0,X:50,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (17629038,X:56,Y:48)
+[NEW]- Neue Objekt wurde erstellt! (17629218,X:34,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (176293F8,X:35,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (176295D8,X:33,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (176297B8,X:33,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (17629998,X:35,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (17629B78,X:34,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (17629D58,X:32,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175F18B8,X:36,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175F1A50,X:60,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (175F1CA0,X:12,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (175F1EE8,X:12,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (175F2130,X:12,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (175F2378,X:13,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175F25C0,X:14,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175F2808,X:15,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (175F2A50,X:15,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (175F2C98,X:15,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (175F2EE0,X:11,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (175F3130,X:13,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (175F3380,X:20,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (175F35D0,X:28,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (175F3868,X:39,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (175F3A20,X:40,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (175F41B0,X:41,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (175F3F80,X:86,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (175F54F0,X:70,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (175F5690,X:8,Y:65)
+[NEW]- Neue Objekt wurde erstellt! (175F5830,X:9,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (175F59D0,X:23,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175F43F8,X:14,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (175F4598,X:6,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (175F4730,X:19,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175F48C8,X:18,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (175F4A60,X:8,Y:46)
+[NEW]- Neue Objekt wurde erstellt! (175F4BF8,X:56,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (175F4DB8,X:82,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (175F5008,X:72,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (175F5258,X:80,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (175F5B70,X:74,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (175F5D78,X:67,Y:41)
+[NEW]- Neue Objekt wurde erstellt! (175F5FC8,X:34,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (175F6210,X:89,Y:50)
+[NEW]- Neue Objekt wurde erstellt! (175F63B0,X:89,Y:51)
+[NEW]- Neue Objekt wurde erstellt! (175F65E0,X:91,Y:50)
+[NEW]- Neue Objekt wurde erstellt! (175F6828,X:91,Y:51)
+[NEW]- Neue Objekt wurde erstellt! (175F6C08,X:46,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (175F7100,X:7,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (175F72B8,X:7,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (175F7470,X:9,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (175F7688,X:70,Y:46)
+[NEW]- Neue Objekt wurde erstellt! (175F7920,X:65,Y:41)
+[NEW]- Neue Objekt wurde erstellt! (175F7C90,X:26,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (175F7F68,X:14,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (175F8200,X:57,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (175F8500,X:65,Y:22)
+[NEW]- Neue Objekt wurde erstellt! (175F8778,X:83,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (175F8A58,X:74,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (175F8C10,X:76,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (175F8E58,X:69,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (175F90A0,X:65,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (175F92E8,X:81,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (175F9530,X:88,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (175F9778,X:86,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (175F99C0,X:35,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (175F9C78,X:48,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (175F9FA0,X:42,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (175FA280,X:38,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (175FA560,X:61,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (175FA820,X:47,Y:48)
+[NEW]- Neue Objekt wurde erstellt! (175FAAA0,X:34,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (175FAD68,X:27,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (175FB048,X:19,Y:22)
+[NEW]- Neue Objekt wurde erstellt! (175FB3A8,X:73,Y:33)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 7000 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 1472,480
+ - Spawnpoint: 352,407
+ - Spawnpoint: 417,536
+ - Spawnpoint: 641,692
+ - Spawnpoint: 285,1038
+ - Spawnpoint: 433,1871
+ - Spawnpoint: 2887,1615
+ - Spawnpoint: 1792,663
+ - Spawnpoint: 897,468
+ - Spawnpoint: 2369,1049
+ - Spawnpoint: 2144,1334
+ - Spawnpoint: 1504,1572
+ - Spawnpoint: 2624,504
+ - Spawnpoint: 1280,242
+ - Spawnpoint: 2304,450
+ - Spawnpoint: 2560,796
+ - Spawnpoint: 1088,578
+ - Spawnpoint: 1152,1984
+
+[INFO]- NPCs werden erstellt...
+
+[CHECK]- Map <Pagotas> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (175FB660 - p)
+[INFO]- Player-TP: 1472,480
+[CHECK]- Der Screen <6> wurde sicher gelöscht!
+[INFO]- Player-TP: 432,1157
+
+[INFO]- Beenden!
+
+[DELETE]- Message_Manager wurde geloescht!	(17596FF8)
+[DELETE]- Dialog_Manager wurde geloescht!	(175A18D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175B7560)
+[DELETE]- Ein Objekt wurde geloescht!	(175B76F8)
+[DELETE]- Ein Objekt wurde geloescht!	(175B7890)
+[DELETE]- Ein Objekt wurde geloescht!	(175B7A28)
+[DELETE]- Ein Objekt wurde geloescht!	(175B7BC0)
+[DELETE]- Ein Objekt wurde geloescht!	(175B7D58)
+[DELETE]- Ein Objekt wurde geloescht!	(17566C00)
+[DELETE]- Ein Objekt wurde geloescht!	(17566D98)
+[DELETE]- Ein Objekt wurde geloescht!	(17566F30)
+[DELETE]- Ein Objekt wurde geloescht!	(175670C8)
+[DELETE]- Ein Objekt wurde geloescht!	(175672A8)
+[DELETE]- Ein Objekt wurde geloescht!	(17567488)
+[DELETE]- Ein Objekt wurde geloescht!	(17567668)
+[DELETE]- Ein Objekt wurde geloescht!	(17567848)
+[DELETE]- Ein Objekt wurde geloescht!	(17567A28)
+[DELETE]- Ein Objekt wurde geloescht!	(175B7FC8)
+[DELETE]- Ein Objekt wurde geloescht!	(175B81A8)
+[DELETE]- Ein Objekt wurde geloescht!	(175B8388)
+[DELETE]- Ein Objekt wurde geloescht!	(175B8568)
+[DELETE]- Ein Objekt wurde geloescht!	(175B8748)
+[DELETE]- Ein Objekt wurde geloescht!	(175B8928)
+[DELETE]- Ein Objekt wurde geloescht!	(175B8B08)
+[DELETE]- Ein Objekt wurde geloescht!	(175B8CE8)
+[DELETE]- Ein Objekt wurde geloescht!	(175B8EC8)
+[DELETE]- Ein Objekt wurde geloescht!	(175B90A8)
+[DELETE]- Ein Objekt wurde geloescht!	(175B9288)
+[DELETE]- Ein Objekt wurde geloescht!	(175B9468)
+[DELETE]- Ein Objekt wurde geloescht!	(175B9648)
+[DELETE]- Ein Objekt wurde geloescht!	(175B9828)
+[DELETE]- Ein Objekt wurde geloescht!	(175B9A08)
+[DELETE]- Ein Objekt wurde geloescht!	(175B9BE8)
+[DELETE]- Ein Objekt wurde geloescht!	(175B9DC8)
+[DELETE]- Ein Objekt wurde geloescht!	(175B9FA8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BA188)
+[DELETE]- Ein Objekt wurde geloescht!	(175BA368)
+[DELETE]- Ein Objekt wurde geloescht!	(175BA548)
+[DELETE]- Ein Objekt wurde geloescht!	(175BA728)
+[DELETE]- Ein Objekt wurde geloescht!	(175BA908)
+[DELETE]- Ein Objekt wurde geloescht!	(175BAAE8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BACC8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BAEA8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BB088)
+[DELETE]- Ein Objekt wurde geloescht!	(175BB268)
+[DELETE]- Ein Objekt wurde geloescht!	(175BB448)
+[DELETE]- Ein Objekt wurde geloescht!	(175BB628)
+[DELETE]- Ein Objekt wurde geloescht!	(175BB808)
+[DELETE]- Ein Objekt wurde geloescht!	(17602510)
+[DELETE]- Ein Objekt wurde geloescht!	(176026F0)
+[DELETE]- Ein Objekt wurde geloescht!	(176028D0)
+[DELETE]- Ein Objekt wurde geloescht!	(17602AB0)
+[DELETE]- Ein Objekt wurde geloescht!	(17602C90)
+[DELETE]- Ein Objekt wurde geloescht!	(17602E70)
+[DELETE]- Ein Objekt wurde geloescht!	(17603050)
+[DELETE]- Ein Objekt wurde geloescht!	(17603230)
+[DELETE]- Ein Objekt wurde geloescht!	(17603410)
+[DELETE]- Ein Objekt wurde geloescht!	(176035F0)
+[DELETE]- Ein Objekt wurde geloescht!	(176037D0)
+[DELETE]- Ein Objekt wurde geloescht!	(176039B0)
+[DELETE]- Ein Objekt wurde geloescht!	(17603B90)
+[DELETE]- Ein Objekt wurde geloescht!	(17603D70)
+[DELETE]- Ein Objekt wurde geloescht!	(17603F50)
+[DELETE]- Ein Objekt wurde geloescht!	(17604130)
+[DELETE]- Ein Objekt wurde geloescht!	(17604310)
+[DELETE]- Ein Objekt wurde geloescht!	(176044F0)
+[DELETE]- Ein Objekt wurde geloescht!	(176046D0)
+[DELETE]- Ein Objekt wurde geloescht!	(176048B0)
+[DELETE]- Ein Objekt wurde geloescht!	(17604A90)
+[DELETE]- Ein Objekt wurde geloescht!	(17604C70)
+[DELETE]- Ein Objekt wurde geloescht!	(17604E50)
+[DELETE]- Ein Objekt wurde geloescht!	(17605030)
+[DELETE]- Ein Objekt wurde geloescht!	(176056C8)
+[DELETE]- Ein Objekt wurde geloescht!	(176059A8)
+[DELETE]- Ein Objekt wurde geloescht!	(17605B40)
+[DELETE]- Ein Objekt wurde geloescht!	(17605CD8)
+[DELETE]- Ein Objekt wurde geloescht!	(17605378)
+[DELETE]- Ein Objekt wurde geloescht!	(175BC9E0)
+[DELETE]- Ein Objekt wurde geloescht!	(175BCB78)
+[DELETE]- Ein Objekt wurde geloescht!	(175BCD10)
+[DELETE]- Ein Objekt wurde geloescht!	(176051C8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BB9A0)
+[DELETE]- Ein Objekt wurde geloescht!	(175BBB38)
+[DELETE]- Ein Objekt wurde geloescht!	(175BBCD0)
+[DELETE]- Ein Objekt wurde geloescht!	(175BBE68)
+[DELETE]- Ein Objekt wurde geloescht!	(175BC000)
+[DELETE]- Ein Objekt wurde geloescht!	(175BC198)
+[DELETE]- Ein Objekt wurde geloescht!	(175BC378)
+[DELETE]- Ein Objekt wurde geloescht!	(175BC558)
+[DELETE]- Ein Objekt wurde geloescht!	(175BC738)
+[DELETE]- Ein Objekt wurde geloescht!	(175BCEA8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BD040)
+[DELETE]- Ein Objekt wurde geloescht!	(175BD1D8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BD3B8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BD598)
+[DELETE]- Ein Objekt wurde geloescht!	(175BD778)
+[DELETE]- Ein Objekt wurde geloescht!	(175BD958)
+[DELETE]- Ein Objekt wurde geloescht!	(175BDB38)
+[DELETE]- Ein Objekt wurde geloescht!	(175BDD18)
+[DELETE]- Ein Objekt wurde geloescht!	(175BDEF8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BE0D8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BE2B8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BE498)
+[DELETE]- Ein Objekt wurde geloescht!	(175BE678)
+[DELETE]- Ein Objekt wurde geloescht!	(175BE858)
+[DELETE]- Ein Objekt wurde geloescht!	(175BEA38)
+[DELETE]- Ein Objekt wurde geloescht!	(175BEC18)
+[DELETE]- Ein Objekt wurde geloescht!	(175BEDF8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BEFD8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BF1B8)
+[DELETE]- Ein Objekt wurde geloescht!	(175BF398)
+[DELETE]- Ein Objekt wurde geloescht!	(175BF578)
+[DELETE]- Ein Objekt wurde geloescht!	(175BF820)
+[DELETE]- Ein Objekt wurde geloescht!	(175BFB68)
+[DELETE]- Ein Objekt wurde geloescht!	(175BFD00)
+[DELETE]- Ein Objekt wurde geloescht!	(175BFE98)
+[DELETE]- Ein Objekt wurde geloescht!	(175C0030)
+[DELETE]- Ein Objekt wurde geloescht!	(175C0210)
+[DELETE]- Ein Objekt wurde geloescht!	(175C03F0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C05D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C07B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C0990)
+[DELETE]- Ein Objekt wurde geloescht!	(175C0B70)
+[DELETE]- Ein Objekt wurde geloescht!	(175C0D50)
+[DELETE]- Ein Objekt wurde geloescht!	(175C0F30)
+[DELETE]- Ein Objekt wurde geloescht!	(175C1110)
+[DELETE]- Ein Objekt wurde geloescht!	(175C12F0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C14D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C16B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C1890)
+[DELETE]- Ein Objekt wurde geloescht!	(175C1A70)
+[DELETE]- Ein Objekt wurde geloescht!	(175C1C50)
+[DELETE]- Ein Objekt wurde geloescht!	(175C1E30)
+[DELETE]- Ein Objekt wurde geloescht!	(175C2010)
+[DELETE]- Ein Objekt wurde geloescht!	(175C21F0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C23D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C25B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C2790)
+[DELETE]- Ein Objekt wurde geloescht!	(175C2970)
+[DELETE]- Ein Objekt wurde geloescht!	(175C2B50)
+[DELETE]- Ein Objekt wurde geloescht!	(175C2D30)
+[DELETE]- Ein Objekt wurde geloescht!	(175C2F10)
+[DELETE]- Ein Objekt wurde geloescht!	(175C30F0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C32D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C34B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C3690)
+[DELETE]- Ein Objekt wurde geloescht!	(175C3870)
+[DELETE]- Ein Objekt wurde geloescht!	(175C3A50)
+[DELETE]- Ein Objekt wurde geloescht!	(175C3C30)
+[DELETE]- Ein Objekt wurde geloescht!	(175C3E10)
+[DELETE]- Ein Objekt wurde geloescht!	(175C3FF0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C41D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C43B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C4590)
+[DELETE]- Ein Objekt wurde geloescht!	(175C4770)
+[DELETE]- Ein Objekt wurde geloescht!	(175C4998)
+[DELETE]- Ein Objekt wurde geloescht!	(175C4BE0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C4E98)
+[DELETE]- Ein Objekt wurde geloescht!	(175C51C0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C5500)
+[DELETE]- Ein Objekt wurde geloescht!	(175C5858)
+[DELETE]- Ein Objekt wurde geloescht!	(175C5B50)
+[DELETE]- Ein Objekt wurde geloescht!	(175C5DE8)
+[DELETE]- Ein Objekt wurde geloescht!	(175C60C8)
+[DELETE]- Ein Objekt wurde geloescht!	(175C6360)
+[DELETE]- Ein Objekt wurde geloescht!	(175C6578)
+[DELETE]- Ein Objekt wurde geloescht!	(175C68F0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C6C68)
+[DELETE]- Ein Objekt wurde geloescht!	(175C6FE0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C7208)
+[DELETE]- Ein Objekt wurde geloescht!	(175C73A0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C7538)
+[DELETE]- Ein Objekt wurde geloescht!	(175C76D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C78B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C7A90)
+[DELETE]- Ein Objekt wurde geloescht!	(175C7C70)
+[DELETE]- Ein Objekt wurde geloescht!	(175C7E50)
+[DELETE]- Ein Objekt wurde geloescht!	(175C8030)
+[DELETE]- Ein Objekt wurde geloescht!	(175C8210)
+[DELETE]- Ein Objekt wurde geloescht!	(175C83F0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C85D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C87B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C8990)
+[DELETE]- Ein Objekt wurde geloescht!	(175C8B70)
+[DELETE]- Ein Objekt wurde geloescht!	(175C8D50)
+[DELETE]- Ein Objekt wurde geloescht!	(175C8F30)
+[DELETE]- Ein Objekt wurde geloescht!	(175C9110)
+[DELETE]- Ein Objekt wurde geloescht!	(175C92F0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C94D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C96B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175C9890)
+[DELETE]- Ein Objekt wurde geloescht!	(175C9A70)
+[DELETE]- Ein Objekt wurde geloescht!	(175C9C50)
+[DELETE]- Ein Objekt wurde geloescht!	(175C9E30)
+[DELETE]- Ein Objekt wurde geloescht!	(175CA010)
+[DELETE]- Ein Objekt wurde geloescht!	(175CA1F0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CA3D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CA5B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CA790)
+[DELETE]- Ein Objekt wurde geloescht!	(175CA970)
+[DELETE]- Ein Objekt wurde geloescht!	(175CAB50)
+[DELETE]- Ein Objekt wurde geloescht!	(175CAD30)
+[DELETE]- Ein Objekt wurde geloescht!	(175CAF10)
+[DELETE]- Ein Objekt wurde geloescht!	(175CB0F0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CB2D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CB4B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CB690)
+[DELETE]- Ein Objekt wurde geloescht!	(175CB870)
+[DELETE]- Ein Objekt wurde geloescht!	(175CBA50)
+[DELETE]- Ein Objekt wurde geloescht!	(175CBC30)
+[DELETE]- Ein Objekt wurde geloescht!	(175CBE10)
+[DELETE]- Ein Objekt wurde geloescht!	(175CBFF0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CC1D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CC3B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CC590)
+[DELETE]- Ein Objekt wurde geloescht!	(175CC770)
+[DELETE]- Ein Objekt wurde geloescht!	(175CC950)
+[DELETE]- Ein Objekt wurde geloescht!	(175CCB30)
+[DELETE]- Ein Objekt wurde geloescht!	(175CCD10)
+[DELETE]- Ein Objekt wurde geloescht!	(175CCEF0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CD0D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CD2B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175CD490)
+[DELETE]- Ein Objekt wurde geloescht!	(175CD670)
+[DELETE]- Ein Objekt wurde geloescht!	(175CD850)
+[DELETE]- Ein Objekt wurde geloescht!	(175CDA30)
+[DELETE]- Ein Objekt wurde geloescht!	(175CDCC0)
+[DELETE]- Ein Objekt wurde geloescht!	(17629038)
+[DELETE]- Ein Objekt wurde geloescht!	(17629218)
+[DELETE]- Ein Objekt wurde geloescht!	(176293F8)
+[DELETE]- Ein Objekt wurde geloescht!	(176295D8)
+[DELETE]- Ein Objekt wurde geloescht!	(176297B8)
+[DELETE]- Ein Objekt wurde geloescht!	(17629998)
+[DELETE]- Ein Objekt wurde geloescht!	(17629B78)
+[DELETE]- Ein Objekt wurde geloescht!	(17629D58)
+[DELETE]- Ein Objekt wurde geloescht!	(175F18B8)
+[DELETE]- Ein Objekt wurde geloescht!	(175F1A50)
+[DELETE]- Ein Objekt wurde geloescht!	(175F1CA0)
+[DELETE]- Ein Objekt wurde geloescht!	(175F1EE8)
+[DELETE]- Ein Objekt wurde geloescht!	(175F2130)
+[DELETE]- Ein Objekt wurde geloescht!	(175F2378)
+[DELETE]- Ein Objekt wurde geloescht!	(175F25C0)
+[DELETE]- Ein Objekt wurde geloescht!	(175F2808)
+[DELETE]- Ein Objekt wurde geloescht!	(175F2A50)
+[DELETE]- Ein Objekt wurde geloescht!	(175F2C98)
+[DELETE]- Ein Objekt wurde geloescht!	(175F2EE0)
+[DELETE]- Ein Objekt wurde geloescht!	(175F3130)
+[DELETE]- Ein Objekt wurde geloescht!	(175F3380)
+[DELETE]- Ein Objekt wurde geloescht!	(175F35D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175F3868)
+[DELETE]- Ein Objekt wurde geloescht!	(175F3A20)
+[DELETE]- Ein Objekt wurde geloescht!	(175F41B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175F3F80)
+[DELETE]- Ein Objekt wurde geloescht!	(175F54F0)
+[DELETE]- Ein Objekt wurde geloescht!	(175F5690)
+[DELETE]- Ein Objekt wurde geloescht!	(175F5830)
+[DELETE]- Ein Objekt wurde geloescht!	(175F59D0)
+[DELETE]- Ein Objekt wurde geloescht!	(175F43F8)
+[DELETE]- Ein Objekt wurde geloescht!	(175F4598)
+[DELETE]- Ein Objekt wurde geloescht!	(175F4730)
+[DELETE]- Ein Objekt wurde geloescht!	(175F48C8)
+[DELETE]- Ein Objekt wurde geloescht!	(175F4A60)
+[DELETE]- Ein Objekt wurde geloescht!	(175F4BF8)
+[DELETE]- Ein Objekt wurde geloescht!	(175F4DB8)
+[DELETE]- Ein Objekt wurde geloescht!	(175F5008)
+[DELETE]- Ein Objekt wurde geloescht!	(175F5258)
+[DELETE]- Ein Objekt wurde geloescht!	(175F5B70)
+[DELETE]- Ein Objekt wurde geloescht!	(175F5D78)
+[DELETE]- Ein Objekt wurde geloescht!	(175F5FC8)
+[DELETE]- Ein Objekt wurde geloescht!	(175F6210)
+[DELETE]- Ein Objekt wurde geloescht!	(175F63B0)
+[DELETE]- Ein Objekt wurde geloescht!	(175F65E0)
+[DELETE]- Ein Objekt wurde geloescht!	(175F6828)
+[DELETE]- Ein Objekt wurde geloescht!	(175F6C08)
+[DELETE]- Ein Objekt wurde geloescht!	(175F7100)
+[DELETE]- Ein Objekt wurde geloescht!	(175F72B8)
+[DELETE]- Ein Objekt wurde geloescht!	(175F7470)
+[DELETE]- Ein Objekt wurde geloescht!	(175F7688)
+[DELETE]- Ein Objekt wurde geloescht!	(175F7920)
+[DELETE]- Ein Objekt wurde geloescht!	(175F7C90)
+[DELETE]- Ein Objekt wurde geloescht!	(175F7F68)
+[DELETE]- Ein Objekt wurde geloescht!	(175F8200)
+[DELETE]- Ein Objekt wurde geloescht!	(175F8500)
+[DELETE]- Ein Objekt wurde geloescht!	(175F8778)
+[DELETE]- Ein Objekt wurde geloescht!	(175F8A58)
+[DELETE]- Ein Objekt wurde geloescht!	(175F8C10)
+[DELETE]- Ein Objekt wurde geloescht!	(175F8E58)
+[DELETE]- Ein Objekt wurde geloescht!	(175F90A0)
+[DELETE]- Ein Objekt wurde geloescht!	(175F92E8)
+[DELETE]- Ein Objekt wurde geloescht!	(175F9530)
+[DELETE]- Ein Objekt wurde geloescht!	(175F9778)
+[DELETE]- Ein Objekt wurde geloescht!	(175F99C0)
+[DELETE]- Ein Objekt wurde geloescht!	(175F9C78)
+[DELETE]- Ein Objekt wurde geloescht!	(175F9FA0)
+[DELETE]- Ein Objekt wurde geloescht!	(175FA280)
+[DELETE]- Ein Objekt wurde geloescht!	(175FA560)
+[DELETE]- Ein Objekt wurde geloescht!	(175FA820)
+[DELETE]- Ein Objekt wurde geloescht!	(175FAAA0)
+[DELETE]- Ein Objekt wurde geloescht!	(175FAD68)
+[DELETE]- Ein Objekt wurde geloescht!	(175FB048)
+[DELETE]- Ein Objekt wurde geloescht!	(175FB3A8)
+[DELETE]- Ein Objekt wurde geloescht!	(175FB660)
+[DELETE]- Map <Pagotas> wurde geloescht!	(07B31210)
+[DELETE]- Map_Manager wurde geloescht!	(17493F30)
+[DELETE]- Item_List wurde geloescht!	(1752C8D8)
+[DELETE]- Weapon_Manager wurde geloescht!	(175A19D8)
+[DELETE]- Ein NPC wurde geloescht!	(175A1FF0)
+[DELETE]- Ein Enemy wurde geloescht!	(175A2348)
+[DELETE]- NPC_Manager wurde geloescht!	(175A1BB8)
+[DELETE]- Collision System wurde geloescht!	(175A4040)
+[DELETE]- Quest <Pilzsuppe> wird gelöscht!
+[DELETE]- Quest <Finde Hasi!> wird gelöscht!
+[DELETE]- Quest <Drei Fragmente!> wird gelöscht!
+[DELETE]- Quest <Rettung!> wird gelöscht!
+[DELETE]- Quest <Wer bin Ich?> wird gelöscht!
+[DELETE]- Quest <Der Schlüssel> wird gelöscht!
+[DELETE]- Quest <Zünder> wird gelöscht!
+[DELETE]- Quest <Nicht nur ein Baum> wird gelöscht!
+[DELETE]- Quest <Besige Valac> wird gelöscht!
+[DELETE]- Quest <Sesam öffne dich!> wird gelöscht!
+[DELETE]- Quest <Letzte Schritte!> wird gelöscht!
+[DELETE]- Quest <Abwehr des Lichtes> wird gelöscht!
+[DELETE]- Quest_Manager wurde geloescht!	(175A40A0)
+[DELETE]- Inventory_Manager wurde geloescht!	(17534F78)
+[DELETE]- Ein Player wurde geloescht!	(175A5EC0)
+[DELETE]- Graphic_Manager wurde geloescht!	(07B42570)
+[DELETE]- Command_Manager wurde geloescht!	(07B42350)
+[DELETE]- Animation_Manager wurde geloescht!	(07C4EB68)
+[DELETE]- Particle_Manager wurde geloescht!	(07C4EC40)
+[DELETE]- Sound_Manager wurde geloescht!	(07C56010)

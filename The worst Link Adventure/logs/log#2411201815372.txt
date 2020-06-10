@@ -1,0 +1,559 @@
+[NEW]- Neuer Screen_Manager wurde erstellt! (003F8EF8)
+[INFO]- Debug = ON
+
+[INFO]- Nowendige Manager werden geladen
+
+[NEW]- Neuer Command_Manager wurde erstellt! (0BC65860)
+[NEW]- Neuer Graphic_Manager wurde erstellt! (0BC66FE8)
+
+[INFO]- Tilesets werden geladen...
+[CHECK]- People Tileset wurde erfolgreich geladen!
+[CHECK]- Overworld Tileset wurde erfolgreich geladen!
+[CHECK]- Baum Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Burg Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Kerker Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Lava Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Schloss Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Turm Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wasser Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wuesten Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Haus Tileset wurde erfolgreich geladen!
+[CHECK]- Schattenwelt Tileset wurde erfolgreich geladen!
+
+[INFO]- Sonstige Grafiken werden geladen...
+[CHECK]- Explosions Grafiken wurde erfolgreich geladen!
+[CHECK]- Wasser-Animation wurde erfolgreich geladen!
+[CHECK]- Lava-Animation wurde erfolgreich geladen!
+
+[INFO]- Schriftarten werden geladen...
+[CHECK]- Schriftart Arial wurde erfolgreich geladen!
+[CHECK]- Schriftart Pixel wurde erfolgreich geladen!
+
+[CHECK]- Midna Texture wurde erfolgreich geladen!
+[CHECK]- Midna Texture 2 wurde erfolgreich geladen!
+[NEW]- Neuer Animation_Manager wurde erstellt! (0BCAAB70)
+[NEW]- Neuer Particle_Manager wurde erstellet! (0BCAAD28)
+[NEW]- Neuer Sound_Manager wurde erstellt! (0BCB0478)
+
+[INFO]- Menü-Screen wird gestartet
+[CHECK]- Der Screen <13> wurde sicher gelöscht!
+
+[INFO]- Savegame-Selector-Screen wird gestartet
+[INFO]- Spielstände werden gesucht...
+
+[INFO]- Spielstand <save#1162018133210> gefunden!
+[NEW]- Neuer Map_Manager wurde erstellet! (11AAB2D8)
+Name: PikachuLink
+Datum: 11.6.2018 13:32
+Max. Leben: 14
+Leben: 2.25
+Max. Energy: 650
+Energy: 17
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1162018143553> gefunden!
+Name: PikachuLink
+Datum: 11.6.2018 14:35
+Max. Leben: 4
+Leben: 4
+Max. Energy: 650
+Energy: 650
+Edelsteine: 7
+
+[INFO]- Spielstand <save#1162018151342> gefunden!
+Name: LOL
+Datum: 11.6.2018 15:13
+Max. Leben: 4
+Leben: 3
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1262018192954> gefunden!
+Name: EmAS
+Datum: 12.6.2018 19:29
+Max. Leben: 5
+Leben: 5
+Max. Energy: 500
+Energy: 458
+Edelsteine: 504
+
+[INFO]- Spielstand <save#1682018171822> gefunden!
+Name: EmAS
+Datum: 16.8.2018 17:18
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 192
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1692018161323> gefunden!
+Name: EmAS
+Datum: 16.9.2018 16:13
+Max. Leben: 4
+Leben: 3
+Max. Energy: 1150
+Energy: 119
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1692018161516> gefunden!
+Name: EmAS
+Datum: 16.9.2018 16:15
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1692018162637> gefunden!
+Name: aaaa
+Datum: 16.9.2018 16:26
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- Spielstand <save#24112018152521> gefunden!
+Name: PikachuLink
+Datum: 24.11.2018 15:25
+Max. Leben: 5
+Leben: 4.25
+Max. Energy: 650
+Energy: 650
+Edelsteine: 2
+
+[INFO]- Spielstand <save#3152018204026> gefunden!
+Name: EmAS
+Datum: 31.5.2018 20:40
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- ||||||************ Spiel wird gestartet! ************||||||
+[INFO]- Version: 1.2 Stable
+
+[INFO]- Items werden geladen
+[NEW]- Neue Item_List wurde erstellt! (11AA6D30)
+
+[INFO]- Nowendige Spiel-Manager werden geladen
+[NEW]- Neuer Message_Manager wurde erstellt! (11B371F8)
+[INFO]- Es wurden 17 Dialoge gefunden!
+[NEW]- Neuer Dialog_Manager wurde erstellt! (11B41B00)
+[NEW]- Neuer Weapon_Manager wurde erstellet! (11B41C08)
+[NEW]- Neuer NPC_Manager wurde erstellet! (11B41DE8)
+[NEW]- Neuer NPC wurde erstellt! (11B42220)
+[NEW]- Neuer Enemy wurde erstellt! (11B42578)
+[INFO]- Es wurden 12 NPCs gefunden!
+[NEW]- Collision System wurde erstellt! (11B44270)
+[INFO]- Quests werden geladen...
+[NEW]- Quest <lists/Quests/ahnenbaum.zQuest> wird erstellt!
+[CHECK]- Quest Nicht nur ein Baum (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/dreiFragmente.zQuest> wird erstellt!
+[CHECK]- Quest Drei Fragmente! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/hasiQuest.zQuest> wird erstellt!
+[CHECK]- Quest Finde Hasi! (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Letzter Schritt.zQuest> wird erstellt!
+[CHECK]- Quest Letzte Schritte! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/mushroomQuest.zQuest> wird erstellt!
+[CHECK]- Quest Pilzsuppe (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/rettung .zQuest> wird erstellt!
+[CHECK]- Quest Rettung! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/seltsamesRelikt.zQuest> wird erstellt!
+[CHECK]- Quest Abwehr des Lichtes (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/sesam öffne dich.zQuest> wird erstellt!
+[CHECK]- Quest Sesam öffne dich! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Valac.zQuest> wird erstellt!
+[CHECK]- Quest Besige Valac (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/wegAusWald.zQuest> wird erstellt!
+[CHECK]- Quest Der Schlüssel (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/werBinIch.zQuest> wird erstellt!
+[CHECK]- Quest Wer bin Ich? (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/zünder.zQuest> wird erstellt!
+[CHECK]- Quest Zünder (0,0) wurde geladen.
+[NEW]- Neuer Quest_Manager wurde erstellet! (11B442D0)
+[NEW]- Neuer Inventory_Manager wurde erstellt! (11B4B260)
+[NEW]- Neuer Player_Manager wurde erstellet! (11B460F0)
+
+[INFO]- Map <Pagotas> wird geladen...
+
+[NEW]- Neue Map <Maps/Pagotas> wird erstellt! (11B50DD0) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Pagotas
+ - ID: 2
+ - Size: 100,70
+ - Tileset: 0
+ - Background Music: Music/Save Woods.ogg
+ - Light-Level: 5
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (11B980D0,X:17,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (11B98268,X:18,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (11B98400,X:19,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (11B98598,X:20,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (11B98730,X:18,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (11B988C8,X:19,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (11B98A60,X:20,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (11B98C40,X:18,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (11B98E20,X:17,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (11B808B0,X:19,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (11B80A90,X:19,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (11B80C70,X:18,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (11B80E50,X:30,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (11B81030,X:30,Y:22)
+[NEW]- Neue Objekt wurde erstellt! (11B81210,X:31,Y:22)
+[NEW]- Neue Objekt wurde erstellt! (11B813F0,X:31,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (11B815D0,X:34,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (11B99008,X:35,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (11B991A0,X:35,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (11B99338,X:49,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (11B994D0,X:53,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (11B99668,X:49,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (11B99848,X:55,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (11B99A28,X:58,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (11B99C08,X:31,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (11B99DE8,X:25,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (11B99FC8,X:14,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (11B9A1A8,X:50,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (11B9A388,X:55,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (11B9A568,X:57,Y:25)
+[NEW]- Neue Objekt wurde erstellt! (11B9A748,X:59,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (11B9A928,X:57,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (11B9AB08,X:51,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (11B9ACE8,X:36,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (11B9AEC8,X:31,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (11B9B0A8,X:32,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (11B9B288,X:32,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (11B9B468,X:30,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (11B9B648,X:31,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (11B9B828,X:30,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (11B9BA08,X:29,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (11B9BBE8,X:33,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (11B9BDC8,X:35,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (11B9BFA8,X:54,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (11B9C188,X:54,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (11B9C368,X:55,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (11B9C548,X:56,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (11B9C728,X:57,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (11B9C908,X:58,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (11B9CAE8,X:57,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (11B9CCC8,X:56,Y:25)
+[NEW]- Neue Objekt wurde erstellt! (11B9CEA8,X:55,Y:25)
+[NEW]- Neue Objekt wurde erstellt! (11B9D088,X:45,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (11B9D268,X:68,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (11B9D448,X:68,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (11B9D628,X:67,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (11B9D808,X:67,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (11B9D9E8,X:66,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (11B9DBC8,X:68,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (11B9DDA8,X:69,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (11B9DF88,X:69,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (11B9E168,X:80,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (11B9E348,X:82,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (11B9E528,X:78,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (11B9E708,X:72,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (11B9E8E8,X:70,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (11B9EAC8,X:71,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (11B9ECA8,X:73,Y:27)
+[NEW]- Neue Objekt wurde erstellt! (11B9EE88,X:70,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (11B9F068,X:70,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (11B9F248,X:62,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (11B9F428,X:63,Y:41)
+[NEW]- Neue Objekt wurde erstellt! (11B9F608,X:62,Y:41)
+[NEW]- Neue Objekt wurde erstellt! (11B9F7E8,X:63,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (11B9F9C8,X:61,Y:43)
+[NEW]- Neue Objekt wurde erstellt! (11B9FBA8,X:64,Y:40)
+[NEW]- Neue Objekt wurde erstellt! (11B9FD88,X:62,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (11B9FF68,X:63,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (11BA0148,X:63,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (11BA0328,X:84,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (11BA0508,X:85,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (11BA06E8,X:87,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (11BA08C8,X:88,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (11BA0AA8,X:83,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (11BA0C88,X:84,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (11BA0E68,X:85,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (11BA1050,X:87,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (11BA1230,X:88,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (11BA1410,X:89,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (11BA15F0,X:88,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (11BA17D0,X:87,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (11BA19B0,X:86,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (11BA1B90,X:85,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (11BA1D70,X:84,Y:36)
+[NEW]- Neue Objekt wurde erstellt! (11BA1F50,X:85,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (11BA2130,X:86,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (11BA2310,X:87,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (11BA24F0,X:86,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (11BA26D0,X:83,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (11BA28B0,X:89,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (11BA2A90,X:84,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (11BA2C70,X:85,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (11BA2E50,X:86,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (11BA3030,X:87,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (11BA3210,X:88,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (11BA33F0,X:82,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (11BA35D0,X:82,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (11BA37B0,X:83,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (11BA3990,X:63,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (11BA3B70,X:63,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (11BA3E18,X:71,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11BA4160,X:86,Y:51)
+[NEW]- Neue Objekt wurde erstellt! (11BA42F8,X:80,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BA4490,X:85,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (11BA4628,X:86,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (11BA4808,X:74,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BA49E8,X:75,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BA4BC8,X:73,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BA4DA8,X:72,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BA4F88,X:71,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BA5168,X:70,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BA5348,X:69,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BA5528,X:76,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11BA5708,X:76,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BA58E8,X:67,Y:53)
+[NEW]- Neue Objekt wurde erstellt! (11BA5AC8,X:74,Y:56)
+[NEW]- Neue Objekt wurde erstellt! (11BA5CA8,X:76,Y:56)
+[NEW]- Neue Objekt wurde erstellt! (11BA5E88,X:75,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (11BA6068,X:77,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (11BA6248,X:78,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (11BA6428,X:76,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (11BA6608,X:78,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (11BA67E8,X:77,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (11BA69C8,X:81,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (11BA6BA8,X:68,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (11BA6D88,X:71,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (11BA6F68,X:44,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (11BA7148,X:45,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (11BA7328,X:46,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (11BA7508,X:47,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (11BA76E8,X:48,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (11BA78C8,X:48,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (11BA7AA8,X:48,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (11BA7C88,X:44,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (11BA7E68,X:44,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (11BA8050,X:45,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (11BA8230,X:47,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (11BA8410,X:32,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (11BA85F0,X:39,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (11BA87D0,X:45,Y:44)
+[NEW]- Neue Objekt wurde erstellt! (11BA89B0,X:58,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (11BA8B90,X:43,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (11BA8D70,X:36,Y:48)
+[NEW]- Neue Objekt wurde erstellt! (11BA8F98,X:44,Y:54)
+[NEW]- Neue Objekt wurde erstellt! (11BA91E0,X:46,Y:54)
+[NEW]- Neue Objekt wurde erstellt! (11BA9498,X:48,Y:54)
+[NEW]- Neue Objekt wurde erstellt! (11BA97C0,X:50,Y:54)
+[NEW]- Neue Objekt wurde erstellt! (11BA9B00,X:50,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (11BA9E58,X:48,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (11BAA150,X:46,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (11BAA3E8,X:44,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (11BAA6C8,X:44,Y:50)
+[NEW]- Neue Objekt wurde erstellt! (11BAA960,X:50,Y:50)
+[NEW]- Neue Objekt wurde erstellt! (11BAAB78,X:43,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (11BAAEF0,X:45,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (11BAB268,X:51,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (11BAB5E0,X:49,Y:47)
+[NEW]- Neue Objekt wurde erstellt! (11BAB808,X:24,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (11BAB9A0,X:24,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (11BABB38,X:23,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (11BABCD0,X:22,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (11BABEB0,X:21,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (11BAC090,X:20,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (11BAC270,X:20,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (11BAC450,X:20,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (11BAC630,X:20,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (11BAC810,X:20,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (11BAC9F0,X:21,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (11BACBD0,X:22,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (11BACDB0,X:24,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (11BACF90,X:23,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (11BAD170,X:24,Y:30)
+[NEW]- Neue Objekt wurde erstellt! (11BAD350,X:8,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (11BAD530,X:9,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (11BAD710,X:9,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (11BAD8F0,X:8,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (11BADAD0,X:8,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (11BADCB0,X:9,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (11BADE90,X:9,Y:23)
+[NEW]- Neue Objekt wurde erstellt! (11BAE070,X:8,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (11BAE250,X:38,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (11BAE430,X:38,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (11BAE610,X:38,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (11BAE7F0,X:38,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (11BAE9D0,X:38,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (11BAEBB0,X:38,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (11BAED90,X:38,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (11BAEF70,X:38,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (11BAF150,X:38,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (11BAF330,X:38,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (11BAF510,X:43,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (11BAF6F0,X:42,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (11BAF8D0,X:42,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (11BAFAB0,X:42,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (11BAFC90,X:42,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (11BAFE70,X:42,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (11BB0050,X:42,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (11BB0230,X:42,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (11BB0410,X:42,Y:11)
+[NEW]- Neue Objekt wurde erstellt! (11BB05F0,X:42,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (11BB07D0,X:42,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (11BB09B0,X:37,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (11BB0B90,X:32,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (11BB0D70,X:33,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (11BB0F50,X:35,Y:18)
+[NEW]- Neue Objekt wurde erstellt! (11BB1130,X:68,Y:49)
+[NEW]- Neue Objekt wurde erstellt! (11BB1310,X:69,Y:53)
+[NEW]- Neue Objekt wurde erstellt! (11BB14F0,X:67,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (11BB16D0,X:63,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (11BB18B0,X:63,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11BB1A90,X:62,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11BB1C70,X:63,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11BB1E50,X:59,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (11BB2030,X:51,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11BB2210,X:50,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (11BB23F0,X:56,Y:48)
+[NEW]- Neue Objekt wurde erstellt! (11BB25D0,X:34,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11BB27B0,X:35,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BB2990,X:33,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BB2B70,X:33,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11BB2D50,X:35,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11BB2F30,X:34,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11BB3110,X:32,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BB32F0,X:36,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BB3518,X:60,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (11BB3768,X:12,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (11BB39B0,X:12,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11BB3BF8,X:12,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11BB3E40,X:13,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BB4088,X:14,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BB42D0,X:15,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11BB4518,X:15,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11BB4760,X:15,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (11BB49A8,X:11,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (11BB4BF8,X:13,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (11BB4E48,X:20,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (11BB5098,X:28,Y:14)
+[NEW]- Neue Objekt wurde erstellt! (11BB52E8,X:39,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (11BB5530,X:40,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (11BB5778,X:41,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (11BB59C0,X:86,Y:35)
+[NEW]- Neue Objekt wurde erstellt! (11BB5B58,X:70,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11BB5D40,X:8,Y:65)
+[NEW]- Neue Objekt wurde erstellt! (11BB5F28,X:9,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11BB6110,X:23,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BB62F8,X:14,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11BB64E0,X:6,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11BB66C0,X:19,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BB68A0,X:18,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (11BB6A80,X:8,Y:46)
+[NEW]- Neue Objekt wurde erstellt! (11BB6CA8,X:56,Y:20)
+[NEW]- Neue Objekt wurde erstellt! (11BB6EF8,X:82,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (11BB7148,X:72,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (11BB7398,X:80,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (11BB75E8,X:74,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (11BB7838,X:67,Y:41)
+[NEW]- Neue Objekt wurde erstellt! (11BB7A88,X:34,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11BB7CD0,X:89,Y:50)
+[NEW]- Neue Objekt wurde erstellt! (11BB7E70,X:89,Y:51)
+[NEW]- Neue Objekt wurde erstellt! (11BB80A0,X:91,Y:50)
+[NEW]- Neue Objekt wurde erstellt! (11BB82E8,X:91,Y:51)
+[NEW]- Neue Objekt wurde erstellt! (11BB86C8,X:46,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (11BB8BC0,X:7,Y:32)
+[NEW]- Neue Objekt wurde erstellt! (11BB8D78,X:7,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (11BB8F90,X:9,Y:12)
+[NEW]- Neue Objekt wurde erstellt! (11BB9148,X:70,Y:46)
+[NEW]- Neue Objekt wurde erstellt! (11BB9428,X:65,Y:41)
+[NEW]- Neue Objekt wurde erstellt! (11BB9750,X:26,Y:34)
+[NEW]- Neue Objekt wurde erstellt! (11BB9A28,X:14,Y:26)
+[NEW]- Neue Objekt wurde erstellt! (11BB9CC0,X:57,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (11BBA008,X:65,Y:22)
+[NEW]- Neue Objekt wurde erstellt! (11BBA268,X:83,Y:16)
+[NEW]- Neue Objekt wurde erstellt! (11BBA500,X:74,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (11BBA6B8,X:76,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (11BBA900,X:69,Y:28)
+[NEW]- Neue Objekt wurde erstellt! (11BBAB48,X:65,Y:33)
+[NEW]- Neue Objekt wurde erstellt! (11BBAD90,X:81,Y:31)
+[NEW]- Neue Objekt wurde erstellt! (11BBAFD8,X:88,Y:29)
+[NEW]- Neue Objekt wurde erstellt! (11BBB220,X:86,Y:24)
+[NEW]- Neue Objekt wurde erstellt! (11BBB468,X:35,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (11BBB720,X:48,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (11BBBA48,X:42,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (11BBBD28,X:38,Y:19)
+[NEW]- Neue Objekt wurde erstellt! (11BBC008,X:61,Y:21)
+[NEW]- Neue Objekt wurde erstellt! (11BBC2C8,X:47,Y:48)
+[NEW]- Neue Objekt wurde erstellt! (11BBC548,X:34,Y:17)
+[NEW]- Neue Objekt wurde erstellt! (11BBC810,X:27,Y:15)
+[NEW]- Neue Objekt wurde erstellt! (11BBCAF0,X:19,Y:22)
+[NEW]- Neue Objekt wurde erstellt! (11BBCE50,X:73,Y:33)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 7000 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 1472,480
+ - Spawnpoint: 352,407
+ - Spawnpoint: 417,536
+ - Spawnpoint: 641,692
+ - Spawnpoint: 285,1038
+ - Spawnpoint: 433,1871
+ - Spawnpoint: 2887,1615
+ - Spawnpoint: 1792,663
+ - Spawnpoint: 897,468
+ - Spawnpoint: 2369,1049
+ - Spawnpoint: 2144,1334
+ - Spawnpoint: 1504,1572
+ - Spawnpoint: 2624,504
+ - Spawnpoint: 1280,242
+ - Spawnpoint: 2304,450
+ - Spawnpoint: 2560,796
+ - Spawnpoint: 1088,578
+ - Spawnpoint: 1152,1984
+
+[INFO]- NPCs werden erstellt...
+
+[CHECK]- Map <Pagotas> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (11B818D0 - p)
+[INFO]- Player-TP: 1472,480
+[CHECK]- Der Screen <6> wurde sicher gelöscht!
+[INFO]- Player-TP: 432,1157
+Bitte geben sie ein Befehl ein!
+
+[INFO]- Pause-Screen wird gestartet
+[CHECK]- Der Screen <3> wurde sicher gelöscht!
+Bitte geben sie ein Befehl ein!
+
+[INFO]- Pause-Screen wird gestartet
+[CHECK]- Der Screen <3> wurde sicher gelöscht!
+Bitte geben sie ein Befehl ein!
+
+[INFO]- Pause-Screen wird gestartet
+[CHECK]- Der Screen <3> wurde sicher gelöscht!
+Quest-Command: found-0
+Quest-Command: found-0
+Quest-Command: found-0
+Quest-Command: found-0
+Quest-Command: found-0
+Quest-Command: found-34
+Quest-Command: found-0
+Quest-Command: found-0
+
+[INFO]- Inventory-Screen wird gestartet
+[CHECK]- Der Screen <2> wurde sicher gelöscht!
+Bitte geben sie ein Befehl ein!
+
+[INFO]- HELP-Menü
+
+[INFO]- Teleportieren          - Syntax: tp <x> <y>
+[INFO]- Item geben             - Syntax: give <item_nr> <amount>
+[INFO]- Heilen                 - Syntax: heal <int>
+[INFO]- Shop öffnen            - Syntax: openShop
+[INFO]- Bomb Shop öffnen       - Syntax: openBombShop
+[INFO]- Dialog starten         - Syntax: doDialog <dialogID>
+[INFO]- Player Farbe ändern    - Syntax: changePlayerColor <r> <g> <b> <a>
+[INFO]- Player explodieren     - Syntax: explode
+[INFO]- Player töten           - Syntax: kill
+[INFO]- Player zoomen          - Syntax: zoom <

@@ -1,0 +1,328 @@
+[NEW]- Neuer Screen_Manager wurde erstellt! (01096058)
+[INFO]- Debug = ON
+
+[INFO]- Nowendige Manager werden geladen
+
+[NEW]- Neuer Command_Manager wurde erstellt! (0C41CB20)
+[NEW]- Neuer Graphic_Manager wurde erstellt! (0C41E338)
+
+[INFO]- Tilesets werden geladen...
+[CHECK]- People Tileset wurde erfolgreich geladen!
+[CHECK]- Overworld Tileset wurde erfolgreich geladen!
+[CHECK]- Baum Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Burg Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Kerker Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Lava Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Schloss Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Turm Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wasser Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wuesten Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Haus Tileset wurde erfolgreich geladen!
+[CHECK]- Schattenwelt Tileset wurde erfolgreich geladen!
+
+[INFO]- Sonstige Grafiken werden geladen...
+[CHECK]- Explosions Grafiken wurde erfolgreich geladen!
+[CHECK]- Wasser-Animation wurde erfolgreich geladen!
+[CHECK]- Lava-Animation wurde erfolgreich geladen!
+
+[INFO]- Schriftarten werden geladen...
+[CHECK]- Schriftart Arial wurde erfolgreich geladen!
+[CHECK]- Schriftart Pixel wurde erfolgreich geladen!
+
+[CHECK]- Midna Texture wurde erfolgreich geladen!
+[CHECK]- Midna Texture 2 wurde erfolgreich geladen!
+[NEW]- Neuer Animation_Manager wurde erstellt! (0C533F40)
+[NEW]- Neuer Particle_Manager wurde erstellet! (0C533DF8)
+[NEW]- Neuer Sound_Manager wurde erstellt! (0C5367A0)
+Delete All SOUNDS
+
+[INFO]- Menü-Screen wird gestartet
+[CHECK]- Der Screen <13> wurde sicher gelöscht!
+
+[INFO]- Savegame-Selector-Screen wird gestartet
+[INFO]- Spielstände werden gesucht...
+
+[INFO]- Spielstand <save#1162018133210> gefunden!
+[NEW]- Neuer Map_Manager wurde erstellet! (11EC7508)
+Name: PikachuLink
+Datum: 11.6.2018 13:32
+Max. Leben: 14
+Leben: 2.25
+Max. Energy: 650
+Energy: 17
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1162018143553> gefunden!
+Name: PikachuLink
+Datum: 11.6.2018 14:35
+Max. Leben: 4
+Leben: 4
+Max. Energy: 650
+Energy: 650
+Edelsteine: 7
+
+[INFO]- Spielstand <save#1162018151342> gefunden!
+Name: LOL
+Datum: 11.6.2018 15:13
+Max. Leben: 4
+Leben: 3
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1262018192954> gefunden!
+Name: EmAS
+Datum: 12.6.2018 19:29
+Max. Leben: 5
+Leben: 5
+Max. Energy: 500
+Energy: 458
+Edelsteine: 504
+
+[INFO]- Spielstand <save#1682018171822> gefunden!
+Name: EmAS
+Datum: 16.8.2018 17:18
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 192
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1692018161323> gefunden!
+Name: EmAS
+Datum: 16.9.2018 16:13
+Max. Leben: 4
+Leben: 3
+Max. Energy: 1150
+Energy: 119
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1692018161516> gefunden!
+Name: EmAS
+Datum: 16.9.2018 16:15
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1692018162637> gefunden!
+Name: aaaa
+Datum: 16.9.2018 16:26
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- Spielstand <save#3152018204026> gefunden!
+Name: EmAS
+Datum: 31.5.2018 20:40
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- ||||||************ Spiel wird gestartet! ************||||||
+[INFO]- Version: 1.1 Stable
+
+[INFO]- Items werden geladen
+[NEW]- Neue Item_List wurde erstellt! (11F31B38)
+
+[INFO]- Nowendige Spiel-Manager werden geladen
+[NEW]- Neuer Message_Manager wurde erstellt! (11FA7C98)
+[INFO]- Es wurden 17 Dialoge gefunden!
+[NEW]- Neuer Dialog_Manager wurde erstellt! (11F97308)
+[NEW]- Neuer Weapon_Manager wurde erstellet! (11F97410)
+[NEW]- Neuer NPC_Manager wurde erstellet! (11F975F0)
+[NEW]- Neuer NPC wurde erstellt! (11F97A28)
+[NEW]- Neuer Enemy wurde erstellt! (11F97D80)
+[INFO]- Es wurden 12 NPCs gefunden!
+[NEW]- Collision System wurde erstellt! (11F99A78)
+[INFO]- Quests werden geladen...
+[NEW]- Quest <lists/Quests/ahnenbaum.zQuest> wird erstellt!
+[CHECK]- Quest Nicht nur ein Baum (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/dreiFragmente.zQuest> wird erstellt!
+[CHECK]- Quest Drei Fragmente! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/hasiQuest.zQuest> wird erstellt!
+[CHECK]- Quest Finde Hasi! (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Letzter Schritt.zQuest> wird erstellt!
+[CHECK]- Quest Letzte Schritte! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/mushroomQuest.zQuest> wird erstellt!
+[CHECK]- Quest Pilzsuppe (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/rettung .zQuest> wird erstellt!
+[CHECK]- Quest Rettung! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/seltsamesRelikt.zQuest> wird erstellt!
+[CHECK]- Quest Abwehr des Lichtes (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/sesam öffne dich.zQuest> wird erstellt!
+[CHECK]- Quest Sesam öffne dich! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Valac.zQuest> wird erstellt!
+[CHECK]- Quest Besige Valac (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/wegAusWald.zQuest> wird erstellt!
+[CHECK]- Quest Der Schlüssel (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/werBinIch.zQuest> wird erstellt!
+[CHECK]- Quest Wer bin Ich? (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/zünder.zQuest> wird erstellt!
+[CHECK]- Quest Zünder (0,0) wurde geladen.
+[NEW]- Neuer Quest_Manager wurde erstellet! (11F99AD8)
+[NEW]- Neuer Inventory_Manager wurde erstellt! (11F66AE8)
+[NEW]- Neuer Player_Manager wurde erstellet! (11F9B8F8)
+Delete All SOUNDS
+
+[INFO]- Map <Wald von Emasin> wird geladen...
+
+[NEW]- Neue Map <Maps/Wald von Emasin> wird erstellt! (0C77E248) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Wald von Emasin
+ - ID: 4
+ - Size: 100,100
+ - Tileset: 0
+ - Background Music: Music/Lost Forest.ogg
+ - Light-Level: 3
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (11FC4420,X:23,Y:89)
+[NEW]- Neue Objekt wurde erstellt! (11FC45C0,X:19,Y:89)
+[NEW]- Neue Objekt wurde erstellt! (11FC47A8,X:64,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (11FC49B0,X:54,Y:72)
+[NEW]- Neue Objekt wurde erstellt! (11FC4BB0,X:8,Y:74)
+[NEW]- Neue Objekt wurde erstellt! (11FBE748,X:47,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (11FBE900,X:10,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (11FBEA98,X:10,Y:69)
+[NEW]- Neue Objekt wurde erstellt! (11FBEC30,X:21,Y:68)
+[NEW]- Neue Objekt wurde erstellt! (11FBEDC8,X:10,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (11FBEFA8,X:10,Y:76)
+[NEW]- Neue Objekt wurde erstellt! (11FBF188,X:10,Y:77)
+[NEW]- Neue Objekt wurde erstellt! (11FBF368,X:10,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (11FBF548,X:9,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (11FC4FD8,X:8,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (11FC5170,X:8,Y:81)
+[NEW]- Neue Objekt wurde erstellt! (11FC5398,X:29,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (11FC55E0,X:30,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (11FC5828,X:57,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (11FC59C0,X:19,Y:71)
+[NEW]- Neue Objekt wurde erstellt! (11FC5BA0,X:24,Y:82)
+[NEW]- Neue Objekt wurde erstellt! (11FC5D80,X:56,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (11FC5F60,X:54,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (11FC6140,X:84,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11FC6320,X:85,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11FC6500,X:53,Y:44)
+[NEW]- Neue Objekt wurde erstellt! (11FC66E0,X:50,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (11FC68C0,X:61,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (11FC6AA0,X:69,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (11FC6CC8,X:85,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (11FC6F10,X:32,Y:80)
+[NEW]- Neue Objekt wurde erstellt! (11FC70A8,X:19,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (11FC72D0,X:63,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (11FC7518,X:55,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (11FC76B0,X:45,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11FC7898,X:45,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (11FC7A80,X:15,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (11FC7C60,X:14,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (11FC7E40,X:14,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11FC8020,X:14,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11FC8200,X:16,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11FC83E0,X:17,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11FC85C0,X:18,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11FC87A0,X:18,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (11FC8980,X:17,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (11FC8B60,X:17,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (11FC8D40,X:15,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (11FC8F20,X:16,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (11FC9100,X:17,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (11FC92E0,X:12,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11FC94C0,X:12,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (11FC96A0,X:12,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (11FC9880,X:13,Y:56)
+[NEW]- Neue Objekt wurde erstellt! (11FC9A60,X:13,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (11FC9C40,X:14,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (11FC9E20,X:13,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11FCA000,X:17,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (11FCA1E0,X:18,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (11FCA3C0,X:16,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (11FCA5A0,X:18,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (11FCA7C8,X:12,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (11FCAA18,X:85,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11FCABB0,X:86,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11FCAD90,X:85,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (11FCAF70,X:85,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (11FCB150,X:85,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (11FCB330,X:84,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11FCB510,X:86,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (11FCB6F0,X:83,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11FCB8D0,X:87,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (11FCBC90,X:47,Y:79)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 10000 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 1488,2864
+ - Spawnpoint: 2048,1376
+ - Spawnpoint: 2016,1216
+ - Spawnpoint: 2720,2080
+ - Spawnpoint: 943,1865
+
+[INFO]- NPCs werden erstellt...
+
+[CHECK]- Map <Wald von Emasin> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (11FBF770 - p)
+[INFO]- Player-TP: 1488,2864
+[WARNING]- Datei <Savegames/save#1692018162637/maps/4.zData> konnte nicht geöffnet werden!
+[CHECK]- Der Screen <6> wurde sicher gelöscht!
+[INFO]- Player-TP: 1488,2864
+[WARNING]- Datei <Savegames/save#1692018162637/maps/4.zData> konnte nicht geöffnet werden!
+
+[INFO]- Pause-Screen wird gestartet
+Delete All SOUNDS
+[CHECK]- Der Screen <3> wurde sicher gelöscht!
+
+[INFO]- Pause-Screen wird gestartet
+Delete All SOUNDS
+[CHECK]- Der Screen <3> wurde sicher gelöscht!
+
+[INFO]- Pause-Screen wird gestartet
+Delete All SOUNDS
+[CHECK]- Der Screen <3> wurde sicher gelöscht!
+Bitte geben sie ein Befehl ein!
+Schaden: 4
+Delete All SOUNDS
+[NEW]- Animation erstellt - (11F5A570)
+[DELETE]- Animation gelöscht - (11F5A570)
+[NEW]- Animation erstellt - (11EC8820)
+Delete All SOUNDS
+[DELETE]- Animation gelöscht - (11EC8820)
+
+[INFO]- Gameover-Screen wird gestartet
+
+Hier
+Leben: 0
+[NEW]- Animation erstellt - (0C466858)
+[DELETE]- Message_Manager wurde geloescht!	(11FA7C98)
+[DELETE]- Dialog_Manager wurde geloescht!	(11F97308)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC4420)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC45C0)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC47A8)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC49B0)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC4BB0)
+[DELETE]- Ein Objekt wurde geloescht!	(11FBE748)
+[DELETE]- Ein Objekt wurde geloescht!	(11FBE900)
+[DELETE]- Ein Objekt wurde geloescht!	(11FBEA98)
+[DELETE]- Ein Objekt wurde geloescht!	(11FBEC30)
+[DELETE]- Ein Objekt wurde geloescht!	(11FBEDC8)
+[DELETE]- Ein Objekt wurde geloescht!	(11FBEFA8)
+[DELETE]- Ein Objekt wurde geloescht!	(11FBF188)
+[DELETE]- Ein Objekt wurde geloescht!	(11FBF368)
+[DELETE]- Ein Objekt wurde geloescht!	(11FBF548)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC4FD8)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC5170)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC5398)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC55E0)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC5828)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC59C0)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC5BA0)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC5D80)
+[DELETE]- Ein Objekt wurde geloescht!	(11FC5F60)
+[DELETE]- Ein Objekt wurde gel

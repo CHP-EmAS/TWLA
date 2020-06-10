@@ -1,0 +1,41 @@
+{bush}0,22,39,0
+{bush}1,22,40,0
+{bush}2,26,39,0
+{bush}3,26,40,0
+{bush}4,26,41,0
+{bush}5,26,42,0
+{bush}6,26,43,0
+{bush}7,22,43,0
+{bush}8,22,42,0
+{bush}9,22,41,0
+{bush}10,17,18,0
+{bush}11,18,18,0
+{bush}12,19,18,0
+{bush}13,29,18,0
+{bush}14,30,18,0
+{bush}15,31,18,0
+{hook}16,40,41,0,418
+{hook}17,40,40,0,418
+{portal}18,24,18,Schloss Neara,0
+{portal}19,23,45,Pagotas,13
+{portal}20,24,45,Pagotas,13
+{portal}21,25,45,Pagotas,13
+{chest}22,42,38,-1,995
+{portal}23,17,11,Schloss Neara,11
+{portal}24,31,11,Schloss Neara,12
+{portal}25,24,7,Schloss Neara,15
+{portal}26,5,42,Schloss Kerker,0
+{stone}27,8,38,1
+{stone}28,9,39,1
+{stone}29,10,40,1
+{stone}30,10,41,1
+{stone}31,9,42,1
+{stone}32,9,43,1
+{fragmentIns}33,17,6,
+{fragmentIns}34,24,9,
+{fragmentIns}35,31,6,
+{jar}36,28,26,4
+{jar}37,20,26,4
+{sign}38,21,38,$leftZum Schloss Kerker,255,255,255,0
+{hook}39,33,41,0,418
+{hook}40,33,40,0,418

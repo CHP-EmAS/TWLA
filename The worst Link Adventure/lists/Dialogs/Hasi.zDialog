@@ -1,0 +1,17 @@
+{ID}996
+
+{next section}
+	{do question}Mitnehmen
+{next section}
+	{requirement}found-Hasi
+	{speaker name}Hasi
+	{text}Miaaau!
+{end sections}
+
+{question}Mitnehmen
+	{question text}Hasi mitnehmen?
+	{answer}Ja
+		{command}setNPCActivity 0 0
+		{quest command}found-Hasi
+	{answer}Nein
+{end question}

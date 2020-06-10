@@ -1,0 +1,9 @@
+{mastervolume}100
+{musicvolume}100
+{effectrvolume}100
+{textSound}1
+{videomode}2
+{windowwidth}576
+{windowhight}576
+{fpslimit}120
+{showParticle}1

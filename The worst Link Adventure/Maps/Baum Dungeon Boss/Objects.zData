@@ -1,0 +1,3 @@
+{trigger}0,9,8,1,1,Q - Öffnen,changeMap <Baum Dungeon> 1
+{trigger}1,10,8,1,1,Q - Öffnen,changeMap <Baum Dungeon> 1
+{trigger}2,9,6,0,0,,setObjectActivity 0 0;setObjectActivity 1 0;doDialog 998;activateNPC 0

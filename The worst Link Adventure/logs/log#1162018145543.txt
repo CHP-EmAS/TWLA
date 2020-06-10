@@ -1,0 +1,190 @@
+[NEW]- Neuer Screen_Manager wurde erstellt! (00D68C18)
+[INFO]- Debug = ON
+
+[INFO]- Nowendige Manager werden geladen
+
+[NEW]- Neuer Command_Manager wurde erstellt! (0A19E6B8)
+[NEW]- Neuer Graphic_Manager wurde erstellt! (0A19FC58)
+
+[INFO]- Tilesets werden geladen...
+[CHECK]- People Tileset wurde erfolgreich geladen!
+[CHECK]- Overworld Tileset wurde erfolgreich geladen!
+[CHECK]- Baum Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Burg Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Kerker Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Lava Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Schloss Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Turm Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wasser Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wuesten Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Haus Tileset wurde erfolgreich geladen!
+[CHECK]- Schattenwelt Tileset wurde erfolgreich geladen!
+
+[INFO]- Sonstige Grafiken werden geladen...
+[CHECK]- Explosions Grafiken wurde erfolgreich geladen!
+[CHECK]- Wasser-Animation wurde erfolgreich geladen!
+[CHECK]- Lava-Animation wurde erfolgreich geladen!
+
+[INFO]- Schriftarten werden geladen...
+[CHECK]- Schriftart Arial wurde erfolgreich geladen!
+[CHECK]- Schriftart Pixel wurde erfolgreich geladen!
+
+[CHECK]- Midna Texture wurde erfolgreich geladen!
+[CHECK]- Midna Texture 2 wurde erfolgreich geladen!
+[NEW]- Neuer Animation_Manager wurde erstellt! (0A2AD850)
+[NEW]- Neuer Particle_Manager wurde erstellet! (0A2AD928)
+[NEW]- Neuer Sound_Manager wurde erstellt! (0A2B14E8)
+
+[INFO]- Menü-Screen wird gestartet
+[CHECK]- Der Screen <13> wurde sicher gelöscht!
+
+[INFO]- Savegame-Selector-Screen wird gestartet
+[INFO]- Spielstände werden gesucht...
+
+[INFO]- Spielstand <save#1162018133210> gefunden!
+[NEW]- Neuer Map_Manager wurde erstellet! (1003A710)
+Name: PikachuLink
+Datum: 11.6.2018 13:32
+Max. Leben: 4
+Leben: 4
+Max. Energy: 650
+Energy: 435
+Edelsteine: 0
+
+[INFO]- Spielstand <save#1162018143553> gefunden!
+Name: PikachuLink
+Datum: 11.6.2018 14:35
+Max. Leben: 4
+Leben: 4
+Max. Energy: 650
+Energy: 71
+Edelsteine: 7
+
+[INFO]- Spielstand <save#3152018204026> gefunden!
+Name: EmAS
+Datum: 31.5.2018 20:40
+Max. Leben: 4
+Leben: 4
+Max. Energy: 500
+Energy: 500
+Edelsteine: 0
+
+[INFO]- ||||||************ Spiel wird gestartet! ************||||||
+[INFO]- Version: 1.1 Stable
+
+[INFO]- Items werden geladen
+[NEW]- Neue Item_List wurde erstellt! (100C9740)
+
+[INFO]- Nowendige Spiel-Manager werden geladen
+[NEW]- Neuer Message_Manager wurde erstellt! (100CCC00)
+[INFO]- Es wurden 17 Dialoge gefunden!
+[NEW]- Neuer Dialog_Manager wurde erstellt! (100D7AC0)
+[NEW]- Neuer Weapon_Manager wurde erstellet! (100D7BC8)
+[NEW]- Neuer NPC_Manager wurde erstellet! (100D7DA8)
+[NEW]- Neuer NPC wurde erstellt! (100D81E0)
+[NEW]- Neuer Enemy wurde erstellt! (100D8538)
+[INFO]- Es wurden 12 NPCs gefunden!
+[NEW]- Collision System wurde erstellt! (100DA230)
+[INFO]- Quests werden geladen...
+[NEW]- Quest <lists/Quests/ahnenbaum.zQuest> wird erstellt!
+[CHECK]- Quest Nicht nur ein Baum (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/dreiFragmente.zQuest> wird erstellt!
+[CHECK]- Quest Drei Fragmente! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/hasiQuest.zQuest> wird erstellt!
+[CHECK]- Quest Finde Hasi! (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Letzter Schritt.zQuest> wird erstellt!
+[CHECK]- Quest Letzte Schritte! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/mushroomQuest.zQuest> wird erstellt!
+[CHECK]- Quest Pilzsuppe (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/rettung .zQuest> wird erstellt!
+[CHECK]- Quest Rettung! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/seltsamesRelikt.zQuest> wird erstellt!
+[CHECK]- Quest Abwehr des Lichtes (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/sesam öffne dich.zQuest> wird erstellt!
+[CHECK]- Quest Sesam öffne dich! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Valac.zQuest> wird erstellt!
+[CHECK]- Quest Besige Valac (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/wegAusWald.zQuest> wird erstellt!
+[CHECK]- Quest Der Schlüssel (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/werBinIch.zQuest> wird erstellt!
+[CHECK]- Quest Wer bin Ich? (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/zünder.zQuest> wird erstellt!
+[CHECK]- Quest Zünder (0,0) wurde geladen.
+[NEW]- Neuer Quest_Manager wurde erstellet! (100DA290)
+[NEW]- Neuer Inventory_Manager wurde erstellt! (100E1220)
+[NEW]- Neuer Player_Manager wurde erstellet! (100DC0B0)
+
+[INFO]- Map <Wald von Emasin> wird geladen...
+
+[NEW]- Neue Map <Maps/Wald von Emasin> wird erstellt! (0A192F88) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Wald von Emasin
+ - ID: 4
+ - Size: 100,100
+ - Tileset: 0
+ - Background Music: Music/Lost Forest.ogg
+ - Light-Level: 3
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (101274F8,X:23,Y:89)
+[NEW]- Neue Objekt wurde erstellt! (10127698,X:19,Y:89)
+[NEW]- Neue Objekt wurde erstellt! (10127838,X:64,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (10127A40,X:54,Y:72)
+[NEW]- Neue Objekt wurde erstellt! (10127C40,X:8,Y:74)
+[NEW]- Neue Objekt wurde erstellt! (10127EF8,X:47,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (10128220,X:10,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (1012CFE0,X:10,Y:69)
+[NEW]- Neue Objekt wurde erstellt! (1012D178,X:21,Y:68)
+[NEW]- Neue Objekt wurde erstellt! (1012D310,X:10,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (1012D4A8,X:10,Y:76)
+[NEW]- Neue Objekt wurde erstellt! (1012D640,X:10,Y:77)
+[NEW]- Neue Objekt wurde erstellt! (1012D7D8,X:10,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (1012D970,X:9,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (1012DB08,X:8,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (1012DCE8,X:8,Y:81)
+[NEW]- Neue Objekt wurde erstellt! (1012DF10,X:29,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (1012E158,X:30,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (1012E3A0,X:57,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (1012E538,X:19,Y:71)
+[NEW]- Neue Objekt wurde erstellt! (1012E718,X:24,Y:82)
+[NEW]- Neue Objekt wurde erstellt! (1012E8F8,X:56,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (1012EAD8,X:54,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (1012ECB8,X:84,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (1012EE98,X:85,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (1012F078,X:53,Y:44)
+[NEW]- Neue Objekt wurde erstellt! (1012F258,X:50,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (1012F438,X:61,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (1012F618,X:69,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (1012F840,X:85,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (1012FA88,X:32,Y:80)
+[NEW]- Neue Objekt wurde erstellt! (1012FC20,X:19,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (1012FE48,X:63,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (10130098,X:55,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (10130230,X:45,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (10130418,X:45,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (10130600,X:15,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (101307E0,X:14,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (101309C0,X:14,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (10130BA0,X:14,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (10130D80,X:16,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (10130F60,X:17,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (10131140,X:18,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (10131320,X:18,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (10131500,X:17,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (101316E0,X:17,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (101318C0,X:15,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (10131AA0,X:16,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (10131C80,X:17,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (10131E60,X:12,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (10132040,X:12,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (10132220,X:12,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (10132400,X:13,Y:56)
+[NEW]- Neue Objekt wurde erstellt! (101325E0,X:13,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (101327C0,X:14,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (101329A0,X:13,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (10132B80,X:17,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (10132D60,X:18,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (10132F40,X:16,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (10133120,X:18,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (10133348,X:12,

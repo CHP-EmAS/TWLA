@@ -1,0 +1,6 @@
+{chest}0,3,3,-1,50
+{chest}1,18,1,-1,999
+{sign}2,12,16,!Duri Mine!$enterStatus: Leer$enterGröße: Winzig,200,0,0,0
+{sign}3,3,1,Herzlichen Glückwunsch Fremder!$enterDu hast mein kleines Versteck gefunden. Bedien dich ruhig <3,0,200,0,0
+{portal}4,2,1,Wald von Emasin,2
+{portal}5,18,17,Wald von Emasin,3

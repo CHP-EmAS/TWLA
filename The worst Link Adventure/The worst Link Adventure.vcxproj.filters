@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien\Game">
+      <UniqueIdentifier>{34b0c8aa-71d4-411e-98c1-41fccfc7df64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Game\Managers">
+      <UniqueIdentifier>{462c566d-e241-441a-92f0-eaeccc6f3f9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Main Managers">
+      <UniqueIdentifier>{c799668a-1c3f-4ab1-b53f-01d64309eae9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Game">
+      <UniqueIdentifier>{b1d37c70-ebcb-41e7-99dc-233b8ab731e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Game\Managers">
+      <UniqueIdentifier>{b22c335c-1a53-4362-963c-23ddee13a9f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Game\Sub-Classes">
+      <UniqueIdentifier>{7eae0b97-e231-4497-a1b7-a2b89a03890e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Main Managers">
+      <UniqueIdentifier>{a69a0648-1cf5-4220-9550-e56ca062046c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Defines">
+      <UniqueIdentifier>{474c73e7-c277-469e-a57e-0595954902b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Main Managers\Animation">
+      <UniqueIdentifier>{2ad4b1ef-5715-40e6-a663-59b007482df6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Main Managers\Animation">
+      <UniqueIdentifier>{7fc34225-390e-45c4-b531-bd3f3297277d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Game\Sub-Classes\Weapons">
+      <UniqueIdentifier>{4f602161-fd1c-419f-8539-c3bdf54666f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Game\Sub-Classes\Particle">
+      <UniqueIdentifier>{e6232584-2e9b-4844-bde1-3bd3b3c324eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Game\Sub-Classes\Interactiv Objects">
+      <UniqueIdentifier>{063818e9-9fbb-43c6-a431-8d8cd9b3d8bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Game\Sub-Classes\NPCs">
+      <UniqueIdentifier>{6d7dd430-bf3d-4646-8459-526c072b8af8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Main Managers\Screens">
+      <UniqueIdentifier>{1d9b3ed0-ff48-4bcc-8ec4-258b3e0f861a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Main Managers\Screens">
+      <UniqueIdentifier>{206ac048-3ef7-4ebc-bef2-100e507d8da7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Game\Sub-Classes">
+      <UniqueIdentifier>{2d2e28c4-c4f7-42ba-b594-b6ea17df3a18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Game\Sub-Classes\Interactiv Objects">
+      <UniqueIdentifier>{52bcd6f5-5f06-472d-9058-14a2873a9742}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Game\Sub-Classes\Weapons">
+      <UniqueIdentifier>{fe2192e9-3f73-46d3-a5e4-9bf4991a5c33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Game\Sub-Classes\Particle">
+      <UniqueIdentifier>{bc981bba-a5a0-4ab7-ab91-d921bf4aa1fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Game\Sub-Classes\NPCs">
+      <UniqueIdentifier>{c6ee8caa-879a-41ec-a8fe-4119d8a0343e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphic_Manager.cpp">
+      <Filter>Quelldateien\Main Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="InteractivObject.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Command_Manager.cpp">
+      <Filter>Quelldateien\Main Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Portal.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Sign.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Chest.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Map_Manager.cpp">
+      <Filter>Quelldateien\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Message_Manager.cpp">
+      <Filter>Quelldateien\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_Manager.cpp">
+      <Filter>Quelldateien\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_List.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Cactus.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation_Manager.cpp">
+      <Filter>Quelldateien\Main Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon_Manager.cpp">
+      <Filter>Quelldateien\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Quelldateien\Main Managers\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Blink_Ani.cpp">
+      <Filter>Quelldateien\Main Managers\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Scale_Ani.cpp">
+      <Filter>Quelldateien\Main Managers\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle_Manager.cpp">
+      <Filter>Quelldateien\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle_Particle.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle_Particle.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion_Ani.cpp">
+      <Filter>Quelldateien\Main Managers\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Img_Explosion_Ani.cpp">
+      <Filter>Quelldateien\Main Managers\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite_Particle.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="Bow_Arrow.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Boomerang.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound_Manager.cpp">
+      <Filter>Quelldateien\Main Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Grapplinghook.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Grabable_Tile.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrowBomb.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Snake.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision_System.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen_Manager.cpp">
+      <Filter>Quelldateien\Main Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_Menue.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Quest_Manager.cpp">
+      <Filter>Quelldateien\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Quest.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Options_Menue.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Player_Manager.cpp">
+      <Filter>Quelldateien\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory_Manager.cpp">
+      <Filter>Quelldateien\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Pause_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="moveable.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Dialog_Manager.cpp">
+      <Filter>Quelldateien\Game\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Credits_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Text_Particle.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="File_Manager.cpp">
+      <Filter>Quelldateien\Main Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Over_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="New_Game_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Load_Game_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Flute_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Laser.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Laser_Tower.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Stone.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Bush.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Secret_Bush.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyStone.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Jumper.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Logo_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Trigger.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Slime.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss Fly.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Teleporter.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandDoor.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Gandalf.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Magic.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Ghost.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Spike.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb_Shop_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Jar.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="FragmentInserter.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakAbyss.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Pyramide.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalWall.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Valac.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes\NPCs</Filter>
+    </ClCompile>
+    <ClCompile Include="Potion_Shop_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Quest_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Stats_Screen.cpp">
+      <Filter>Quelldateien\Main Managers\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="InGame_Stats.cpp">
+      <Filter>Quelldateien\Game\Sub-Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="InteractivObject.h">
+      <Filter>Headerdateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Headerdateien\Game\Sub-Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Command_Manager.h">
+      <Filter>Headerdateien\Main Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphic_Manager.h">
+      <Filter>Headerdateien\Main Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Message_Manager.h">
+      <Filter>Headerdateien\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Map_Manager.h">
+      <Filter>Headerdateien\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_Manager.h">
+      <Filter>Headerdateien\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Player_Defines.h">
+      <Filter>Headerdateien\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_Defines.h">
+      <Filter>Headerdateien\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="Map_Defines.h">
+      <Filter>Headerdateien\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphic_Defines.h">
+      <Filter>Headerdateien\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_List.h">
+      <Filter>Headerdateien\Game\Sub-Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD.h">
+      <Filter>Headerdateien\Game\Sub-Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Headerdateien\Game\Sub-Classes\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation_Manager.h">
+      <Filter>Headerdateien\Main Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Headerdateien\Main Managers\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Blink_Ani.h">
+      <Filter>Headerdateien\Main Managers\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Scale_Ani.h">
+      <Filter>Headerdateien\Main Managers\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon_Manager.h">
+      <Filter>Headerdateien\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle_Manager.h">
+      <Filter>Headerdateien\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>Headerdateien\Game\Sub-Classes\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle_Particle.h">
+      <Filter>Headerdateien\Game\Sub-Classes\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle_Particle.h">
+      <Filter>Headerdateien\Game\Sub-Classes\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion_Ani.h">
+      <Filter>Headerdateien\Main Managers\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Img_Explosion_Ani.h">
+      <Filter>Headerdateien\Main Managers\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite_Particle.h">
+      <Filter>Headerdateien\Game\Sub-Classes\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapons.h">
+      <Filter>Headerdateien\Game\Sub-Classes\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound_Manager.h">
+      <Filter>Headerdateien\Main Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC.h">
+      <Filter>Headerdateien\Game\Sub-Classes\NPCs</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision_System.h">
+      <Filter>Headerdateien\Game\Sub-Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision_Defines.h">
+      <Filter>Headerdateien\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="Defines.h">
+      <Filter>Headerdateien\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen_Manager.h">
+      <Filter>Headerdateien\Main Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Quest_Manager.h">
+      <Filter>Headerdateien\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Quest.h">
+      <Filter>Headerdateien\Game\Sub-Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>Headerdateien\Main Managers\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="Player_Manager.h">
+      <Filter>Headerdateien\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory_Manager.h">
+      <Filter>Headerdateien\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Window_Defines.h">
+      <Filter>Headerdateien\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug_Output.h">
+      <Filter>Headerdateien\Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="moveable.h">
+      <Filter>Headerdateien\Game\Sub-Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Dialog_Manager.h">
+      <Filter>Headerdateien\Game\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Headerdateien\Game\Sub-Classes\NPCs</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemys.h">
+      <Filter>Headerdateien\Game\Sub-Classes\NPCs</Filter>
+    </ClInclude>
+    <ClInclude Include="Text_Particle.h">
+      <Filter>Headerdateien\Game\Sub-Classes\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="File_Manager.h">
+      <Filter>Headerdateien\Main Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects.h">
+      <Filter>Headerdateien\Game\Sub-Classes\Interactiv Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Screens.h">
+      <Filter>Headerdateien\Main Managers\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="InGame_Stats.h">
+      <Filter>Headerdateien\Game\Sub-Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Klassendiagramm.cd">
+      <Filter>Headerdateien</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,616 @@
+[NEW]- Neuer Screen_Manager wurde erstellt! (007A8AF8)
+[INFO]- Debug = ON
+
+[INFO]- Nowendige Manager werden geladen
+
+[NEW]- Neuer Command_Manager wurde erstellt! (09ECE680)
+[NEW]- Neuer Graphic_Manager wurde erstellt! (09ECFC20)
+
+[INFO]- Tilesets werden geladen...
+[CHECK]- People Tileset wurde erfolgreich geladen!
+[CHECK]- Overworld Tileset wurde erfolgreich geladen!
+[CHECK]- Baum Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Burg Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Kerker Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Lava Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Schloss Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Turm Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wasser Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wuesten Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Haus Tileset wurde erfolgreich geladen!
+[CHECK]- Schattenwelt Tileset wurde erfolgreich geladen!
+
+[INFO]- Sonstige Grafiken werden geladen...
+[CHECK]- Explosions Grafiken wurde erfolgreich geladen!
+[CHECK]- Wasser-Animation wurde erfolgreich geladen!
+[CHECK]- Lava-Animation wurde erfolgreich geladen!
+
+[INFO]- Schriftarten werden geladen...
+[CHECK]- Schriftart Arial wurde erfolgreich geladen!
+[CHECK]- Schriftart Pixel wurde erfolgreich geladen!
+
+[CHECK]- Midna Texture wurde erfolgreich geladen!
+[CHECK]- Midna Texture 2 wurde erfolgreich geladen!
+[NEW]- Neuer Animation_Manager wurde erstellt! (09FE0098)
+[NEW]- Neuer Particle_Manager wurde erstellet! (09FDFF50)
+[NEW]- Neuer Sound_Manager wurde erstellt! (09FE28F8)
+
+[INFO]- Menü-Screen wird gestartet
+[CHECK]- Der Screen <13> wurde sicher gelöscht!
+
+[INFO]- New-Game-Screen wird gestartet
+
+[INFO]- ||||||************ Spiel wird gestartet! ************||||||
+[INFO]- Version: 1.1 Stable
+
+[INFO]- Items werden geladen
+[NEW]- Neue Item_List wurde erstellt! (10061A58)
+
+[INFO]- Nowendige Spiel-Manager werden geladen
+[NEW]- Neuer Map_Manager wurde erstellet! (10063AC8)
+[NEW]- Neuer Message_Manager wurde erstellt! (10097568)
+[INFO]- Es wurden 17 Dialoge gefunden!
+[NEW]- Neuer Dialog_Manager wurde erstellt! (1009AB28)
+[NEW]- Neuer Weapon_Manager wurde erstellet! (1009AC30)
+[NEW]- Neuer NPC_Manager wurde erstellet! (1009AE10)
+[NEW]- Neuer NPC wurde erstellt! (1009B248)
+[NEW]- Neuer Enemy wurde erstellt! (1009B5A0)
+[INFO]- Es wurden 12 NPCs gefunden!
+[NEW]- Collision System wurde erstellt! (1009D298)
+[INFO]- Quests werden geladen...
+[NEW]- Quest <lists/Quests/ahnenbaum.zQuest> wird erstellt!
+[CHECK]- Quest Nicht nur ein Baum (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/dreiFragmente.zQuest> wird erstellt!
+[CHECK]- Quest Drei Fragmente! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/hasiQuest.zQuest> wird erstellt!
+[CHECK]- Quest Finde Hasi! (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Letzter Schritt.zQuest> wird erstellt!
+[CHECK]- Quest Letzte Schritte! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/mushroomQuest.zQuest> wird erstellt!
+[CHECK]- Quest Pilzsuppe (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/rettung .zQuest> wird erstellt!
+[CHECK]- Quest Rettung! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/seltsamesRelikt.zQuest> wird erstellt!
+[CHECK]- Quest Abwehr des Lichtes (1,0) wurde geladen.
+[NEW]- Quest <lists/Quests/sesam öffne dich.zQuest> wird erstellt!
+[CHECK]- Quest Sesam öffne dich! (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/Valac.zQuest> wird erstellt!
+[CHECK]- Quest Besige Valac (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/wegAusWald.zQuest> wird erstellt!
+[CHECK]- Quest Der Schlüssel (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/werBinIch.zQuest> wird erstellt!
+[CHECK]- Quest Wer bin Ich? (0,0) wurde geladen.
+[NEW]- Quest <lists/Quests/zünder.zQuest> wird erstellt!
+[CHECK]- Quest Zünder (0,0) wurde geladen.
+[NEW]- Neuer Quest_Manager wurde erstellet! (1009D2F8)
+[NEW]- Neuer Inventory_Manager wurde erstellt! (100A4288)
+[NEW]- Neuer Player_Manager wurde erstellet! (1009F118)
+
+[INFO]- Map <Wald von Emasin> wird geladen...
+
+[NEW]- Neue Map <Maps/Wald von Emasin> wird erstellt! (09EC2D80) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Wald von Emasin
+ - ID: 4
+ - Size: 100,100
+ - Tileset: 0
+ - Background Music: Music/Lost Forest.ogg
+ - Light-Level: 3
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (100E2B30,X:23,Y:89)
+[NEW]- Neue Objekt wurde erstellt! (100E2CD0,X:19,Y:89)
+[NEW]- Neue Objekt wurde erstellt! (100DCDB8,X:64,Y:42)
+[NEW]- Neue Objekt wurde erstellt! (100DCF78,X:54,Y:72)
+[NEW]- Neue Objekt wurde erstellt! (100DD178,X:8,Y:74)
+[NEW]- Neue Objekt wurde erstellt! (100DD430,X:47,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (100DD758,X:10,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (100DD8F0,X:10,Y:69)
+[NEW]- Neue Objekt wurde erstellt! (100DDA88,X:21,Y:68)
+[NEW]- Neue Objekt wurde erstellt! (100DDC20,X:10,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (100E2FF0,X:10,Y:76)
+[NEW]- Neue Objekt wurde erstellt! (100E3188,X:10,Y:77)
+[NEW]- Neue Objekt wurde erstellt! (100E3320,X:10,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (100E3500,X:9,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (100E36E0,X:8,Y:78)
+[NEW]- Neue Objekt wurde erstellt! (100E38C0,X:8,Y:81)
+[NEW]- Neue Objekt wurde erstellt! (100E3AE8,X:29,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (100E3D78,X:30,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (100E3F78,X:57,Y:75)
+[NEW]- Neue Objekt wurde erstellt! (100E4110,X:19,Y:71)
+[NEW]- Neue Objekt wurde erstellt! (100E42F0,X:24,Y:82)
+[NEW]- Neue Objekt wurde erstellt! (100E44D0,X:56,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (100E46B0,X:54,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (100E4890,X:84,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (100E4A70,X:85,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (100E4C50,X:53,Y:44)
+[NEW]- Neue Objekt wurde erstellt! (100E4E30,X:50,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (100E5010,X:61,Y:39)
+[NEW]- Neue Objekt wurde erstellt! (100E51F0,X:69,Y:38)
+[NEW]- Neue Objekt wurde erstellt! (100E5418,X:85,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (100E5660,X:32,Y:80)
+[NEW]- Neue Objekt wurde erstellt! (100E57F8,X:19,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (100E5A20,X:63,Y:37)
+[NEW]- Neue Objekt wurde erstellt! (100E5C68,X:55,Y:66)
+[NEW]- Neue Objekt wurde erstellt! (100E5E00,X:45,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (100E5FE8,X:45,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (100E61D0,X:15,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (100E63B0,X:14,Y:64)
+[NEW]- Neue Objekt wurde erstellt! (100E6590,X:14,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (100E6770,X:14,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (100E6950,X:16,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (100E6B30,X:17,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (100E6D10,X:18,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (100E6EF0,X:18,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (100E70D0,X:17,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (100E72B0,X:17,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (100E7490,X:15,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (100E7670,X:16,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (100E7850,X:17,Y:57)
+[NEW]- Neue Objekt wurde erstellt! (100E7A30,X:12,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (100E7C10,X:12,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (100E7DF0,X:12,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (100E7FD0,X:13,Y:56)
+[NEW]- Neue Objekt wurde erstellt! (100E81B0,X:13,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (100E8390,X:14,Y:55)
+[NEW]- Neue Objekt wurde erstellt! (100E8570,X:13,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (100E8750,X:17,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (100E8930,X:18,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (100E8B10,X:16,Y:58)
+[NEW]- Neue Objekt wurde erstellt! (100E8CF0,X:18,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (100E8F18,X:12,Y:52)
+[NEW]- Neue Objekt wurde erstellt! (100E9168,X:85,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (100E9300,X:86,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (100E94E0,X:85,Y:61)
+[NEW]- Neue Objekt wurde erstellt! (100E96C0,X:85,Y:60)
+[NEW]- Neue Objekt wurde erstellt! (100E98A0,X:85,Y:59)
+[NEW]- Neue Objekt wurde erstellt! (100E9A80,X:84,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (100E9C60,X:86,Y:63)
+[NEW]- Neue Objekt wurde erstellt! (100E9E40,X:83,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (100EA020,X:87,Y:62)
+[NEW]- Neue Objekt wurde erstellt! (100EA3E0,X:47,Y:79)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 10000 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 1488,2864
+ - Spawnpoint: 2048,1376
+ - Spawnpoint: 2016,1216
+ - Spawnpoint: 2720,2080
+ - Spawnpoint: 943,1865
+
+[INFO]- NPCs werden erstellt...
+
+[CHECK]- Map <Wald von Emasin> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (100F3488 - p)
+[INFO]- Player-TP: 1488,2864
+[WARNING]- Datei <Savegames/save#1162018133210/maps/4.zData> konnte nicht geöffnet werden!
+[CHECK]- Der Screen <7> wurde sicher gelöscht!
+[INFO]- Player-TP: 1488,2864
+[INFO]- Spiel wird gespeichert!
+[CHECK]- Dialog: 4 wird ausgeführt!
+Quest-Command: speak-4-0
+[CHECK]- Dialog: 2 wird ausgeführt!
+Quest-Command: speak-2-0
+Bitte geben sie ein Befehl ein!
+[INFO]- Map <Wald von Emasin> wird gelöscht!
+[DELETE]- Ein Objekt wurde geloescht!	(100E2B30)
+[DELETE]- Ein Objekt wurde geloescht!	(100E2CD0)
+[DELETE]- Ein Objekt wurde geloescht!	(100DCDB8)
+[DELETE]- Ein Objekt wurde geloescht!	(100DCF78)
+[DELETE]- Ein Objekt wurde geloescht!	(100DD178)
+[DELETE]- Ein Objekt wurde geloescht!	(100DD430)
+[DELETE]- Ein Objekt wurde geloescht!	(100DD758)
+[DELETE]- Ein Objekt wurde geloescht!	(100DD8F0)
+[DELETE]- Ein Objekt wurde geloescht!	(100DDA88)
+[DELETE]- Ein Objekt wurde geloescht!	(100DDC20)
+[DELETE]- Ein Objekt wurde geloescht!	(100E2FF0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E3188)
+[DELETE]- Ein Objekt wurde geloescht!	(100E3320)
+[DELETE]- Ein Objekt wurde geloescht!	(100E3500)
+[DELETE]- Ein Objekt wurde geloescht!	(100E36E0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E38C0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E3AE8)
+[DELETE]- Ein Objekt wurde geloescht!	(100E3D78)
+[DELETE]- Ein Objekt wurde geloescht!	(100E3F78)
+[DELETE]- Ein Objekt wurde geloescht!	(100E4110)
+[DELETE]- Ein Objekt wurde geloescht!	(100E42F0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E44D0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E46B0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E4890)
+[DELETE]- Ein Objekt wurde geloescht!	(100E4A70)
+[DELETE]- Ein Objekt wurde geloescht!	(100E4C50)
+[DELETE]- Ein Objekt wurde geloescht!	(100E4E30)
+[DELETE]- Ein Objekt wurde geloescht!	(100E5010)
+[DELETE]- Ein Objekt wurde geloescht!	(100E51F0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E5418)
+[DELETE]- Ein Objekt wurde geloescht!	(100E5660)
+[DELETE]- Ein Objekt wurde geloescht!	(100E57F8)
+[DELETE]- Ein Objekt wurde geloescht!	(100E5A20)
+[DELETE]- Ein Objekt wurde geloescht!	(100E5C68)
+[DELETE]- Ein Objekt wurde geloescht!	(100E5E00)
+[DELETE]- Ein Objekt wurde geloescht!	(100E5FE8)
+[DELETE]- Ein Objekt wurde geloescht!	(100E61D0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E63B0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E6590)
+[DELETE]- Ein Objekt wurde geloescht!	(100E6770)
+[DELETE]- Ein Objekt wurde geloescht!	(100E6950)
+[DELETE]- Ein Objekt wurde geloescht!	(100E6B30)
+[DELETE]- Ein Objekt wurde geloescht!	(100E6D10)
+[DELETE]- Ein Objekt wurde geloescht!	(100E6EF0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E70D0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E72B0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E7490)
+[DELETE]- Ein Objekt wurde geloescht!	(100E7670)
+[DELETE]- Ein Objekt wurde geloescht!	(100E7850)
+[DELETE]- Ein Objekt wurde geloescht!	(100E7A30)
+[DELETE]- Ein Objekt wurde geloescht!	(100E7C10)
+[DELETE]- Ein Objekt wurde geloescht!	(100E7DF0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E7FD0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E81B0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E8390)
+[DELETE]- Ein Objekt wurde geloescht!	(100E8570)
+[DELETE]- Ein Objekt wurde geloescht!	(100E8750)
+[DELETE]- Ein Objekt wurde geloescht!	(100E8930)
+[DELETE]- Ein Objekt wurde geloescht!	(100E8B10)
+[DELETE]- Ein Objekt wurde geloescht!	(100E8CF0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E8F18)
+[DELETE]- Ein Objekt wurde geloescht!	(100E9168)
+[DELETE]- Ein Objekt wurde geloescht!	(100E9300)
+[DELETE]- Ein Objekt wurde geloescht!	(100E94E0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E96C0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E98A0)
+[DELETE]- Ein Objekt wurde geloescht!	(100E9A80)
+[DELETE]- Ein Objekt wurde geloescht!	(100E9C60)
+[DELETE]- Ein Objekt wurde geloescht!	(100E9E40)
+[DELETE]- Ein Objekt wurde geloescht!	(100EA020)
+[DELETE]- Ein Objekt wurde geloescht!	(100EA3E0)
+[DELETE]- Ein Objekt wurde geloescht!	(100F3488)
+[DELETE]- Map <Wald von Emasin> wurde geloescht!	(09EC2D80)
+
+[INFO]- Map <Sebara Boss> wird geladen...
+
+[NEW]- Neue Map <Maps/Sebara Boss> wird erstellt! (09FEFAA8) 
+
+[INFO]- Eigenschaften werden geladen...
+ - Name: Sebara Boss
+ - ID: 995
+ - Size: 20,20
+ - Tileset: 9
+ - Background Music: CONTINUE
+ - Light-Level: 5
+
+[INFO]- Interaktive Objekte werden erstellt...
+[NEW]- Neue Objekt wurde erstellt! (09FF77A8,X:6,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (09FF7D60,X:13,Y:6)
+[NEW]- Neue Objekt wurde erstellt! (09FF8180,X:13,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (09FF3C88,X:6,Y:13)
+[NEW]- Neue Objekt wurde erstellt! (09FF3FE8,X:11,Y:9)
+[NEW]- Neue Objekt wurde erstellt! (09FF4478,X:12,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (09FF4640,X:13,Y:8)
+[NEW]- Neue Objekt wurde erstellt! (09FF48F8,X:12,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (09FF4CA0,X:13,Y:10)
+[NEW]- Neue Objekt wurde erstellt! (09FF5048,X:9,Y:10)
+
+[INFO]- Map-Data wird geladen...
+[CHECK]- 400 Felder wurden erfolgreich geladen!
+
+[INFO]- Spawn-Punkte werden geladen...
+ - Spawnpoint: 320,320
+
+[INFO]- NPCs werden erstellt...
+[NEW]- Neuer Enemy wurde erstellt! (09FF5200)
+
+[CHECK]- Map <Sebara Boss> wurde erfolgreich geladen!
+[NEW]- Neue Objekt wurde erstellt! (10163188 - p)
+[INFO]- Player-TP: 320,320
+[WARNING]- Datei <Savegames/save#1162018133210/maps/995.zData> konnte nicht geöffnet werden!
+[INFO]- Spiel wird gespeichert!
+
+[INFO]- Pause-Screen wird gestartet
+[CHECK]- Der Screen <3> wurde sicher gelöscht!
+[CHECK]- Dialog: 9997 wird ausgeführt!
+Quest-Command: 9997-0
+[NEW]- Animation erstellt - (0A238A90)
+[NEW]- Animation erstellt - (0A23DA58)
+[NEW]- Animation erstellt - (0A23DBD0)
+[NEW]- Animation erstellt - (100E1BC0)
+[DELETE]- Animation gelöscht - (0A238A90)
+[NEW]- Animation erstellt - (0A23EA18)
+[DELETE]- Animation gelöscht - (0A23DA58)
+[DELETE]- Animation gelöscht - (0A23DBD0)
+[DELETE]- Animation gelöscht - (100E1BC0)
+[DELETE]- Animation gelöscht - (0A23EA18)
+[NEW]- Animation erstellt - (100F5300)
+[NEW]- Animation erstellt - (100F4248)
+[NEW]- Animation erstellt - (100F63D8)
+[DELETE]- Animation gelöscht - (100F5300)
+[NEW]- Animation erstellt - (100F4B58)
+[DELETE]- Animation gelöscht - (100F4248)
+[DELETE]- Animation gelöscht - (100F63D8)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (100F4B58)
+[NEW]- Animation erstellt - (100F4D18)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (100F4B58)
+[DELETE]- Animation gelöscht - (100F4D18)
+[NEW]- Animation erstellt - (035E4598)
+[NEW]- Animation erstellt - (09FE3340)
+[NEW]- Animation erstellt - (035E4710)
+[NEW]- Animation erstellt - (09FE5170)
+[NEW]- Animation erstellt - (09FE4DF0)
+[DELETE]- Animation gelöscht - (100F4B58)
+[DELETE]- Animation gelöscht - (035E4598)
+[DELETE]- Animation gelöscht - (09FE3340)
+[DELETE]- Animation gelöscht - (035E4710)
+[DELETE]- Animation gelöscht - (09FE5170)
+[NEW]- Animation erstellt - (09E6B760)
+[DELETE]- Animation gelöscht - (09FE4DF0)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (09E6B760)
+[NEW]- Animation erstellt - (035E9C10)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (035E9C10)
+[NEW]- Animation erstellt - (100F3758)
+[NEW]- Animation erstellt - (100F1378)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (100F3758)
+[DELETE]- Animation gelöscht - (100F1378)
+[NEW]- Animation erstellt - (035E44A8)
+[NEW]- Animation erstellt - (100F4428)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (09FE3340)
+[NEW]- Animation erstellt - (100F14B8)
+[NEW]- Animation erstellt - (09FE5800)
+[DELETE]- Animation gelöscht - (035E44A8)
+[NEW]- Animation erstellt - (100F3758)
+[DELETE]- Animation gelöscht - (100F4428)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (100F4248)
+[DELETE]- Animation gelöscht - (100F14B8)
+[DELETE]- Animation gelöscht - (09FE5800)
+[DELETE]- Animation gelöscht - (100F3758)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (100F4248)
+[NEW]- Animation erstellt - (035D9B08)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (100F4248)
+[DELETE]- Animation gelöscht - (035D9B08)
+[NEW]- Animation erstellt - (035E44A8)
+[DELETE]- Animation gelöscht - (100F4248)
+[NEW]- Animation erstellt - (09FE3340)
+[NEW]- Animation erstellt - (100F39A0)
+[DELETE]- Animation gelöscht - (035E44A8)
+[NEW]- Animation erstellt - (035E4778)
+[DELETE]- Animation gelöscht - (09FE3340)
+[DELETE]- Animation gelöscht - (100F39A0)
+[NEW]- Animation erstellt - (100F42E8)
+[NEW]- Animation erstellt - (100F19C0)
+[DELETE]- Animation gelöscht - (035E4778)
+[NEW]- Animation erstellt - (035E44D0)
+[NEW]- Animation erstellt - (09E6CFA8)
+[DELETE]- Animation gelöscht - (100F42E8)
+[NEW]- Animation erstellt - (09FE3340)
+[NEW]- Animation erstellt - (09E6C0D8)
+[DELETE]- Animation gelöscht - (100F19C0)
+[NEW]- Animation erstellt - (035E4728)
+[DELETE]- Animation gelöscht - (035E44D0)
+[DELETE]- Animation gelöscht - (09E6CFA8)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (09E6D140)
+[DELETE]- Animation gelöscht - (09E6C0D8)
+[DELETE]- Animation gelöscht - (035E4728)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (09E6D140)
+[NEW]- Animation erstellt - (100F3938)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (100F3938)
+[NEW]- Animation erstellt - (035E9C10)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (100F37F8)
+[DELETE]- Animation gelöscht - (035E9C10)
+[NEW]- Animation erstellt - (09FE3340)
+[NEW]- Animation erstellt - (100F1378)
+[DELETE]- Animation gelöscht - (100F37F8)
+[NEW]- Animation erstellt - (035D96B0)
+[NEW]- Animation erstellt - (035D9AC0)
+[NEW]- Animation erstellt - (035D98C8)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (09FE3340)
+[NEW]- Animation erstellt - (035D9418)
+[DELETE]- Animation gelöscht - (100F1378)
+[DELETE]- Animation gelöscht - (035D96B0)
+[DELETE]- Animation gelöscht - (035D9AC0)
+[DELETE]- Animation gelöscht - (035D98C8)
+[NEW]- Animation erstellt - (100F18B0)
+[DELETE]- Animation gelöscht - (09FE3340)
+[DELETE]- Animation gelöscht - (035D9418)
+[NEW]- Animation erstellt - (09FE5898)
+[DELETE]- Animation gelöscht - (100F18B0)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (09FE5898)
+[NEW]- Animation erstellt - (100F1698)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (100F1810)
+[NEW]- Animation erstellt - (09FE59C8)
+[DELETE]- Animation gelöscht - (100F1698)
+[DELETE]- Animation gelöscht - (100F1810)
+[NEW]- Animation erstellt - (035E9C10)
+[DELETE]- Animation gelöscht - (09FE59C8)
+[NEW]- Animation erstellt - (100F37F8)
+[NEW]- Animation erstellt - (035D9418)
+[NEW]- Animation erstellt - (035D9788)
+[NEW]- Animation erstellt - (100F4248)
+[DELETE]- Animation gelöscht - (035E9C10)
+[NEW]- Animation erstellt - (09FE5978)
+[NEW]- Animation erstellt - (035E4598)
+[DELETE]- Animation gelöscht - (100F37F8)
+[DELETE]- Animation gelöscht - (035D9418)
+[DELETE]- Animation gelöscht - (035D9788)
+[DELETE]- Animation gelöscht - (100F4248)
+[DELETE]- Animation gelöscht - (09FE5978)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (035E4598)
+[NEW]- Animation erstellt - (100F15F8)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (100F1378)
+[DELETE]- Animation gelöscht - (100F15F8)
+[NEW]- Animation erstellt - (09FE3340)
+[NEW]- Animation erstellt - (035E9C10)
+[DELETE]- Animation gelöscht - (100F1378)
+[NEW]- Animation erstellt - (035E47C8)
+[DELETE]- Animation gelöscht - (09FE3340)
+[DELETE]- Animation gelöscht - (035E9C10)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (035E47C8)
+[NEW]- Animation erstellt - (100F3758)
+[NEW]- Animation erstellt - (035D9A10)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (09FE5988)
+[NEW]- Animation erstellt - (035E9C10)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (100F3758)
+[NEW]- Animation erstellt - (035D9B88)
+[DELETE]- Animation gelöscht - (035D9A10)
+[DELETE]- Animation gelöscht - (09FE5988)
+[NEW]- Animation erstellt - (09FE4C18)
+[DELETE]- Animation gelöscht - (035E9C10)
+[DELETE]- Animation gelöscht - (09FE3340)
+[DELETE]- Animation gelöscht - (035D9B88)
+[NEW]- Animation erstellt - (09FE59E0)
+[DELETE]- Animation gelöscht - (09FE4C18)
+[NEW]- Animation erstellt - (100F14B8)
+[DELETE]- Animation gelöscht - (09FE59E0)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (100F14B8)
+[NEW]- Animation erstellt - (100F42E8)
+[NEW]- Animation erstellt - (09FE4C18)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (100F1910)
+[DELETE]- Animation gelöscht - (100F42E8)
+[DELETE]- Animation gelöscht - (09FE4C18)
+[NEW]- Animation erstellt - (100F4478)
+[DELETE]- Animation gelöscht - (100F1910)
+[NEW]- Animation erstellt - (035E9CB0)
+[DELETE]- Animation gelöscht - (100F4478)
+[NEW]- Animation erstellt - (09FE3340)
+[NEW]- Animation erstellt - (100F3758)
+[DELETE]- Animation gelöscht - (035E9CB0)
+[NEW]- Animation erstellt - (100F1378)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (09FE3340)
+[NEW]- Animation erstellt - (100F1680)
+[NEW]- Animation erstellt - (035E9C10)
+[NEW]- Animation erstellt - (09FE5690)
+[DELETE]- Animation gelöscht - (100F3758)
+[NEW]- Animation erstellt - (035D98D0)
+[DELETE]- Animation gelöscht - (100F1378)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (100F1680)
+[DELETE]- Animation gelöscht - (035E9C10)
+[DELETE]- Animation gelöscht - (09FE5690)
+[DELETE]- Animation gelöscht - (035D98D0)
+[NEW]- Animation erstellt - (035E9C10)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (035E47C8)
+[DELETE]- Animation gelöscht - (035E9C10)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (035E47C8)
+[NEW]- Animation erstellt - (035E4408)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (100F3898)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (035E4408)
+[NEW]- Animation erstellt - (035E9C10)
+[DELETE]- Animation gelöscht - (100F3898)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (100F1A18)
+[NEW]- Animation erstellt - (100F3840)
+[DELETE]- Animation gelöscht - (035E9C10)
+[NEW]- Animation erstellt - (100F4248)
+[NEW]- Animation erstellt - (09FE3340)
+[NEW]- Animation erstellt - (09FE4C18)
+[NEW]- Animation erstellt - (035E9C10)
+[DELETE]- Animation gelöscht - (100F1A18)
+[DELETE]- Animation gelöscht - (100F3840)
+[NEW]- Animation erstellt - (100F43C0)
+[DELETE]- Animation gelöscht - (100F4248)
+[DELETE]- Animation gelöscht - (09FE3340)
+[DELETE]- Animation gelöscht - (09FE4C18)
+[DELETE]- Animation gelöscht - (035E9C10)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (100F43C0)
+[NEW]- Animation erstellt - (035E46E0)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (100F17A0)
+[DELETE]- Animation gelöscht - (035E46E0)
+[NEW]- Animation erstellt - (035D90A8)
+[DELETE]- Animation gelöscht - (100F17A0)
+[NEW]- Animation erstellt - (035E44A8)
+[DELETE]- Animation gelöscht - (035D90A8)
+[NEW]- Animation erstellt - (09FE3340)
+[DELETE]- Animation gelöscht - (035E44A8)
+[NEW]- Animation erstellt - (100F19B8)
+[NEW]- Animation erstellt - (100F1558)
+[DELETE]- Animation gelöscht - (09FE3340)
+[NEW]- Animation erstellt - (035E4548)
+[NEW]- Animation erstellt - (09FE3340)
+[NEW]- Animation erstellt - (100F4248)
+[DELETE]- Animation gelöscht - (100F19B8)
+[NEW]- Animation erstellt - (09FE5078)
+
+[INFO]- Beenden!
+
+[DELETE]- Message_Manager wurde geloescht!	(10097568)
+[DELETE]- Dialog_Manager wurde geloescht!	(1009AB28)
+[DELETE]- Ein Objekt wurde geloescht!	(09FF77A8)
+[DELETE]- Ein Objekt wurde geloescht!	(09FF7D60)
+[DELETE]- Ein Objekt wurde geloescht!	(09FF8180)
+[DELETE]- Ein Objekt wurde geloescht!	(09FF3C88)
+[DELETE]- Ein Objekt wurde geloescht!	(09FF3FE8)
+[DELETE]- Ein Objekt wurde geloescht!	(09FF4478)
+[DELETE]- Ein Objekt wurde geloescht!	(09FF4640)
+[DELETE]- Ein Objekt wurde geloescht!	(09FF48F8)
+[DELETE]- Ein Objekt wurde geloescht!	(09FF4CA0)
+[DELETE]- Ein Objekt wurde geloescht!	(09FF5048)
+[DELETE]- Ein Objekt wurde geloescht!	(10163188)
+[DELETE]- Map <Sebara Boss> wurde geloescht!	(09FEFAA8)
+[DELETE]- Map_Manager wurde geloescht!	(10063AC8)
+[DELETE]- Item_List wurde geloescht!	(10061A58)
+[DELETE]- Weapon_Manager wurde geloescht!	(1009AC30)
+[DELETE]- Ein Enemy wurde geloescht!	(09FF5200)
+[DELETE]- Ein NPC wurde geloescht!	(1009B248)
+[DELETE]- Ein Enemy wurde geloescht!	(1009B5A0)
+[DELETE]- NPC_Manager wurde geloescht!	(1009AE10)
+[DELETE]- Collision System wurde geloescht!	(1009D298)
+[DELETE]- Quest <Pilzsuppe> wird gelöscht!
+[DELETE]- Quest <Finde Hasi!> wird gelöscht!
+[DELETE]- Quest <Drei Fragmente!> wird gelöscht!
+[DELETE]- Quest <Rettung!> wird gelöscht!
+[DELETE]- Quest <Wer bin Ich?> wird gelöscht!
+[DELETE]- Quest <Der Schlüssel> wird gelöscht!
+[DELETE]- Quest <Zünder> wird gelöscht!
+[DELETE]- Quest <Nicht nur ein Baum> wird gelöscht!
+[DELETE]- Quest <Besige Valac> wird gelöscht!
+[DELETE]- Quest <Sesam öffne dich!> wird gelöscht!
+[DELETE]- Quest <Letzte Schritte!> wird gelöscht!
+[DELETE]- Quest <Abwehr des Lichtes> wird gelöscht!
+[DELETE]- Quest_Manager wurde geloescht!	(1009D2F8)
+[DELETE]- Inventory_Manager wurde geloescht!	(100A4288)
+[DELETE]- Ein Player wurde geloescht!	(1009F118)
+[DELETE]- Graphic_Manager wurde geloescht!	(09ECFC20)
+[DELETE]- Command_Manager wurde geloescht!	(09ECE680)
+[DELETE]- Animation gelöscht - (100F1558)
+[DELETE]- Animation gelöscht - (035E4548)
+[DELETE]- Animation gelöscht - (09FE3340)
+[DELETE]- Animation gelöscht - (100F4248)
+[DELETE]- Animation gelöscht - (09FE5078)
+[DELETE]- Animation_Manager wurde geloescht!	(09FE0098)
+[DELETE]- Particle_Manager wurde geloescht!	(09FDFF50)
+[DELETE]- Sound_Manager wurde geloescht!	(09FE28F8)

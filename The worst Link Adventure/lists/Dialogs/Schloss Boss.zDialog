@@ -1,0 +1,16 @@
+{ID}997
+
+{next section}
+	{quest command}speak-997-0
+	{speaker name}Gandalf
+	{text color} 200,0,0,255
+	{command}update
+	{text}Du hast mich also gefunden?
+	{text}Das ist aber auch das Einzige was du heute erreichen wirst.
+	{text}Viel Spaﬂ beim Sterben!
+{next section}
+	{requirement}speak-997-0
+	{speaker name}Gandalf
+	{text}NEEEEEIIIINNNN!!!
+	{quest command}speak-997-1
+{end sections}

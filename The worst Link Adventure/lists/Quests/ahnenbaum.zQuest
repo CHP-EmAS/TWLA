@@ -1,0 +1,9 @@
+{name}Nicht nur ein Baum
+{description}Finde den Ahnenbaum, er kann dir mehr über dich erzählen. Es soll einen zweiten Ausgang aus dem Wurzelsystem geben, dort wartet er auf dich!
+{ID}8
+{type}M
+{status}H
+{settings}0
+{requirement}speak-998-1
+{task}speak-998-2
+{end}

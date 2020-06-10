@@ -1,0 +1,32 @@
+{ID}8
+
+{next section}
+	{speaker name}Lukas
+	{text}Guten Tag!
+	{do question}gruecht
+{end sections}
+
+{question}gruecht
+	{question text}Kann ich dir ein Gerücht verraten?
+	{answer}Ja
+		{speaker name}Lukas
+		{text}Ok, hör genau zu!
+		{text}Am See des Berges Naru soll ein Tempel existieren!
+		{text}Man sagt dort soll eine Relikt des Lichts liegen!
+		{text}Jemand fand eine alte Schriftrolle, wo genau diese Information drin stand.
+		{text}Auf der stand auch noch was anderes Mysteriöses.
+		{text}Nämlich der Satz:
+		{speaker name}Schriftrolle
+		{text color}255,255,0,255
+		{text}"Um die Abwehr des Lichtes zu erlangen gehe in folgender Reihenfolge: Links,Unten Rechts,Unten Links,Links,Unten Rechts,2x Unten Links,Oben Rechts und Oben Links"
+		{speaker name}Mario
+		{text color}255,255,255,255
+		{text}Das klingt doch interessant!
+		{text}Was wohl dieses Relikt des Lichtes ist?
+		{text}Naja ich werde es wohl nie herausfinden, weil ich nicht schwimmen kann.
+		{text}Einen schönen Tag noch!
+		{quest command}speak-8-0
+	{answer}Nein
+		{speaker name}Lukas
+		{text}Ok dann schönen Tag noch!
+{end question}

@@ -1,0 +1,61 @@
+{ID}999
+
+{next section}
+	{quest command}speak-999-0
+	{speaker name}???
+	{text}Einen wunderschönen guten Tag!
+	{text}Ich glaube wir kennen uns nicht. Kann das sein?
+	{speaker name}Shoiopa
+	{text}Naja, ich heiße Shoiopa und bin die Besitzerin dieses wundervollen Shops hier.
+	{text}Du kannst bei mir allerlei einkaufen. Von Ringen bis zu Schwertern.
+	{text}Wähle im Shop einfach mit den Pfeiltasten deine gewünschten Artikel aus und bestätige dein Kauf mit 'Enter'.
+	{text}Dies hier ist nicht der einzige Shop, meine Läden sind im ganzen Land verteilt, du wirst dort meine Zwillingschwestern antreffen.
+	{text}Ok. Jetzt aber genug gelabert!
+	{text}Ich muss dich erstmal in mein Kundenbuch eintragen! Sonst kannst du hier nichts kaufen.
+	{text}Bevor du mir dein Namen nennst, würde ich ihn gerne erraten!
+	{text}Mhh......
+	{text}...
+	{text}Vlt Reiner Zufall? Nein Nein. Der ist es nicht.
+	{text}Mhh......
+	{text}...
+	{text}Vlt xXHardcore PlayerXx? Nein Nein. Der ist es auch nicht.
+	{text}Mhh......
+	{text}...
+	{text}ICH HABS!
+	{text}Dein Name lautet.....
+	{text}$playername !!!!!!!
+	{do question}namenFrage
+	{text}Dann füge ich mal '$playername' dem Kundenbuch hinzu!
+	{text}Jetzt wissen auch meine Zwillingsschwestern wer du bist, wenn du mal in ihre Läden kommen solltest!
+	{text}Nunja, jetzt zum Wesentlichen.
+	{do question}FrageKaufen
+{next section}
+	{requirement}speak-999-0
+	{speaker name}Shoiopa
+	{text}Einen wunderschönen guten Tag, $playername!
+	{text}Schön dich wieder zu sehen!
+	{do question}FrageKaufen
+{end sections}
+
+{question}FrageKaufen
+	{question text}Möchtest du was Kaufen?
+	{answer}Ja
+		{speaker name}Shoiopa
+		{text}Yippi!!!!
+		{command}openShop
+	{answer}Nein
+		{speaker name}Shoiopa
+		{text}Ok$enterAuf Wiedersehen!!
+{end question}
+
+{question}namenFrage
+	{question text}Ist das Richtig?
+	{answer}Ja
+		{speaker name}Shoiopa
+		{text}Yippi!!!!
+		{text}Ich bin einfach zu gut!!
+	{answer}Nein
+		{speaker name}Shoiopa
+		{text}Mhh Schade.
+		{text}Naja, ich finde den Namen soooo süß, dass ich dich trotzdem so nennen werde!
+{end question}

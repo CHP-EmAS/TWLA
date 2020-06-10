@@ -1,0 +1,10 @@
+{name}Finde Hasi!
+{description}Finde den Hasen der alten Frau, er hat sich zuletzt in der Nähe vom Friedhof aufgehalten.
+{ID}1
+{type}S
+{status}H
+{settings}0
+{requirement}speak-5-0
+{task}found-Hasi
+{task}speak-5-2
+{end}

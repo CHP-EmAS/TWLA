@@ -1,0 +1,11 @@
+{name}Drei Fragmente!
+{description}Finde alle drei Fragmente, eins in der Sebara Wüste, das andere im Toten Wald und das letzte im Schloss Neara.
+{ID}3
+{type}M
+{status}H
+{settings}0
+{requirement}speak-2-1
+{task}found-100
+{task}found-101
+{task}found-102
+{end}

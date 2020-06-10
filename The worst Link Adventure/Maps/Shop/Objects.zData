@@ -1,0 +1,6 @@
+{portal}0,4,9,{lastMap},0
+{portal}1,5,9,{lastMap},0
+{trigger}2,4,5,1,1,Q - Reden,doDialog 999
+{trigger}3,5,5,1,1,Q - Reden,doDialog 999
+{jar}4,8,8,-1
+{jar}5,1,8,-1

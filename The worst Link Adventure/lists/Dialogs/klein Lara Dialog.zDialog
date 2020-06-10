@@ -1,0 +1,99 @@
+{ID}0
+
+{next section}
+	{quest command}speak-0-0
+	{speaker name}klein Lara
+	{text}Du hast mich gefunden!
+	{text}Gott sei Dank noch bevor mich diese Monster gefunden haben!
+	{text}Aber wie kommen wir jetzt hier raus?
+	{text}Ich hab mich nicht getraut hinter diese Tür zu sehen, von dort hört man ein komisches Summen.
+	{text}Es ist aber leider die einzige Möglichkeit, hier noch vorran zu kommen!
+	{text}Der Ausgang ist nämlich durch gewaltige Felsbrocken blockiert!
+	{text}Kannst du in diesem Raum mal nachsehen, ob dort ein Ausgang ist?
+	{do question}WundenHeilen
+	{text}Aber sei vorsichtig!
+{next section}
+	{requirement}speak-0-0
+	{do question}BossNichtTot
+{next section}
+	{requirement}kill-boss-0
+	{do question}BossTot
+{next section}
+	{requirement}speak-0-1
+	{speaker name}klein Lara
+	{text}Danke, wir gehen jetzt zurück in die Stadt, wir hätten hier nicht spielen dürfen.
+	{text}Du kannst uns jederzeit wieder besuchen, wir wohnen zusammen in dem Haus auf dem kleinen Hügel.
+	{command}fadeOut
+	{command}setNPCActivity 0 0
+	{command}setNPCActivity 7 0
+	{command}fadeIn
+{next section}
+	{requirement}speak-998-2
+	{quest command}speak-0-2
+	{speaker name}klein Lara
+	{text}Danke nochmal das du mich gerettet hast <3!
+	{text}Da ich jetzt zuhause bin, kann ich dir auch eine Belohnung geben!
+	{command}give 3 1
+{next section}
+	{requirement}speak-0-2
+	{do question}WundenHeilen
+{end sections}
+
+{question}BossNichtTot
+	{question text}Weißt du wie wir hier raus kommen?
+	{answer}Ja
+		{speaker name}klein Lara
+		{text}Ich hab dich aber noch nicht durch die Tür gehen sehen!
+		{text}Lüg mich nicht an! Du musst einen Ausgang finden!
+		{do question}WundenHeilen
+	{answer}Nein
+		{speaker name}klein Lara
+		{text}Dann seh in dem Raum nach!
+		{do question}WundenHeilen
+{end question}
+
+{question}BossTot
+	{question text}Weißt du wie wir hier raus kommen?
+	{answer}Ja
+		{speaker name}klein Lara
+		{text}Also können wir mit diesem Hammer hier raus kommen!
+		{text}Ok dann folge mir, ich weiß welchen Weg wir frei schlagen müssen!
+		{command}fadeOut
+		{command}setObjectActivity 5 0
+		{command}setObjectActivity 6 0
+		{command}setObjectActivity 7 0
+		{command}setObjectActivity 8 0
+		{command}setObjectActivity 9 0
+		{command}setObjectActivity 10 0
+		{command}setObjectActivity 40 0
+		{command}setNPCActivity 7 0
+		{command}changeMap <Verbotener Hain> 3
+		{command}setNPCActivity 7 1
+		{command}fadeIn
+		{quest command}speak-0-1
+	{answer}Hammer
+		{speaker name}klein Lara
+		{text}Also können wir mit diesem Hammer hier raus kommen!
+		{text}Ok dann folge mir, ich weiß welchen Weg wir frei schlagen müssen!
+		{command}fadeOut
+		{command}setObjectActivity 5 0
+		{command}setObjectActivity 6 0
+		{command}setObjectActivity 7 0
+		{command}setObjectActivity 8 0
+		{command}setObjectActivity 9 0
+		{command}setObjectActivity 10 0
+		{command}setObjectActivity 40 0
+		{command}setNPCActivity 7 0
+		{command}changeMap <Verbotener Hain> 3
+		{command}setNPCActivity 7 1
+		{command}fadeIn
+		{quest command}speak-0-1
+{end question}
+
+{question}WundenHeilen
+	{question text}Soll ich deine Wunden heilen?
+	{answer}Ja
+		{speaker name}klein Lara
+		{command}heal 20
+	{answer}Nein
+{end question}

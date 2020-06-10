@@ -1,0 +1,9 @@
+{name}Wer bin Ich?
+{description}Du bist in einem Wald aufgewacht und hast deine Erinnerungen verloren. Finde mehr über dich herraus!
+{ID}5
+{type}M
+{status}H
+{settings}0
+{requirement}whoIam
+{task}speak-2-1
+{end}

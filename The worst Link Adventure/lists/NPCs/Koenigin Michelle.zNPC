@@ -1,0 +1,11 @@
+{ID}11
+{name}Königin Michelle
+
+{tileset}1
+{cutSizeX}16
+{cutSizeY}16
+{cutPosX}0
+{cutPosY}7
+
+{interactable}1
+{dialogID}2

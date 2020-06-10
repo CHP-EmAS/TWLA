@@ -1,0 +1,299 @@
+{bush}0,17,13,0
+{bush}1,18,14,0
+{bush}2,19,14,0
+{bush}3,20,13,0
+{bush}4,18,13,0
+{bush}5,19,13,0
+{bush}6,20,12,0
+{bush}7,18,12,0
+{bush}8,17,12,0
+{bush}9,19,12,0
+{bush}10,19,11,0
+{bush}11,18,11,0
+{bush}12,30,23,0
+{bush}13,30,22,0
+{bush}14,31,22,0
+{bush}15,31,23,0
+{bush}16,34,12,0
+{bush}17,35,11,0
+{bush}18,35,12,0
+{bush}19,49,21,0
+{bush}20,53,21,0
+{bush}21,49,10,0
+{bush}22,55,14,0
+{bush}23,58,11,0
+{bush}24,31,17,0
+{bush}25,25,16,0
+{bush}26,14,20,0
+{bush}27,50,16,0
+{bush}28,55,16,0
+{bush}29,57,25,0
+{bush}30,59,31,0
+{bush}31,57,35,0
+{bush}32,51,38,0
+{bush}33,36,32,0
+{bush}34,31,28,0
+{bush}35,32,28,0
+{bush}36,32,30,0
+{bush}37,30,29,0
+{bush}38,31,31,0
+{bush}39,30,32,0
+{bush}40,29,30,0
+{bush}41,33,29,0
+{bush}42,35,32,0
+{bush}43,54,26,0
+{bush}44,54,27,0
+{bush}45,55,28,0
+{bush}46,56,28,0
+{bush}47,57,28,0
+{bush}48,58,27,0
+{bush}49,57,26,0
+{bush}50,56,25,0
+{bush}51,55,25,0
+{bush}52,45,24,0
+{bush}53,68,20,0
+{bush}54,68,19,0
+{bush}55,67,19,0
+{bush}56,67,18,0
+{bush}57,66,18,0
+{bush}58,68,14,0
+{bush}59,69,14,0
+{bush}60,69,15,0
+{bush}61,80,21,0
+{bush}62,82,21,0
+{bush}63,78,28,0
+{bush}64,72,27,0
+{bush}65,70,27,0
+{bush}66,71,27,0
+{bush}67,73,27,0
+{bush}68,70,42,0
+{bush}69,70,40,0
+{bush}70,62,42,0
+{bush}71,63,41,0
+{bush}72,62,41,0
+{bush}73,63,42,0
+{bush}74,61,43,0
+{bush}75,64,40,0
+{bush}76,62,31,0
+{bush}77,63,30,0
+{bush}78,63,31,0
+{bush}79,84,34,0
+{bush}80,85,34,0
+{bush}81,87,34,0
+{bush}82,88,34,0
+{bush}83,83,35,0
+{bush}84,84,35,0
+{bush}85,85,35,0
+{bush}86,87,35,0
+{bush}87,88,35,0
+{bush}88,89,35,0
+{bush}89,88,36,0
+{bush}90,87,36,0
+{bush}91,86,36,0
+{bush}92,85,36,0
+{bush}93,84,36,0
+{bush}94,85,37,0
+{bush}95,86,37,0
+{bush}96,87,37,0
+{bush}97,86,38,0
+{bush}98,83,34,0
+{bush}99,89,34,0
+{bush}100,84,33,0
+{bush}101,85,33,0
+{bush}102,86,34,0
+{bush}103,87,33,0
+{bush}104,88,33,0
+{bush}105,82,24,0
+{bush}106,82,23,0
+{bush}107,83,23,0
+{bush}108,63,10,0
+{bush}109,63,13,0
+{sign}110,71,62,Ein Schatz!$enterWUUUUUUHUUUUUUU!!!!$enter$enter<3,0,255,0,0
+{bush}111,86,51,0
+{bush}112,80,63,1
+{bush}113,85,60,0
+{bush}114,86,60,0
+{bush}115,74,63,0
+{bush}116,75,63,0
+{bush}117,73,63,0
+{bush}118,72,63,0
+{bush}119,71,63,0
+{bush}120,70,63,0
+{bush}121,69,63,0
+{bush}122,76,62,0
+{bush}123,76,63,0
+{bush}124,67,53,0
+{bush}125,74,56,0
+{bush}126,76,56,0
+{bush}127,75,10,0
+{bush}128,77,10,0
+{bush}129,78,10,0
+{bush}130,76,10,0
+{bush}131,78,11,0
+{bush}132,77,12,0
+{bush}133,81,11,0
+{bush}134,68,10,0
+{bush}135,71,10,0
+{bush}136,44,14,0
+{bush}137,45,13,0
+{bush}138,46,13,0
+{bush}139,47,13,0
+{bush}140,48,14,0
+{bush}141,48,15,0
+{bush}142,48,16,0
+{bush}143,44,15,0
+{bush}144,44,16,0
+{bush}145,45,17,0
+{bush}146,47,17,0
+{bush}147,32,39,0
+{bush}148,39,42,0
+{bush}149,45,44,0
+{bush}150,58,55,0
+{bush}151,43,59,0
+{bush}152,36,48,0
+{sign}153,44,54,Sry bin Tot,25,255,255,1
+{sign}154,46,54,Ruhe in Frieden,25,255,255,1
+{sign}155,48,54,Hier ruht das schlechteste Spiel aller Zeiten,25,255,255,1
+{sign}156,50,54,ICH hatte die Vorfahrt...,25,255,255,1
+{sign}157,50,52,Seine letzten Worte waren: Ich starte jetzt mit -d?,25,255,255,1
+{sign}158,48,52,01001000 01101111 01101110 01101001 01100111 01101011 01100101 01101011 01110011,25,255,255,1
+{sign}159,46,52,Definitiv Tod$enter$enter$enter$entervlt..,25,255,255,1
+{sign}160,44,52,Mhh.. kann man nicht viel machen,25,255,255,1
+{sign}161,44,50,Hier ruht das Klollisionssystem aus Version 0.4,25,255,255,1
+{sign}162,50,50,Game Over,25,255,255,1
+{sign}163,43,47,Ich bin dann mal weg!,25,255,255,1
+{sign}164,45,47,Wer früher stirbt; ist länger tot.,25,255,255,1
+{sign}165,51,47,01001001 00100000 01001100 01101111 01110110 01100101 00100000 01111001 01101111 01110101 00101100 00100000 01001101 01101001 01101101 01101001 00100001,25,255,255,1
+{sign}166,49,47,Ich bin ein Star; holt mich hier raus!,25,255,255,1
+{bush}167,24,32,0
+{bush}168,24,33,0
+{bush}169,23,33,0
+{bush}170,22,33,0
+{bush}171,21,33,0
+{bush}172,20,33,0
+{bush}173,20,32,0
+{bush}174,20,31,0
+{bush}175,20,30,0
+{bush}176,20,29,0
+{bush}177,21,29,0
+{bush}178,22,29,0
+{bush}179,24,29,0
+{bush}180,23,29,0
+{bush}181,24,30,0
+{bush}182,8,18,0
+{bush}183,9,18,0
+{bush}184,9,19,0
+{bush}185,8,19,0
+{bush}186,8,23,1
+{bush}187,9,24,1
+{bush}188,9,23,1
+{bush}189,8,24,1
+{bush}190,38,9,0
+{bush}191,38,10,0
+{bush}192,38,11,0
+{bush}193,38,12,0
+{bush}194,38,13,0
+{bush}195,38,14,0
+{bush}196,38,15,0
+{bush}197,38,16,0
+{bush}198,38,17,0
+{bush}199,38,18,0
+{bush}200,43,19,0
+{bush}201,42,18,0
+{bush}202,42,16,0
+{bush}203,42,17,0
+{bush}204,42,15,0
+{bush}205,42,14,0
+{bush}206,42,13,0
+{bush}207,42,12,0
+{bush}208,42,11,0
+{bush}209,42,9,0
+{bush}210,42,10,0
+{bush}211,37,19,0
+{bush}212,32,18,0
+{bush}213,33,18,0
+{bush}214,35,18,0
+{bush}215,68,49,0
+{bush}216,69,53,0
+{bush}217,67,57,0
+{bush}218,63,59,0
+{bush}219,63,62,0
+{bush}220,62,62,0
+{bush}221,63,61,0
+{bush}222,59,59,0
+{bush}223,51,61,0
+{bush}224,50,58,0
+{bush}225,56,48,0
+{bush}226,34,62,0
+{bush}227,35,63,0
+{bush}228,33,63,0
+{bush}229,33,62,0
+{bush}230,35,62,0
+{bush}231,34,61,0
+{bush}232,32,63,0
+{bush}233,36,63,0
+{door}234,60,20,-1,Shop,0
+{portal}235,12,60,Sebara Wueste,0
+{portal}236,12,61,Sebara Wueste,0
+{portal}237,12,62,Sebara Wueste,0
+{portal}238,13,63,Sebara Wueste,0
+{portal}239,14,63,Sebara Wueste,0
+{portal}240,15,62,Sebara Wueste,0
+{portal}241,15,61,Sebara Wueste,0
+{portal}242,15,60,Sebara Wueste,0
+{door}243,11,12,-1,Haus,0
+{door}244,13,16,-1,Haus,1
+{door}245,20,21,-1,Haus,2
+{door}246,28,14,-1,Haus,3
+{portal}247,39,6,Schloss Vorhof,0
+{portal}248,40,6,Schloss Vorhof,0
+{portal}249,41,6,Schloss Vorhof,0
+{bush}250,86,35,0
+{chest}251,70,62,-1,10
+{cactus}252,8,65,0.500000
+{cactus}253,9,61,0.500000
+{cactus}254,23,63,0.500000
+{cactus}255,14,61,0.500000
+{stone}256,6,61,1
+{stone}257,19,63,1
+{stone}258,18,55,1
+{stone}259,8,46,1
+{door}260,56,20,-1,Haus,4
+{door}261,82,15,-1,Haus,5
+{door}262,72,13,-1,Haus,6
+{door}263,80,24,-1,Haus,8
+{door}264,74,32,-1,Haus,7
+{door}265,67,41,-1,Haus,9
+{s_bush}266,34,63,Geheimer Gang,0
+{key_stone}267,89,50,0,989
+{key_stone}268,89,51,0,989
+{portal}269,91,50,Toter Wald,0
+{portal}270,91,51,Toter Wald,0
+{trigger}271,46,16,0,0,,doDialog 2
+{portal}272,7,32,Berg Naru,0
+{portal}273,7,33,Berg Naru,0
+{sign}274,9,12,Hier wohnen Lara und Julia!,255,255,255,0
+{sign}275,70,46,$leftZum Friedhof$enter$downZum toten Wald,255,255,255,0
+{sign}276,65,41,Mindys Hausverkauf!$enterNur noch ein Haus!!!,255,255,255,0
+{sign}277,26,34,$upZur Stadt$enter$downZur Sebara Wueste$enter$rightZum Friedhof,255,255,255,0
+{sign}278,14,26,$up Zu Lara & Julia$enter$downZum Berg Naru,255,255,255,0
+{sign}279,57,21,Salih's Bomb Shop$enter$enterExplosiv guenstig!!!,255,255,255,0
+{sign}280,65,22,Willkommen in Pagotas!,255,255,255,0
+{sign}281,83,16,Forschungslabor$enter$enterLeitung: klein Lukas,255,255,0,0
+{sign}282,74,24,Zu verkaufen!,0,255,0,0
+{sign}283,76,28,Zu verkaufen!,0,255,0,0
+{sign}284,69,28,Zu verkaufen!,0,255,0,0
+{sign}285,65,33,Zu verkaufen!,0,255,0,0
+{sign}286,81,31,Zu verkaufen!,0,255,0,0
+{sign}287,88,29,Zu verkaufen!,0,255,0,0
+{sign}288,86,24,Zu verkaufen!,0,255,0,0
+{sign}289,35,19,Zu verkaufen!,0,255,0,0
+{sign}290,48,57,Friedhof von Pagotas$enter$enterBitte Ruhe!!,255,255,255,0
+{sign}291,42,19,$upZum Schloss Neara$enterZum Shop$right,255,255,255,0
+{sign}292,38,19,!!Missing!!$enterHat jemand Hasi gesehen?,255,0,255,0
+{sign}293,61,21,Soiopas Shoiop Shop,255,255,255,0
+{door}294,47,48,991,Mausoleum,0
+{door}295,34,17,992,$playername's Haus,0
+{sign}296,27,15,!!Missing!!$enterHat jemand Hasi gesehen?,255,0,255,0
+{sign}297,19,22,Hier wohnt jemand; aber der ist nie da!,255,255,255,0
+{sign}298,73,33,Hier wohnt Titus; der der nichts zu verbergen hat.,255,255,255,0

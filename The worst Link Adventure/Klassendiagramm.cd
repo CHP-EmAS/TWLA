@@ -1,0 +1,1138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InteractivObject" Collapsed="true">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="InteractivObject::ObjectType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>InteractivObject.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gCAgEAgkAAAAgACJAAIGgBAKAQAEAGCAaAhi4ACAgIg=</HashCode>
+      <FileName>InteractivObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BreakAbyss" Collapsed="true">
+    <Position X="10.75" Y="5.25" Width="1.5" />
+    <InheritanceLine Type="InteractivObject" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="4.562" />
+        <Point X="10.25" Y="5.562" />
+        <Point X="10.75" Y="5.562" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.03" Y="0.025" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAEAQAAAAAAAQAEACAAAAACAAAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bush" Collapsed="true">
+    <Position X="10.75" Y="8.25" Width="1.5" />
+    <InheritanceLine Type="InteractivObject">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.055" Y="0.06" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAEEAAAAAAAAAAFICAAAAACAAAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button" Collapsed="true">
+    <Position X="13.5" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="InteractivObject">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.52" Y="-0.071" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEwAAAAAIAAAAAAAAAAAAAAAAAAFACAAAAACAAEAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cactus" Collapsed="true">
+    <Position X="16.5" Y="8.25" Width="1.5" />
+    <InheritanceLine Type="InteractivObject" ManuallyRouted="true">
+      <Path>
+        <Point X="10.25" Y="4.562" />
+        <Point X="10.25" Y="4.937" />
+        <Point X="15.921" Y="4.937" />
+        <Point X="15.921" Y="8.596" />
+        <Point X="16.5" Y="8.596" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAIAAAAAAgAAAAAIAAAAAAAAEACAAAAACAAAAAAg=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chest" Collapsed="true">
+    <Position X="16.5" Y="9" Width="1.5" />
+    <InheritanceLine Type="InteractivObject" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="4.562" />
+        <Point X="10.25" Y="4.937" />
+        <Point X="15.926" Y="4.937" />
+        <Point X="15.926" Y="9.375" />
+        <Point X="16.5" Y="9.375" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAGQAAAAAAAIEACAAAAACACAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandDoor" Collapsed="true">
+    <Position X="10.75" Y="6" Width="1.5" />
+    <InheritanceLine Type="InteractivObject">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.047" Y="0.047" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAACAAAAAAAAAEAiIAAIACAAEAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Door" Collapsed="true">
+    <Position X="10.75" Y="9" Width="1.5" />
+    <InheritanceLine Type="InteractivObject">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.055" Y="0.06" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAAAAIAAAAGAAAQAAAAAAACAAAAAAACAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FragmentInserter" Collapsed="true">
+    <Position X="13.5" Y="7.5" Width="1.5" />
+    <InheritanceLine Type="InteractivObject">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.504" Y="-0.038" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAEACAAAIBCAAAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlobalWall" Collapsed="true">
+    <Position X="16.5" Y="6" Width="1.5" />
+    <InheritanceLine Type="InteractivObject" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="4.562" />
+        <Point X="10.25" Y="4.937" />
+        <Point X="15.936" Y="4.937" />
+        <Point X="15.936" Y="6.312" />
+        <Point X="16.5" Y="6.312" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>oAAAAAgAAAAAAAAAACAAAAABAAAEACAAAAACAAAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grabable_Tile" Collapsed="true">
+    <Position X="16.5" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="InteractivObject" ManuallyRouted="true">
+      <Path>
+        <Point X="10.25" Y="4.562" />
+        <Point X="10.25" Y="4.937" />
+        <Point X="15.922" Y="4.937" />
+        <Point X="15.922" Y="7.096" />
+        <Point X="16.5" Y="7.096" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAACAAAAAAEAAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jar" Collapsed="true">
+    <Position X="10.75" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="InteractivObject">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.06" Y="0.068" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAEABQAAAAAAAAEACAAAAACAAAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyStone" Collapsed="true">
+    <Position X="13.5" Y="5.25" Width="1.5" />
+    <InheritanceLine Type="InteractivObject" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="4.562" />
+        <Point X="10.25" Y="4.937" />
+        <Point X="13.125" Y="4.937" />
+        <Point X="13.125" Y="5.562" />
+        <Point X="13.5" Y="5.562" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.368" Y="-0.079" Height="0.182" Width="0.5" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAEAAAAAAAAGAAAAAAAAAFACAAAAACAAAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portal" Collapsed="true">
+    <Position X="13.5" Y="8.25" Width="1.5" />
+    <InheritanceLine Type="InteractivObject">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.504" Y="-0.038" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAQAAAAAAAAAIAAQAAAAAAACAEAAAAAAABAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Secret_Bush" Collapsed="true">
+    <Position X="16.5" Y="7.5" Width="1.5" />
+    <InheritanceLine Type="InteractivObject" ManuallyRouted="true">
+      <Path>
+        <Point X="10.25" Y="4.562" />
+        <Point X="10.25" Y="4.937" />
+        <Point X="15.928" Y="4.937" />
+        <Point X="15.928" Y="7.846" />
+        <Point X="16.5" Y="7.846" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAEAAAAAQAgAAAEACAAAAACAAAAAIA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sign" Collapsed="true">
+    <Position X="16.5" Y="5.25" Width="1.5" />
+    <InheritanceLine Type="InteractivObject" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="4.562" />
+        <Point X="10.25" Y="4.937" />
+        <Point X="15.924" Y="4.937" />
+        <Point X="15.924" Y="5.625" />
+        <Point X="16.5" Y="5.625" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAABAAAAAACAAAEAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stone" Collapsed="true">
+    <Position X="10.75" Y="7.5" Width="1.5" />
+    <InheritanceLine Type="InteractivObject">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.055" Y="0.06" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAQAAAFACAAEAACAAAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teleporter" Collapsed="true">
+    <Position X="13.5" Y="6" Width="1.5" />
+    <InheritanceLine Type="InteractivObject">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.479" Y="-0.121" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAIAAQAAAAAAACAEAgAAAAAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trigger" Collapsed="true">
+    <Position X="13.5" Y="9" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <InheritanceLine Type="InteractivObject">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.504" Y="-0.038" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAABAAAAAAAABAAAAAACAACAgAAIAAAAA=</HashCode>
+      <FileName>Objects.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kgFAAgAAAAAAgQBIAAYAABCAAAAVCCIAAACCYAAEABA=</HashCode>
+      <FileName>Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake" Collapsed="true">
+    <Position X="2.5" Y="6.25" Width="1.5" />
+    <InheritanceLine Type="Enemy" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="4.691" />
+        <Point X="6.25" Y="5.059" />
+        <Point X="4.579" Y="5.059" />
+        <Point X="4.579" Y="6.596" />
+        <Point X="4" Y="6.596" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAAABAAAACAAAIAAgsACAAAQCCAAAUAAA=</HashCode>
+      <FileName>Enemys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laser_Tower" Collapsed="true">
+    <Position X="2.5" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="Enemy" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="4.691" />
+        <Point X="6.25" Y="5.06" />
+        <Point X="4.57" Y="5.06" />
+        <Point X="4.57" Y="5.875" />
+        <Point X="4" Y="5.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IBAAAAAAAAACgEBAAAAQAAAQAAAMACAACACCAgAEgAA=</HashCode>
+      <FileName>Enemys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jumper" Collapsed="true">
+    <Position X="6" Y="6.25" Width="1.5" />
+    <InheritanceLine Type="Enemy" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="4.691" />
+        <Point X="6.25" Y="5.059" />
+        <Point X="5.438" Y="5.059" />
+        <Point X="5.438" Y="6.596" />
+        <Point X="6" Y="6.596" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAACAABAAQgCIAEAgAAVACAAgACCAQEEABA=</HashCode>
+      <FileName>Enemys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slime" Collapsed="true">
+    <Position X="2.5" Y="8.5" Width="1.5" />
+    <InheritanceLine Type="Enemy" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="4.691" />
+        <Point X="6.25" Y="5.059" />
+        <Point X="4.572" Y="5.059" />
+        <Point X="4.572" Y="8.846" />
+        <Point X="4" Y="8.846" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAIBAAQACIACAgABVACACgACCAAAGABA=</HashCode>
+      <FileName>Enemys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spike" Collapsed="true">
+    <Position X="2.5" Y="7" Width="1.5" />
+    <InheritanceLine Type="Enemy" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="4.691" />
+        <Point X="6.25" Y="5.066" />
+        <Point X="4.57" Y="5.066" />
+        <Point X="4.57" Y="7.346" />
+        <Point X="4" Y="7.346" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAgAAAAgADAAAACAAkAAAAEASAAAACCAgAEAAA=</HashCode>
+      <FileName>Enemys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost" Collapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="Enemy" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="4.691" />
+        <Point X="6.25" Y="5.055" />
+        <Point X="5.43" Y="5.055" />
+        <Point X="5.43" Y="5.875" />
+        <Point X="6" Y="5.875" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAkBAAAACAAAAAAAEASAAQACGAgAEAAA=</HashCode>
+      <FileName>Enemys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boss_Fly" Collapsed="true">
+    <Position X="6" Y="7.75" Width="1.5" />
+    <InheritanceLine Type="Enemy" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="4.691" />
+        <Point X="6.25" Y="5.067" />
+        <Point X="5.435" Y="5.067" />
+        <Point X="5.435" Y="8.096" />
+        <Point X="6" Y="8.096" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQCIgQAAABAADICAAAAAAAEACAAAACKAEAEACA=</HashCode>
+      <FileName>Enemys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gandalf" Collapsed="true">
+    <Position X="6" Y="8.5" Width="1.5" />
+    <InheritanceLine Type="Enemy" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="4.691" />
+        <Point X="6.25" Y="5.059" />
+        <Point X="5.428" Y="5.059" />
+        <Point X="5.428" Y="8.846" />
+        <Point X="6" Y="8.846" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAABAAANCAIAEAAAsAyQAAACCAAAEAQI=</HashCode>
+      <FileName>Enemys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pyramide" Collapsed="true">
+    <Position X="2.5" Y="7.75" Width="1.5" />
+    <InheritanceLine Type="Enemy" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="4.691" />
+        <Point X="6.25" Y="5.056" />
+        <Point X="4.57" Y="5.056" />
+        <Point X="4.57" Y="8.096" />
+        <Point X="4" Y="8.096" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AABAAgBAAQQAAABAAAICAAAAGAEMASEEBAiCAgAEABA=</HashCode>
+      <FileName>Enemys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Valac" Collapsed="true">
+    <Position X="6" Y="7" Width="1.5" />
+    <InheritanceLine Type="Enemy" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="4.691" />
+        <Point X="6.25" Y="5.055" />
+        <Point X="5.429" Y="5.055" />
+        <Point X="5.429" Y="7.346" />
+        <Point X="6" Y="7.346" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>EAABAAAQAAQAAABBAAoCAAEWQAAMADAABCCCEACFAIA=</HashCode>
+      <FileName>Enemys.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPC" Collapsed="true">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <InheritanceLine Type="moveable" FixedToPoint="true">
+      <Path>
+        <Point X="3.75" Y="2.562" />
+        <Point X="3.75" Y="3.625" />
+        <Point X="8" Y="3.625" />
+        <Point X="8" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>gAAAAACgAAAEgAAAAAYBBAAAEAAEAiBAIADCIIAEIBA=</HashCode>
+      <FileName>NPC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Particle" Collapsed="true">
+    <Position X="37.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIoAAAAAAAAACAAAAAIQAAADAAAAEoADAAAgAAFEAAA=</HashCode>
+      <FileName>Particle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle_Particle" Collapsed="true">
+    <Position X="38.75" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="Particle" FixedToPoint="true">
+      <Path>
+        <Point X="38.25" Y="5.062" />
+        <Point X="38.25" Y="5.813" />
+        <Point X="38.75" Y="5.813" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAAEDAA=</HashCode>
+      <FileName>Circle_Particle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangle_Particle" Collapsed="true">
+    <Position X="38.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAIAAAAAAAAAAAAAAAABAAAEBAA=</HashCode>
+      <FileName>Rectangle_Particle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite_Particle" Collapsed="true">
+    <Position X="36.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAABAIAAAAAABAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Sprite_Particle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Text_Particle" Collapsed="true">
+    <Position X="36.25" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="Particle" FixedToPoint="true">
+      <Path>
+        <Point X="38.25" Y="5.062" />
+        <Point X="38.25" Y="5.813" />
+        <Point X="37.75" Y="5.813" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAMAAABAAQAAgAAKAAAIAAAUAAA=</HashCode>
+      <FileName>Text_Particle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapon" Collapsed="true">
+    <Position X="22" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACAAAgCAAgAAAAAIACAAAQAAAAIgBAIAAAACEAAA=</HashCode>
+      <FileName>Weapon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons::Bomb" Collapsed="true">
+    <Position X="20.5" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="Weapon" FixedToPoint="true">
+      <Path>
+        <Point X="22.75" Y="5.312" />
+        <Point X="22.75" Y="6.062" />
+        <Point X="22" Y="6.062" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAIAAAICAAAAIAAAAAAAAIIgAAAAEAAA=</HashCode>
+      <FileName>Weapons.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons::Sword" Collapsed="true">
+    <Position X="20.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAIAAAQAAAAEBAAAAAAAAQAAIYAAAASMAAA=</HashCode>
+      <FileName>Weapons.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons::Bow_Arrow" Collapsed="true">
+    <Position X="23.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAAAAAAAAAAABAAAAAAAAAAgAQAABAIAAACEAAA=</HashCode>
+      <FileName>Weapons.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons::Boomerang" Collapsed="true">
+    <Position X="20.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIAEBAAAAAAAAAAAAgAAAAQAAAQgAAIIAAACkEAA=</HashCode>
+      <FileName>Weapons.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons::Grapplinghook" Collapsed="true">
+    <Position X="23.5" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="Weapon" FixedToPoint="true">
+      <Path>
+        <Point X="22.75" Y="5.312" />
+        <Point X="22.75" Y="6.062" />
+        <Point X="23.5" Y="6.062" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAwBFAAAAACABAAAAJAgAAAAAAABRwAAIJAAACkAAA=</HashCode>
+      <FileName>Weapons.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons::ArrowBomb" Collapsed="true">
+    <Position X="23.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAgAAAACAAAAAgAAAAAAQAAAAIAAACEAAA=</HashCode>
+      <FileName>Weapons.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons::Laser" Collapsed="true">
+    <Position X="20.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAIAACgAABAgAAIAgAAAAEAAAAAEAoAAAAAEEBA=</HashCode>
+      <FileName>Weapons.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapons::Magic" Collapsed="true">
+    <Position X="23.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAMwEAAAAAAACAAABAAAAEAIQAAQCAAAIAAACEEAA=</HashCode>
+      <FileName>Weapons.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collision_System" Collapsed="true">
+    <Position X="25.75" Y="3.25" Width="2" />
+    <InheritanceLine Type="Singleton&lt;C&gt;" FixedToPoint="true">
+      <Path>
+        <Point X="30.75" Y="1.062" />
+        <Point X="30.75" Y="3.625" />
+        <Point X="27.75" Y="3.625" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ASAEAgACAAAAAAAAAQCAAAAAIEAAQAQAAACAAACAAQA=</HashCode>
+      <FileName>Collision_System.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HUD" Collapsed="true">
+    <Position X="19.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwEAAAEEAAAAAAQAAUIARAsAAGBABACCAEAYaARhAQE=</HashCode>
+      <FileName>HUD.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InGame_Stats" Collapsed="true">
+    <Position X="21.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAMAEgAABAgIAAAAAAQEBAEUAAJAAEAGAAA=</HashCode>
+      <FileName>InGame_Stats.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item_List" Collapsed="true">
+    <Position X="28.75" Y="2" Width="1.5" />
+    <InheritanceLine Type="Singleton&lt;C&gt;" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="30.75" Y="1.062" />
+        <Point X="30.75" Y="1.31" />
+        <Point X="29.562" Y="1.31" />
+        <Point X="29.562" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAwAAAAACAAAAAAAAAAAAAAAQKEAACAAgAAAA=</HashCode>
+      <FileName>Item_List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map" Collapsed="true">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIgkMSAAABCAggCAACAQAgCSAAgGAIAA+ECMAVEAgAA=</HashCode>
+      <FileName>Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="moveable" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GCAAAABwAAIgAACBAABACAAAEAAAMIABgABgRAAAAAA=</HashCode>
+      <FileName>moveable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quest" Collapsed="true">
+    <Position X="23.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQYAAAIACAAgMBABBACBAgAAAAABAAAAiEABAAAABAA=</HashCode>
+      <FileName>Quest.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dialog_Manager" Collapsed="true">
+    <Position X="13.75" Y="2" Width="2" />
+    <InheritanceLine Type="Singleton&lt;C&gt;" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="30.75" Y="1.062" />
+        <Point X="30.75" Y="1.31" />
+        <Point X="14.75" Y="1.31" />
+        <Point X="14.75" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAIAKAAAAAAALAAACAAACAAAAAE=</HashCode>
+      <FileName>Dialog_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_Manager" Collapsed="true">
+    <Position X="26.5" Y="2" Width="2" />
+    <InheritanceLine Type="Singleton&lt;C&gt;" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="30.75" Y="1.062" />
+        <Point X="30.75" Y="1.305" />
+        <Point X="27.438" Y="1.305" />
+        <Point X="27.438" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAEIgACYAAIUAAAQACAAEAggEDAQEAIABTFAAAKAIgE=</HashCode>
+      <FileName>Inventory_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map_Manager" Collapsed="true">
+    <Position X="9" Y="2" Width="1.75" />
+    <Members>
+      <Field Name="currentMap" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <InheritanceLine Type="Singleton&lt;C&gt;" ManuallyRouted="true">
+      <Path>
+        <Point X="30.75" Y="1.062" />
+        <Point X="30.75" Y="1.295" />
+        <Point X="9.875" Y="1.295" />
+        <Point X="9.875" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>EABAAwAAACAAEClCBABAAIAQAQi0MIABAAEiFQSBAAA=</HashCode>
+      <FileName>Map_Manager.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="currentMap" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Message_Manager" Collapsed="true">
+    <Position X="16" Y="2" Width="2" />
+    <InheritanceLine Type="Singleton&lt;C&gt;" ManuallyRouted="true">
+      <Path>
+        <Point X="30.75" Y="1.062" />
+        <Point X="30.75" Y="1.304" />
+        <Point X="17" Y="1.304" />
+        <Point X="17" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AiQCAAgADAAAYAAAAAGgCAABQAAMAAAjAACAQAAAQAY=</HashCode>
+      <FileName>Message_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPC_Manager" Collapsed="true">
+    <Position X="6" Y="2" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <InheritanceLine Type="Singleton&lt;C&gt;" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="30.75" Y="1.062" />
+        <Point X="30.75" Y="1.311" />
+        <Point X="6.875" Y="1.311" />
+        <Point X="6.875" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AACIAAAEgIAAAIAgAUAQIQABACAggEAAAhAAIhABAwA=</HashCode>
+      <FileName>NPC_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Particle_Manager" Collapsed="true">
+    <Position X="37.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAxACEAIAAACAAgIAAAAAAAAAAAgAAAABQAAAA=</HashCode>
+      <FileName>Particle_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_Manager" Collapsed="true">
+    <Position X="20.25" Y="2" Width="1.75" />
+    <InheritanceLine Type="Singleton&lt;C&gt;" ManuallyRouted="true">
+      <Path>
+        <Point X="30.75" Y="1.062" />
+        <Point X="30.75" Y="1.309" />
+        <Point X="21.125" Y="1.309" />
+        <Point X="21.125" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>HCjaWGDSauGghgPYgAwwuJVHEgBifJfGIaDk71kEBzg=</HashCode>
+      <FileName>Player_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quest_Manager" Collapsed="true">
+    <Position X="23.75" Y="2" Width="1.75" />
+    <InheritanceLine Type="Singleton&lt;C&gt;" ManuallyRouted="true">
+      <Path>
+        <Point X="30.75" Y="1.062" />
+        <Point X="30.75" Y="1.303" />
+        <Point X="24.625" Y="1.303" />
+        <Point X="24.625" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAIggAEAAAABAAGAAAAAAAAAAAAAAAAgEAQAAAAAA=</HashCode>
+      <FileName>Quest_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapon_Manager" Collapsed="true">
+    <Position X="25.75" Y="4.5" Width="2" />
+    <InheritanceLine Type="Singleton&lt;C&gt;" FixedToPoint="true">
+      <Path>
+        <Point X="30.75" Y="1.062" />
+        <Point X="30.75" Y="4.812" />
+        <Point X="27.75" Y="4.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAEAAAAABgAAAAAAAEQAAACBBBACAAAAARIAAA=</HashCode>
+      <FileName>Weapon_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Singleton&lt;C&gt;" Collapsed="true">
+    <Position X="30" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAGAAAAQAAAAAAEABAAAAAAAAAA=</HashCode>
+      <FileName>Main_Defines.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animation_Manager" Collapsed="true">
+    <Position X="33.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABAAABAAIAQAAAAAIAQABAgAABAAAEAAAAAAAAA=</HashCode>
+      <FileName>Animation_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Command_Manager" Collapsed="true">
+    <Position X="37.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAAAAAAAAAAQAAgEABAAAAAAAAA=</HashCode>
+      <FileName>Command_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File_Manager" Collapsed="true">
+    <Position X="41.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABQAAgAAIFwAgAAAAJAAAAAAAAACAAAEAAAAEAAI=</HashCode>
+      <FileName>File_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphic_Manager" Collapsed="true">
+    <Position X="35.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AXAAAAigJAAAFgEAUAAJABABAwAAABIIEAACQBAgBBA=</HashCode>
+      <FileName>Graphic_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Screen_Manager" Collapsed="true">
+    <Position X="39.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQCAoFBiAAQgBICgKIwQShBAAQAQhAAMALGJIABABA=</HashCode>
+      <FileName>Screen_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sound_Manager" Collapsed="true">
+    <Position X="43.75" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="Singleton&lt;C&gt;" ManuallyRouted="true">
+      <Path>
+        <Point X="30.75" Y="1.062" />
+        <Point X="30.75" Y="1.317" />
+        <Point X="44.5" Y="1.317" />
+        <Point X="44.5" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>wUdBMCQzoEQIDACgFEGMgIAjMGCAhGNECMEFbAEbBJY=</HashCode>
+      <FileName>Sound_Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bomb_Shop_Screen" Collapsed="true">
+    <Position X="43.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="43.237" Y="4.125" />
+        <Point X="43.237" Y="4.812" />
+        <Point X="43.75" Y="4.812" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.06" Y="0.028" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAABAKCAQAKEAKAABCSAAAAAACAIAFAABAAAAQAAEAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Credits_Screen" Collapsed="true">
+    <Position X="43.75" Y="5.25" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="43.241" Y="4.125" />
+        <Point X="43.241" Y="5.596" />
+        <Point X="43.75" Y="5.596" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.06" Y="0.028" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ABBAAACAwAAEAagAgKAQEAAAACIIUAAAAIAAAEAAAAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flute_Screen" Collapsed="true">
+    <Position X="43.75" Y="6" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="43.241" Y="4.125" />
+        <Point X="43.241" Y="6.346" />
+        <Point X="43.75" Y="6.346" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.06" Y="0.028" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAaAAEAKAhAKACAQAwBKAcCAAAIABCQRAAIBA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Over_Screen" Collapsed="true">
+    <Position X="46.25" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="45.561" Y="4.125" />
+        <Point X="45.561" Y="4.812" />
+        <Point X="46.25" Y="4.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAECAQQQEEKAAAIAAAAAAACIIAwAAAAAAAABABAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Screen" Collapsed="true">
+    <Position X="48.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="48.18" Y="4.125" />
+        <Point X="48.18" Y="4.812" />
+        <Point X="48.75" Y="4.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAACAQAAEAKAAAAAIAAAAASAYAIAAABAAAAAAAAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory_Screen" Collapsed="true">
+    <Position X="41.25" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.812" />
+        <Point X="41.25" Y="4.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAEAABSYQAAEAKEAAEAEDAAACGAqAAIABABAABAQhAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Load_Game_Screen" Collapsed="true">
+    <Position X="41.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBBAACAQAAECKAAAEABAAAACCAoBBAgAQAgKABQpQA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logo_Screen" Collapsed="true">
+    <Position X="46.25" Y="5.25" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="45.561" Y="4.125" />
+        <Point X="45.561" Y="5.596" />
+        <Point X="46.25" Y="5.596" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BCAAAACQRAAEAKAAAADAAAQEBCAIAACEAAEAEAAAIAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Menue" Collapsed="true">
+    <Position X="48.75" Y="5.25" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="48.188" Y="4.125" />
+        <Point X="48.188" Y="5.596" />
+        <Point X="48.75" Y="5.596" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAICAQAAEAKAgAABgAAABBCAIAACAIAACQAAAIAQ=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="New_Game_Screen" Collapsed="true">
+    <Position X="46.25" Y="6" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="45.564" Y="4.125" />
+        <Point X="45.564" Y="6.346" />
+        <Point X="46.25" Y="6.346" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QABAAACAQAAEAOAAgEAAAAAAACQIAAAAAAAAIBQABAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Options_Menue" Collapsed="true">
+    <Position X="43.75" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="43.241" Y="4.125" />
+        <Point X="43.241" Y="7.096" />
+        <Point X="43.75" Y="7.096" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.06" Y="0.027" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAACAQAAEAKAAGEAABIAIACBMAADCQAIAEAAAgAQ=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pause_Screen" Collapsed="true">
+    <Position X="41.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACCQAAEAKAEAIEAAgAAACAMDAgwAgIAAAEABJA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Screen" Collapsed="true">
+    <Position X="48.75" Y="6" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="48.183" Y="4.125" />
+        <Point X="48.183" Y="6.346" />
+        <Point X="48.75" Y="6.346" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAICAQAIEEKAAAASAACAIAGAMABAEBCACAQAAEAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Potion_Shop_Screen" Collapsed="true">
+    <Position X="46.25" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="45.561" Y="4.125" />
+        <Point X="45.561" Y="7.096" />
+        <Point X="46.25" Y="7.096" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QAABAICAQAIEAKAAAASAAAAEACAIABAABBAAAQAAEAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quest_Screen" Collapsed="true">
+    <Position X="48.75" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="Screen" ManuallyRouted="true">
+      <Path>
+        <Point X="40.75" Y="3.812" />
+        <Point X="40.75" Y="4.125" />
+        <Point X="48.186" Y="4.125" />
+        <Point X="48.186" Y="7.096" />
+        <Point X="48.75" Y="7.096" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAACASAAEAKIICAABIAAABCAIABAAKgAQAQBQAAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Stats_Screen" Collapsed="true">
+    <Position X="41.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAACAQAAEAKAAAAACCAAABiAKAAAAAAAAAQAQAAA=</HashCode>
+      <FileName>Screens.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Screen" Collapsed="true">
+    <Position X="40" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACIGAQAIEAKAABAAACAAAACAJACAEAAABAAAAAAA=</HashCode>
+      <FileName>Screen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scale_Ani" Collapsed="true">
+    <Position X="32" Y="4" Width="1.5" />
+    <InheritanceLine Type="Animation" FixedToPoint="true">
+      <Path>
+        <Point X="34" Y="3.312" />
+        <Point X="34" Y="4.312" />
+        <Point X="33.5" Y="4.312" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ACAAEAACAAAAAAAAAAAAAAEAAAAEAIAAAgAAAAAAAgA=</HashCode>
+      <FileName>Scale_Ani.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Explosion_Ani" Collapsed="true">
+    <Position X="34.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAQAAAAAgAAAAAAEAIACAAAgAAAABAA=</HashCode>
+      <FileName>Explosion_Ani.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Img_Explosion_Ani" Collapsed="true">
+    <Position X="34.5" Y="4" Width="1.5" />
+    <InheritanceLine Type="Animation" FixedToPoint="true">
+      <Path>
+        <Point X="34" Y="3.312" />
+        <Point X="34" Y="4.312" />
+        <Point X="34.5" Y="4.312" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAgAAAACAEABAAEAAAAAFAIABAAgAAABAAAA=</HashCode>
+      <FileName>Img_Explosion_Ani.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blink_Ani" Collapsed="true">
+    <Position X="32" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABCAEAACAAAAAACEAqAAAAAABAAAAAI=</HashCode>
+      <FileName>Blink_Ani.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animation" Collapsed="true">
+    <Position X="33.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAgAAAAAAAEAAAAAAAAAAEAAAE=</HashCode>
+      <FileName>Animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

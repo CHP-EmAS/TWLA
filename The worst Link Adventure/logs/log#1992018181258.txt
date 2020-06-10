@@ -1,0 +1,48 @@
+[NEW]- Neuer Screen_Manager wurde erstellt! (00CF5E70)
+[INFO]- Debug = ON
+
+[INFO]- Nowendige Manager werden geladen
+
+[NEW]- Neuer Command_Manager wurde erstellt! (09E5B1F8)
+[NEW]- Neuer Graphic_Manager wurde erstellt! (09E5C980)
+
+[INFO]- Tilesets werden geladen...
+[CHECK]- People Tileset wurde erfolgreich geladen!
+[CHECK]- Overworld Tileset wurde erfolgreich geladen!
+[CHECK]- Baum Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Burg Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Kerker Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Lava Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Schloss Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Turm Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wasser Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Wuesten Dungeon Tileset wurde erfolgreich geladen!
+[CHECK]- Haus Tileset wurde erfolgreich geladen!
+[CHECK]- Schattenwelt Tileset wurde erfolgreich geladen!
+
+[INFO]- Sonstige Grafiken werden geladen...
+[CHECK]- Explosions Grafiken wurde erfolgreich geladen!
+[CHECK]- Wasser-Animation wurde erfolgreich geladen!
+[CHECK]- Lava-Animation wurde erfolgreich geladen!
+
+[INFO]- Schriftarten werden geladen...
+[CHECK]- Schriftart Arial wurde erfolgreich geladen!
+[CHECK]- Schriftart Pixel wurde erfolgreich geladen!
+
+[CHECK]- Midna Texture wurde erfolgreich geladen!
+[CHECK]- Midna Texture 2 wurde erfolgreich geladen!
+[NEW]- Neuer Animation_Manager wurde erstellt! (09F6C4C8)
+[NEW]- Neuer Particle_Manager wurde erstellet! (09F6C380)
+[NEW]- Neuer Sound_Manager wurde erstellt! (09F6ED28)
+Delete All SOUNDS
+
+[INFO]- Beenden!
+
+Delete All SOUNDS
+Delete All SOUNDS
+[DELETE]- Graphic_Manager wurde geloescht!	(09E5C980)
+[DELETE]- Command_Manager wurde geloescht!	(09E5B1F8)
+[DELETE]- Animation_Manager wurde geloescht!	(09F6C4C8)
+[DELETE]- Particle_Manager wurde geloescht!	(09F6C380)
+Delete All SOUNDS
+[DELETE]- Sound_Manager wurde geloescht!	(09F6ED28)

@@ -1,0 +1,9 @@
+{ID}9997
+
+{next section}
+	{quest command}9997-0
+	{command}doObjectCmd cmd:close 4
+	{command}setEnemyActivity 0 1
+{next section}
+	{requirement}9997-0
+{end sections}

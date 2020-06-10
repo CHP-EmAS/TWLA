@@ -1,0 +1,9 @@
+{name}Der Schlüssel
+{description}Finde den Schlüssel für das Waldtor, es soll sich an einem dunklen Ort befinden! Vielleicht in einer Höhle oder so?
+{ID}6
+{type}M
+{status}H
+{settings}0
+{requirement}speak-3-0
+{task}found-999
+{end}

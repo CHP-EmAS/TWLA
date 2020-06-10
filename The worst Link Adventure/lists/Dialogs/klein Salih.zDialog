@@ -1,0 +1,28 @@
+{ID}6
+
+{next section}
+	{quest command}speak-6-0
+	{speaker name}???
+	{text}Willkommen in Salih's Bomber Shop!
+	{text}Ich habe hier explosiv günstige Preise!
+	{speaker name}klein Salih
+	{text}Ich bin Salih, der Experte für alles was knallt!
+	{do question}FrageKaufen
+{next section}
+	{requirement}speak-6-0
+	{speaker name}klein Salih
+	{text}Guten Tag, $playername!
+	{text}Schön dich wieder zu sehen!
+	{do question}FrageKaufen
+{end sections}
+
+{question}FrageKaufen
+	{question text}Möchtest du was kaufen?
+	{answer}Ja
+		{speaker name}klein Salih
+		{text}Yippi!!!!
+		{command}openBombShop
+	{answer}Nein
+		{speaker name}klein Salih
+		{text}Ok$enterAuf Wiedersehen!!
+{end question}
