@@ -38,11 +38,6 @@ void checkEvents()
 	}
 }
 
-void startNetworkLoop()
-{
-	//Network_Manager::getMe();
-}
-
 //https://github.com/CHP-EmAS/TWLA
 
 int main(int argc, char * argv[])
@@ -74,7 +69,7 @@ int main(int argc, char * argv[])
 		ShowWindow( GetConsoleWindow(), SW_HIDE);
 	}
 
-	//Alle unabhänigen Manager laden
+	//Alle unabhï¿½nigen Manager laden
 	if(debug){IOUT("Debug = ON\n")}
 	else{IOUT("Debug = OFF\n")}
 
@@ -145,7 +140,7 @@ int main(int argc, char * argv[])
 		updateWaitTime = updateWaitDelay - updateClock.getElapsedTime().asMicroseconds();
 		drawWaitTime = drawWaitDelay - drawClock.getElapsedTime().asMicroseconds();
 
-		//Damit nicht ständig wiederholt wird, gegebenenfalls warten
+		//Damit nicht stï¿½ndig wiederholt wird, gegebenenfalls warten
 		if(updateWaitTime<=drawWaitTime)
 		{
 			if(updateWaitTime-500 > 0)
@@ -165,14 +160,14 @@ int main(int argc, char * argv[])
 
 	Screen_Manager::getMe().deleteScreens();
 
-	//Alle Manager löschen
+	//Alle Manager lï¿½schen
 	Graphic_Manager::deleteMe();
 	Command_Manager::deleteMe(); 
 	Animation_Manager::deleteMe();
 	Particle_Manager::deleteMe();
 	Sound_Manager::deleteMe();
 
-	//Muss als letztes gelöscht werden
+	//Muss als letztes gelï¿½scht werden
 	Screen_Manager::deleteMe();
 	File_Manager::deleteMe();
 
